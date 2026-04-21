@@ -127,3 +127,12 @@ NANOBOT_INTERVAL_MS=60000
 
 - 核心全自动执行依赖于大模型 API Token（如果是使用专有的 `@openai/codex-sdk` 模式）。否则后台系统会自动降级（Fall back）到本地兜底模式。
 - 一切知识都**落盘为可见的文件体系（File-backed）**，全量在 `data/` 目录下。没有任何不可观测的技术黑盒，随时可以使用 Markdown 文档编辑器手工介入。
+
+---
+
+## 📜 Project Declaration & License
+
+- **License**: This project is open-sourced under the [MIT License](LICENSE). You are fully free to use, modify, and distribute the codebase, provided that the original copyright notice is properly retained.
+- **Experimental Engineering**: "Knowledge Foundry" is an experimental implementation mapping Andrej Karpathy's conceptual design of the **"LLM OS"** into a functional workspace. The multi-agent pipeline is actively evolving and the autonomous behavior of its agents remains conceptually unpredictable.
+- **Data Sovereignty & Privacy**: We strictly adhere to the principle of absolute local-first data ownership. All your raw inputs, parsed documents, and synthesized wiki nodes are **100% stored locally** in your `data/` folder as plain text Markdown and JSON files. The workspace will never collect your knowledge base for outside commercial LLM training.
+
