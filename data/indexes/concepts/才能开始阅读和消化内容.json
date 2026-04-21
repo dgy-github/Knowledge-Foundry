@@ -1,0 +1,55 @@
+{
+  "slug": "才能开始阅读和消化内容",
+  "label": "才能开始阅读和消化内容",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951"
+  ],
+  "sourceIds": [
+    "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "sectionHeadings": [
+    "概念碰撞"
+  ],
+  "tokens": [
+    "才能开始阅读和消化内容"
+  ],
+  "evidence": [
+    {
+      "text": "传统意义上的**“重点仓库封面墙”**往往扮演着数字图书馆大门的角色——它是一张静态的图片或图标的集合，用于提示用户“这里有什么”。用户必须点击封面，进入仓库深处，才能开始阅读和消化内容。",
+      "sectionHeading": "概念碰撞",
+      "sectionSlug": "概念碰撞",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 15,
+        "endLine": 15
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "知识脉络的可视化重构",
+        "概念碰撞"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

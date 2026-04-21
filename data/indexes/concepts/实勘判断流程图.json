@@ -1,0 +1,106 @@
+{
+  "slug": "实勘判断流程图",
+  "label": "实勘判断流程图",
+  "kinds": [
+    "section",
+    "wikilink"
+  ],
+  "sourceTitles": [
+    "500_AI_Agents_Projects_README_仓库实勘报告.md",
+    "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899"
+  ],
+  "sourceIds": [
+    "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+    "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sourcePaths": [
+    "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+    "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-500-ai-agents-projects-readme-仓库实勘报告-md.md",
+    "data/wiki/source-insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sectionHeadings": [
+    "1. 背景冲突",
+    "实勘判断流程图",
+    "🌌 Evolution Cross-Pollination"
+  ],
+  "tokens": [
+    "实勘判断流程图"
+  ],
+  "evidence": [
+    {
+      "text": "实勘判断流程图",
+      "sectionHeading": "实勘判断流程图",
+      "sectionSlug": "实勘判断流程图",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 28,
+        "endLine": 28
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "实勘判断流程图"
+      ],
+      "sourceId": "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceTitle": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sourcePath": "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceQuality": 77
+    },
+    {
+      "text": "传统的**实勘判断流程图**是线性的、逻辑的、二元对立的（是/否、通过/不通过）。它要求我们将复杂的现场体验填入预设的方框中。然而，真实的现场充满了模糊性和氛围感，这是流程图难以捕捉的。",
+      "sectionHeading": "1. 背景冲突",
+      "sectionSlug": "1-背景冲突",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 14,
+        "endLine": 14
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "涌现式现场判断：从流程图到张力图谱",
+        "1. 背景冲突"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    },
+    {
+      "text": "**B**: [[实勘判断流程图]]",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "sectionSlug": "evolution-cross-pollination",
+      "quoteSpan": {
+        "kind": "block:list",
+        "startLine": 5,
+        "endLine": 5
+      },
+      "evidenceKind": "list",
+      "blockImportance": 58,
+      "evidenceWeight": 28,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770963899: 涌现式现场判断：用‘核心张力’替代线性流程",
+        "🌌 Evolution Cross-Pollination"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 77,
+    "averageSourceQuality": 69.67
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "compile",
+  "label": "Compile",
+  "kinds": [
+    "wikilink"
+  ],
+  "sourceTitles": [
+    "Insight 语义编译 超越格式的知识重塑 1776769497132"
+  ],
+  "sourceIds": [
+    "insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "sectionHeadings": [
+    "🌌 Evolution Cross-Pollination"
+  ],
+  "tokens": [
+    "compile"
+  ],
+  "evidence": [
+    {
+      "text": "**B**: [[Compile]]",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "sectionSlug": "evolution-cross-pollination",
+      "quoteSpan": {
+        "kind": "block:list",
+        "startLine": 5,
+        "endLine": 5
+      },
+      "evidenceKind": "list",
+      "blockImportance": 66,
+      "evidenceWeight": 28,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776769497132: 语义编译：超越格式的知识重塑",
+        "🌌 Evolution Cross-Pollination"
+      ],
+      "sourceId": "insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceTitle": "Insight 语义编译 超越格式的知识重塑 1776769497132",
+      "sourcePath": "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

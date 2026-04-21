@@ -1,0 +1,54 @@
+{
+  "slug": "剥离外壳的思想核聚变",
+  "label": "剥离外壳的思想核聚变",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 原子化洞察 超越解析器的核心综合法 1776770210776"
+  ],
+  "sourceIds": [
+    "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-原子化洞察-超越解析器的核心综合法-1776770210776.md"
+  ],
+  "sectionHeadings": [
+    "核心综合法：剥离外壳的思想核聚变"
+  ],
+  "tokens": [
+    "剥离外壳的思想核聚变"
+  ],
+  "evidence": [
+    {
+      "text": "核心综合法：剥离外壳的思想核聚变",
+      "sectionHeading": "核心综合法：剥离外壳的思想核聚变",
+      "sectionSlug": "核心综合法-剥离外壳的思想核聚变",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 11,
+        "endLine": 11
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "核心综合法：剥离外壳的思想核聚变"
+      ],
+      "sourceId": "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceTitle": "Insight 原子化洞察 超越解析器的核心综合法 1776770210776",
+      "sourcePath": "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceQuality": 64
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 64,
+    "averageSourceQuality": 64
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

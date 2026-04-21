@@ -1,0 +1,56 @@
+{
+  "slug": "编译不仅是语法的转换",
+  "label": "编译不仅是语法的转换",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 超越语法 知识合成的直接语义编译 1776770083886"
+  ],
+  "sourceIds": [
+    "insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "sectionHeadings": [
+    "编译器的深层隐喻"
+  ],
+  "tokens": [
+    "编译不仅是语法的转换"
+  ],
+  "evidence": [
+    {
+      "text": "概念B提出了一个迷人的视角：**编译不仅是语法的转换，本质上是语义的合成**。编译器并不关心代码写得多漂亮，它关心的是符号之间的逻辑依赖和最终的执行意义。它将分散的指令块融合为一个有机的整体。",
+      "sectionHeading": "编译器的深层隐喻",
+      "sectionSlug": "编译器的深层隐喻",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 17,
+        "endLine": 17
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770083886: 超越语法：知识合成的直接语义编译",
+        "语义优先：从Markdown解析到直接编译",
+        "编译器的深层隐喻"
+      ],
+      "sourceId": "insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceTitle": "Insight 超越语法 知识合成的直接语义编译 1776770083886",
+      "sourcePath": "data/raw/insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceQuality": 57
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 57,
+    "averageSourceQuality": 57
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

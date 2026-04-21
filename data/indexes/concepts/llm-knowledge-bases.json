@@ -1,0 +1,56 @@
+{
+  "slug": "llm-knowledge-bases",
+  "label": "Llm Knowledge Bases",
+  "kinds": [
+    "source-title"
+  ],
+  "sourceTitles": [
+    "Llm Knowledge Bases"
+  ],
+  "sourceIds": [
+    "llm-knowledge-bases.md"
+  ],
+  "sourcePaths": [
+    "data/raw/llm-knowledge-bases.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-llm-knowledge-bases.md"
+  ],
+  "sectionHeadings": [
+    "LLM Knowledge Bases test"
+  ],
+  "tokens": [
+    "bases",
+    "knowledge",
+    "llm"
+  ],
+  "evidence": [
+    {
+      "text": "LLM Knowledge Bases test",
+      "sectionHeading": "LLM Knowledge Bases test",
+      "sectionSlug": "llm-knowledge-bases-test",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 1,
+        "endLine": 1
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "LLM Knowledge Bases test"
+      ],
+      "sourceId": "llm-knowledge-bases.md",
+      "sourceTitle": "Llm Knowledge Bases",
+      "sourcePath": "data/raw/llm-knowledge-bases.md",
+      "sourceQuality": 34
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 34,
+    "averageSourceQuality": 34
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "evidence",
+  "label": "Evidence",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "Synthesis Notes"
+  ],
+  "sourceIds": [
+    "synthesis-notes.md"
+  ],
+  "sourcePaths": [
+    "data/raw/synthesis-notes.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-synthesis-notes.md"
+  ],
+  "sectionHeadings": [
+    "Evidence"
+  ],
+  "tokens": [
+    "evidence"
+  ],
+  "evidence": [
+    {
+      "text": "Evidence",
+      "sectionHeading": "Evidence",
+      "sectionSlug": "evidence",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 9,
+        "endLine": 9
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 100,
+      "evidenceWeight": 36,
+      "taxonomy": "article.evidence",
+      "sectionPath": [
+        "Synthesis Notes",
+        "Evidence"
+      ],
+      "sourceId": "synthesis-notes.md",
+      "sourceTitle": "Synthesis Notes",
+      "sourcePath": "data/raw/synthesis-notes.md",
+      "sourceQuality": 57
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 57,
+    "averageSourceQuality": 57
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "安全",
+  "label": "安全",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "500_AI_Agents_Projects_README_仓库实勘报告.md"
+  ],
+  "sourceIds": [
+    "500-ai-agents-projects-readme-仓库实勘报告-md.md"
+  ],
+  "sourcePaths": [
+    "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-500-ai-agents-projects-readme-仓库实勘报告-md.md"
+  ],
+  "sectionHeadings": [
+    "一页结论",
+    "第二组重点仓库封面墙"
+  ],
+  "tokens": [
+    "安全"
+  ],
+  "evidence": [
+    {
+      "text": "[`PurpleAILAB/Decepticon`](https://github.com/PurpleAILAB/Decepticon) 红队测试、安全 Agent 非常值得",
+      "sectionHeading": "第二组重点仓库封面墙",
+      "sectionSlug": "第二组重点仓库封面墙",
+      "quoteSpan": {
+        "kind": "block:table",
+        "startLine": 70,
+        "endLine": 70
+      },
+      "evidenceKind": "table",
+      "blockImportance": 58,
+      "evidenceWeight": 40,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "sourceId": "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceTitle": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sourcePath": "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceQuality": 77
+    },
+    {
+      "text": "[`NVISOsecurity/cyber-security-llm-agents`](https://github.com/NVISOsecurity/cyber-security-llm-agents) 威胁检测、安全 Agent 值得看",
+      "sectionHeading": "第二组重点仓库封面墙",
+      "sectionSlug": "第二组重点仓库封面墙",
+      "quoteSpan": {
+        "kind": "block:table",
+        "startLine": 76,
+        "endLine": 76
+      },
+      "evidenceKind": "table",
+      "blockImportance": 58,
+      "evidenceWeight": 40,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "sourceId": "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceTitle": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sourcePath": "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceQuality": 77
+    },
+    {
+      "text": "真正值得继续看的，优先集中在 `多 Agent 框架`、`RAG / Workflow`、`安全红队`、`行业 Agent` 这 4 类",
+      "sectionHeading": "一页结论",
+      "sectionSlug": "一页结论",
+      "quoteSpan": {
+        "kind": "block:list",
+        "startLine": 14,
+        "endLine": 14
+      },
+      "evidenceKind": "list",
+      "blockImportance": 76,
+      "evidenceWeight": 38,
+      "taxonomy": "article.method",
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "一页结论"
+      ],
+      "sourceId": "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceTitle": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sourcePath": "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceQuality": 77
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 77,
+    "averageSourceQuality": 77
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

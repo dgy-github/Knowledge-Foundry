@@ -1,0 +1,125 @@
+{
+  "slug": "insight-原生语义磁盘-超越解析的综合机制-1776769521489",
+  "label": "insight 原生语义磁盘 超越解析的综合机制 1776769521489",
+  "kinds": [
+    "insight"
+  ],
+  "sourceTitles": [
+    "Insight 原生语义磁盘 超越解析的综合机制 1776769521489"
+  ],
+  "sourceIds": [
+    "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "sectionHeadings": [
+    "2. 意外的交集：零解析存储",
+    "Core Insight",
+    "Insight 1776769521489: 原生语义磁盘：超越解析的综合机制",
+    "概念融合：原生语义磁盘"
+  ],
+  "tokens": [
+    "1776769521489",
+    "insight",
+    "原生语义磁盘",
+    "超越解析的综合机制"
+  ],
+  "evidence": [
+    {
+      "text": "这就创造了一种**“原生语义磁盘”**。在这种模式下，磁盘不再仅仅存储字节或字符流，而是存储高密度的“思维对象”。因为综合笔记本身不需要Markdown解析器来理解其核心含义，系统可以直接读取这些对象并进行逻辑运算，而无需先编译成中间格式。",
+      "sectionHeading": "2. 意外的交集：零解析存储",
+      "sectionSlug": "2-意外的交集-零解析存储",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 23,
+        "endLine": 23
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "概念融合：原生语义磁盘",
+        "2. 意外的交集：零解析存储"
+      ],
+      "sourceId": "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceTitle": "Insight 原生语义磁盘 超越解析的综合机制 1776769521489",
+      "sourcePath": "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "Insight 1776769521489: 原生语义磁盘：超越解析的综合机制",
+      "sectionHeading": "Insight 1776769521489: 原生语义磁盘：超越解析的综合机制",
+      "sectionSlug": "insight-1776769521489-原生语义磁盘-超越解析的综合机制",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 1,
+        "endLine": 1
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776769521489: 原生语义磁盘：超越解析的综合机制"
+      ],
+      "sourceId": "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceTitle": "Insight 原生语义磁盘 超越解析的综合机制 1776769521489",
+      "sourcePath": "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "Core Insight",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 7,
+        "endLine": 7
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776769521489: 原生语义磁盘：超越解析的综合机制",
+        "Core Insight"
+      ],
+      "sourceId": "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceTitle": "Insight 原生语义磁盘 超越解析的综合机制 1776769521489",
+      "sourcePath": "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "概念融合：原生语义磁盘",
+      "sectionHeading": "概念融合：原生语义磁盘",
+      "sectionSlug": "概念融合-原生语义磁盘",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 11,
+        "endLine": 11
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "概念融合：原生语义磁盘"
+      ],
+      "sourceId": "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceTitle": "Insight 原生语义磁盘 超越解析的综合机制 1776769521489",
+      "sourcePath": "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

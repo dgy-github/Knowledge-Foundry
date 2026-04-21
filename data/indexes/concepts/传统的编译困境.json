@@ -1,0 +1,55 @@
+{
+  "slug": "传统的编译困境",
+  "label": "传统的编译困境",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "Insight 语义编译 超越格式的知识重塑 1776769497132"
+  ],
+  "sourceIds": [
+    "insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "sectionHeadings": [
+    "传统的编译困境"
+  ],
+  "tokens": [
+    "传统的编译困境"
+  ],
+  "evidence": [
+    {
+      "text": "传统的编译困境",
+      "sectionHeading": "传统的编译困境",
+      "sectionSlug": "传统的编译困境",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 13,
+        "endLine": 13
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "语义编译：从磁盘数据到智慧摘要的智能跃迁",
+        "传统的编译困境"
+      ],
+      "sourceId": "insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceTitle": "Insight 语义编译 超越格式的知识重塑 1776769497132",
+      "sourcePath": "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

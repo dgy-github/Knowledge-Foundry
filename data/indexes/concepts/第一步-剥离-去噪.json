@@ -1,0 +1,104 @@
+{
+  "slug": "第一步-剥离-去噪",
+  "label": "第一步：剥离（去噪）",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899"
+  ],
+  "sourceIds": [
+    "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sectionHeadings": [
+    "1. 背景冲突",
+    "Core Insight",
+    "第一步：剥离（去噪）"
+  ],
+  "tokens": [
+    "剥离",
+    "去噪",
+    "第一步"
+  ],
+  "evidence": [
+    {
+      "text": "将实勘判断从僵化的逻辑流程图转变为基于‘核心标记’与‘物理相邻’的动态感知过程。通过剥离现场噪音，用符号标记核心，并将其与决策标准并列放置，观察两者间的张力与共鸣，从而替代机械的步骤式判断，实现更直观、综合的结论。",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 8,
+        "endLine": 8
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770963899: 涌现式现场判断：用‘核心张力’替代线性流程",
+        "Core Insight"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    },
+    {
+      "text": "我们需要引入**标记**方法论中的“剥离”与“聚变”能力，打破流程图的刚性，让判断在现场信息与决策核心的碰撞中自然“涌现”。",
+      "sectionHeading": "1. 背景冲突",
+      "sectionSlug": "1-背景冲突",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 16,
+        "endLine": 16
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "涌现式现场判断：从流程图到张力图谱",
+        "1. 背景冲突"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    },
+    {
+      "text": "第一步：剥离（去噪）",
+      "sectionHeading": "第一步：剥离（去噪）",
+      "sectionSlug": "第一步-剥离-去噪",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 20,
+        "endLine": 20
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "涌现式现场判断：从流程图到张力图谱",
+        "2. 方法论重构",
+        "第一步：剥离（去噪）"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 66,
+    "averageSourceQuality": 66
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

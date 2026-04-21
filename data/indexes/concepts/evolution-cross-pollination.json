@@ -1,0 +1,246 @@
+{
+  "slug": "evolution-cross-pollination",
+  "label": "🌌 evolution cross-pollination",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "Insight 404错误作为进化催化剂 数字物种的重引入与杂交 1776771093148",
+    "Insight Brainstorm Failed 1776769896097",
+    "Insight Brainstorm Failed 1776769918027",
+    "Insight 原子化洞察 超越解析器的核心综合法 1776770210776",
+    "Insight 原生语义磁盘 超越解析的综合机制 1776769521489",
+    "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+    "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+    "Insight 语义编译 超越格式的知识重塑 1776769497132",
+    "Insight 超越语法 知识合成的直接语义编译 1776770083886"
+  ],
+  "sourceIds": [
+    "insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+    "insight-brainstorm-failed-1776769896097.md",
+    "insight-brainstorm-failed-1776769918027.md",
+    "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+    "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+    "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+    "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+    "insight-语义编译-超越格式的知识重塑-1776769497132.md",
+    "insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+    "data/raw/insight-brainstorm-failed-1776769896097.md",
+    "data/raw/insight-brainstorm-failed-1776769918027.md",
+    "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+    "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+    "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+    "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+    "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md",
+    "data/raw/insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+    "data/wiki/source-insight-brainstorm-failed-1776769896097.md",
+    "data/wiki/source-insight-brainstorm-failed-1776769918027.md",
+    "data/wiki/source-insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+    "data/wiki/source-insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+    "data/wiki/source-insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+    "data/wiki/source-insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+    "data/wiki/source-insight-语义编译-超越格式的知识重塑-1776769497132.md",
+    "data/wiki/source-insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "sectionHeadings": [
+    "机制运作方式",
+    "🌌 Evolution Cross-Pollination"
+  ],
+  "tokens": [
+    "cross",
+    "cross-pollination",
+    "evolution",
+    "pollination"
+  ],
+  "evidence": [
+    {
+      "text": "🌌 Evolution Cross-Pollination",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "sectionSlug": "evolution-cross-pollination",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 3,
+        "endLine": 3
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770963899: 涌现式现场判断：用‘核心张力’替代线性流程",
+        "🌌 Evolution Cross-Pollination"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    },
+    {
+      "text": "🌌 Evolution Cross-Pollination",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "sectionSlug": "evolution-cross-pollination",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 3,
+        "endLine": 3
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770210776: 原子化洞察：超越解析器的核心综合法",
+        "🌌 Evolution Cross-Pollination"
+      ],
+      "sourceId": "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceTitle": "Insight 原子化洞察 超越解析器的核心综合法 1776770210776",
+      "sourcePath": "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceQuality": 64
+    },
+    {
+      "text": "🌌 Evolution Cross-Pollination",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "sectionSlug": "evolution-cross-pollination",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 3,
+        "endLine": 3
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776769497132: 语义编译：超越格式的知识重塑",
+        "🌌 Evolution Cross-Pollination"
+      ],
+      "sourceId": "insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceTitle": "Insight 语义编译 超越格式的知识重塑 1776769497132",
+      "sourcePath": "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "🌌 Evolution Cross-Pollination",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "sectionSlug": "evolution-cross-pollination",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 3,
+        "endLine": 3
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776769521489: 原生语义磁盘：超越解析的综合机制",
+        "🌌 Evolution Cross-Pollination"
+      ],
+      "sourceId": "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceTitle": "Insight 原生语义磁盘 超越解析的综合机制 1776769521489",
+      "sourcePath": "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "🌌 Evolution Cross-Pollination",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "sectionSlug": "evolution-cross-pollination",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 3,
+        "endLine": 3
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770962951: 知识脉络的可视化重构：从静态封面墙到动态核心路径",
+        "🌌 Evolution Cross-Pollination"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "3.  **强制杂交 (Cross-Pollination)**：404 页面不再是一个死胡同，而变成了一个 **“变异实验室”**。它向用户展示这些活跃的“亲本物种”，并建议：“虽然该工具已灭绝，但基于其医疗理赔的核心功能，以下项目已经与其代码进行了‘杂交’并进化出了更强的抗病性（维护性）。”",
+      "sectionHeading": "机制运作方式",
+      "sectionSlug": "机制运作方式",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 31,
+        "endLine": 31
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "404错误作为进化催化剂：数字物种的重引入与杂交",
+        "强制连接：代码园丁机制",
+        "机制运作方式"
+      ],
+      "sourceId": "insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceTitle": "Insight 404错误作为进化催化剂 数字物种的重引入与杂交 1776771093148",
+      "sourcePath": "data/raw/insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceQuality": 57
+    },
+    {
+      "text": "**B**: [[🌌 evolution cross-pollination]]",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "sectionSlug": "evolution-cross-pollination",
+      "quoteSpan": {
+        "kind": "block:list",
+        "startLine": 5,
+        "endLine": 5
+      },
+      "evidenceKind": "list",
+      "blockImportance": 58,
+      "evidenceWeight": 28,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776771093148: 404错误作为进化催化剂：数字物种的重引入与杂交",
+        "🌌 Evolution Cross-Pollination"
+      ],
+      "sourceId": "insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceTitle": "Insight 404错误作为进化催化剂 数字物种的重引入与杂交 1776771093148",
+      "sourcePath": "data/raw/insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceQuality": 57
+    },
+    {
+      "text": "🌌 Evolution Cross-Pollination",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "sectionSlug": "evolution-cross-pollination",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 3,
+        "endLine": 3
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776771093148: 404错误作为进化催化剂：数字物种的重引入与杂交",
+        "🌌 Evolution Cross-Pollination"
+      ],
+      "sourceId": "insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceTitle": "Insight 404错误作为进化催化剂 数字物种的重引入与杂交 1776771093148",
+      "sourcePath": "data/raw/insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceQuality": 57
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 66,
+    "averageSourceQuality": 59.75
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

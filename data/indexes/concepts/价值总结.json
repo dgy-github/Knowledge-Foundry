@@ -1,0 +1,55 @@
+{
+  "slug": "价值总结",
+  "label": "价值总结",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951"
+  ],
+  "sourceIds": [
+    "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "sectionHeadings": [
+    "价值总结"
+  ],
+  "tokens": [
+    "价值总结"
+  ],
+  "evidence": [
+    {
+      "text": "价值总结",
+      "sectionHeading": "价值总结",
+      "sectionSlug": "价值总结",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 37,
+        "endLine": 37
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "知识脉络的可视化重构",
+        "价值总结"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

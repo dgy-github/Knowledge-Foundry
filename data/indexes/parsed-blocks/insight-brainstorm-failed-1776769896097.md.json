@@ -1,0 +1,133 @@
+{
+  "id": "insight-brainstorm-failed-1776769896097.md.json",
+  "sourceId": "insight-brainstorm-failed-1776769896097.md",
+  "title": "Insight Brainstorm Failed 1776769896097",
+  "sourcePath": "data/raw/insight-brainstorm-failed-1776769896097.md",
+  "generatedAt": "2026-04-21T11:11:36.100Z",
+  "blocks": [
+    {
+      "id": "insight-1776769896097-brainstorm-failed-1",
+      "kind": "heading",
+      "text": "Insight 1776769896097: Brainstorm Failed",
+      "level": 1,
+      "lineStart": 1,
+      "lineEnd": 1,
+      "sectionPath": [
+        "Insight 1776769896097: Brainstorm Failed"
+      ],
+      "taxonomy": "article.body",
+      "importance": 76,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "evolution-cross-pollination-3",
+      "kind": "heading",
+      "text": "🌌 Evolution Cross-Pollination",
+      "level": 2,
+      "lineStart": 3,
+      "lineEnd": 3,
+      "sectionPath": [
+        "Insight 1776769896097: Brainstorm Failed",
+        "🌌 Evolution Cross-Pollination"
+      ],
+      "taxonomy": "article.body",
+      "importance": 76,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "a-markdown-parse-4",
+      "kind": "list",
+      "text": "**A**: [[Markdown Parse]]",
+      "lineStart": 4,
+      "lineEnd": 4,
+      "sectionPath": [
+        "Insight 1776769896097: Brainstorm Failed",
+        "🌌 Evolution Cross-Pollination"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 28
+    },
+    {
+      "id": "b-elaboration-5",
+      "kind": "list",
+      "text": "**B**: [[Elaboration]]",
+      "lineStart": 5,
+      "lineEnd": 5,
+      "sectionPath": [
+        "Insight 1776769896097: Brainstorm Failed",
+        "🌌 Evolution Cross-Pollination"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 28
+    },
+    {
+      "id": "core-insight-7",
+      "kind": "heading",
+      "text": "Core Insight",
+      "level": 2,
+      "lineStart": 7,
+      "lineEnd": 7,
+      "sectionPath": [
+        "Insight 1776769896097: Brainstorm Failed",
+        "Core Insight"
+      ],
+      "taxonomy": "article.body",
+      "importance": 76,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "error-8",
+      "kind": "paragraph",
+      "text": "Error",
+      "lineStart": 8,
+      "lineEnd": 8,
+      "sectionPath": [
+        "Insight 1776769896097: Brainstorm Failed",
+        "Core Insight"
+      ],
+      "taxonomy": "article.body",
+      "importance": 72,
+      "evidenceWeight": 34
+    },
+    {
+      "id": "elaboration-10",
+      "kind": "heading",
+      "text": "Elaboration",
+      "level": 2,
+      "lineStart": 10,
+      "lineEnd": 10,
+      "sectionPath": [
+        "Insight 1776769896097: Brainstorm Failed",
+        "Elaboration"
+      ],
+      "taxonomy": "article.body",
+      "importance": 76,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "failed-to-brainstorm-11",
+      "kind": "paragraph",
+      "text": "Failed to brainstorm.",
+      "lineStart": 11,
+      "lineEnd": 11,
+      "sectionPath": [
+        "Insight 1776769896097: Brainstorm Failed",
+        "Elaboration"
+      ],
+      "taxonomy": "article.body",
+      "importance": 72,
+      "evidenceWeight": 34
+    }
+  ],
+  "taxonomy": [
+    "article.body"
+  ],
+  "stats": {
+    "blockCount": 8,
+    "sectionCount": 4,
+    "evidenceBlockCount": 4,
+    "taxonomyCount": 1
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "步骤变得过时",
+  "label": "步骤变得过时",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 原生语义磁盘 超越解析的综合机制 1776769521489"
+  ],
+  "sourceIds": [
+    "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "sectionHeadings": [
+    "Core Insight"
+  ],
+  "tokens": [
+    "步骤变得过时"
+  ],
+  "evidence": [
+    {
+      "text": "结合“磁盘”作为原始数据源的角色与“综合笔记”对低级格式（Markdown）的独立性，揭示了一种“零解析知识架构”的潜力。如果综合笔记代表了一种已处理的认知状态，将它们存储在磁盘上不仅仅是为了持久性，而是为了创建一个语义库，其中传统的“编译”步骤变得过时。这种联系表明，未来的知识管理系统应该优先考虑直接将综合笔记存储为磁盘上的可查询对象，将存储机制从死板的文件处理转变为流动的、即时的知识检索。",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 8,
+        "endLine": 8
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 76,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776769521489: 原生语义磁盘：超越解析的综合机制",
+        "Core Insight"
+      ],
+      "sourceId": "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceTitle": "Insight 原生语义磁盘 超越解析的综合机制 1776769521489",
+      "sourcePath": "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

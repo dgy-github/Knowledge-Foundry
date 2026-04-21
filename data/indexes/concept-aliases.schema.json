@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://knowledge-foundry.local/data/indexes/concept-aliases.schema.json",
+  "title": "Knowledge Foundry Concept Alias Config",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["replacements", "canonicalPhrases"],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Optional self-reference for editor validation."
+    },
+    "replacements": {
+      "type": "array",
+      "description": "Word-boundary replacement rules applied case-insensitively after input is lowercased.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["match", "replace"],
+        "properties": {
+          "match": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Literal phrase to match. Special regex syntax is not supported."
+          },
+          "replace": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Canonical phrase to substitute before slugging and tokenization."
+          }
+        }
+      }
+    },
+    "canonicalPhrases": {
+      "type": "array",
+      "description": "Canonical multi-word concepts that should always be recognized when present in normalized source text.",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  }
+}

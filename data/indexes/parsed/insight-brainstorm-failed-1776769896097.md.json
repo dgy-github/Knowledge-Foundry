@@ -1,0 +1,270 @@
+{
+  "id": "insight-brainstorm-failed-1776769896097.md.json",
+  "sourceId": "insight-brainstorm-failed-1776769896097.md",
+  "title": "Insight 1776769896097: Brainstorm Failed",
+  "displayTitle": "Insight Brainstorm Failed 1776769896097",
+  "sourceType": "markdown",
+  "sourcePath": "data/raw/insight-brainstorm-failed-1776769896097.md",
+  "importMode": "file",
+  "originalPath": "data/raw/insight-brainstorm-failed-1776769896097.md",
+  "tags": [],
+  "excerpt": "# Insight 1776769896097: Brainstorm Failed  ## 🌌 Evolution Cross-Pollination - **A**: [[Markdown Parse]] - **B**: [[Elaboration]] ",
+  "contentHash": "d505162cf32eb5213c20fc5735446e4a276abadb",
+  "parsedAt": "2026-04-21T11:11:36.100Z",
+  "sections": [
+    {
+      "heading": "🌌 Evolution Cross-Pollination",
+      "slug": "evolution-cross-pollination",
+      "level": 2,
+      "startLine": 3,
+      "endLine": 5,
+      "body": "**A**: [[Markdown Parse]] **B**: [[Elaboration]]",
+      "bulletCount": 2
+    },
+    {
+      "heading": "Core Insight",
+      "slug": "core-insight",
+      "level": 2,
+      "startLine": 7,
+      "endLine": 8,
+      "body": "Error",
+      "bulletCount": 0
+    },
+    {
+      "heading": "Elaboration",
+      "slug": "elaboration",
+      "level": 2,
+      "startLine": 10,
+      "endLine": 11,
+      "body": "Failed to brainstorm.",
+      "bulletCount": 0
+    }
+  ],
+  "bullets": [
+    {
+      "text": "**A**: [[Markdown Parse]]",
+      "line": 4,
+      "sectionSlug": "evolution-cross-pollination",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "quoteSpan": {
+        "kind": "bullet",
+        "startLine": 4,
+        "endLine": 4
+      }
+    },
+    {
+      "text": "**B**: [[Elaboration]]",
+      "line": 5,
+      "sectionSlug": "evolution-cross-pollination",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "quoteSpan": {
+        "kind": "bullet",
+        "startLine": 5,
+        "endLine": 5
+      }
+    }
+  ],
+  "paragraphs": [
+    {
+      "text": "# Insight 1776769896097: Brainstorm Failed",
+      "quoteSpan": {
+        "kind": "paragraph",
+        "startLine": 1,
+        "endLine": 1
+      },
+      "sectionSlug": null,
+      "sectionHeading": null
+    },
+    {
+      "text": "Error",
+      "quoteSpan": {
+        "kind": "paragraph",
+        "startLine": 8,
+        "endLine": 8
+      },
+      "sectionSlug": "core-insight",
+      "sectionHeading": "Core Insight"
+    },
+    {
+      "text": "Failed to brainstorm.",
+      "quoteSpan": {
+        "kind": "paragraph",
+        "startLine": 11,
+        "endLine": 11
+      },
+      "sectionSlug": "elaboration",
+      "sectionHeading": "Elaboration"
+    }
+  ],
+  "wikiLinks": [
+    "Markdown Parse",
+    "Elaboration"
+  ],
+  "concepts": [
+    {
+      "label": "Insight Brainstorm Failed 1776769896097",
+      "aliasOf": "Insight Brainstorm Failed 1776769896097",
+      "slug": "insight-brainstorm-failed-1776769896097",
+      "kind": "insight",
+      "tokens": [
+        "insight",
+        "brainstorm",
+        "failed",
+        "1776769896097"
+      ]
+    },
+    {
+      "label": "insight 1776769896097: brainstorm failed",
+      "aliasOf": "Insight 1776769896097: Brainstorm Failed",
+      "slug": "insight-1776769896097-brainstorm-failed",
+      "kind": "document-title",
+      "tokens": [
+        "insight",
+        "1776769896097",
+        "brainstorm",
+        "failed"
+      ]
+    },
+    {
+      "label": "Markdown",
+      "aliasOf": "markdown",
+      "slug": "markdown",
+      "kind": "source-type",
+      "tokens": [
+        "markdown"
+      ]
+    },
+    {
+      "label": "🌌 evolution cross-pollination",
+      "aliasOf": "🌌 Evolution Cross-Pollination",
+      "slug": "evolution-cross-pollination",
+      "kind": "section",
+      "tokens": [
+        "evolution",
+        "cross-pollination"
+      ]
+    },
+    {
+      "label": "Core Insight",
+      "aliasOf": "Core Insight",
+      "slug": "core-insight",
+      "kind": "section",
+      "tokens": [
+        "core",
+        "insight"
+      ]
+    },
+    {
+      "label": "Elaboration",
+      "aliasOf": "Elaboration",
+      "slug": "elaboration",
+      "kind": "section",
+      "tokens": [
+        "elaboration"
+      ]
+    },
+    {
+      "label": "Markdown Parse",
+      "aliasOf": "Markdown Parse",
+      "slug": "markdown-parse",
+      "kind": "wikilink",
+      "tokens": [
+        "markdown",
+        "parse"
+      ]
+    },
+    {
+      "label": "1776769896097",
+      "aliasOf": "1776769896097",
+      "slug": "1776769896097",
+      "kind": "keyword",
+      "tokens": [
+        "1776769896097"
+      ]
+    },
+    {
+      "label": "Brainstorm",
+      "aliasOf": "brainstorm",
+      "slug": "brainstorm",
+      "kind": "keyword",
+      "tokens": [
+        "brainstorm"
+      ]
+    },
+    {
+      "label": "Core",
+      "aliasOf": "core",
+      "slug": "core",
+      "kind": "keyword",
+      "tokens": [
+        "core"
+      ]
+    },
+    {
+      "label": "Cross-pollination",
+      "aliasOf": "cross-pollination",
+      "slug": "cross-pollination",
+      "kind": "keyword",
+      "tokens": [
+        "cross-pollination"
+      ]
+    },
+    {
+      "label": "Error",
+      "aliasOf": "error",
+      "slug": "error",
+      "kind": "keyword",
+      "tokens": [
+        "error"
+      ]
+    },
+    {
+      "label": "Evolution",
+      "aliasOf": "evolution",
+      "slug": "evolution",
+      "kind": "keyword",
+      "tokens": [
+        "evolution"
+      ]
+    },
+    {
+      "label": "Failed",
+      "aliasOf": "failed",
+      "slug": "failed",
+      "kind": "keyword",
+      "tokens": [
+        "failed"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "text": "**A**: [[Markdown Parse]]",
+      "polarity": "neutral"
+    },
+    {
+      "text": "**B**: [[Elaboration]]",
+      "polarity": "neutral"
+    },
+    {
+      "text": "# Insight 1776769896097: Brainstorm Failed",
+      "polarity": "neutral"
+    },
+    {
+      "text": "Error",
+      "polarity": "neutral"
+    },
+    {
+      "text": "Failed to brainstorm.",
+      "polarity": "neutral"
+    }
+  ],
+  "stats": {
+    "lineCount": 11,
+    "wordCount": 25,
+    "sectionCount": 3,
+    "bulletCount": 2,
+    "paragraphCount": 3,
+    "conceptCount": 14
+  }
+}

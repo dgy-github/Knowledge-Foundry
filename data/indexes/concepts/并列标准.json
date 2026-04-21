@@ -1,0 +1,55 @@
+{
+  "slug": "并列标准",
+  "label": "并列标准",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899"
+  ],
+  "sourceIds": [
+    "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sectionHeadings": [
+    "3. 应用场景：动态决策树"
+  ],
+  "tokens": [
+    "并列标准"
+  ],
+  "evidence": [
+    {
+      "text": "1.  **收集核心**：在笔记中快速列出多个现场核心标记（`::: 采光死角`，`::: 噪音源紧邻`）。 2.  **并列标准**：将决策标准（`::: 转售潜力`，`::: 自住舒适度`）作为物理参照物放在旁边。 3.  **路径涌现**：流程图的路径不再预先设定，而是由最强的一组“张力”决定。",
+      "sectionHeading": "3. 应用场景：动态决策树",
+      "sectionSlug": "3-应用场景-动态决策树",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 48,
+        "endLine": 50
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "涌现式现场判断：从流程图到张力图谱",
+        "3. 应用场景：动态决策树"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 66,
+    "averageSourceQuality": 66
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

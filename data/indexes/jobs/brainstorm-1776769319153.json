@@ -1,0 +1,14 @@
+{
+  "id": "brainstorm-1776769319153",
+  "type": "brainstorm",
+  "status": "completed",
+  "createdAt": "2026-04-21T11:01:59.153Z",
+  "payload": {},
+  "insightSlug": "原生语义磁盘-超越解析的综合机制",
+  "selectedConcepts": [
+    "Disk",
+    "Synthesis Notes"
+  ],
+  "jaccardSimilarity": 0,
+  "artifactPath": "data/raw"
+}

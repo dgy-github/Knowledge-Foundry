@@ -1,0 +1,154 @@
+{
+  "slug": "2-直接提取核心的综合路径",
+  "label": "2. 直接提取核心的综合路径",
+  "kinds": [
+    "section",
+    "wikilink"
+  ],
+  "sourceTitles": [
+    "Insight 原子化洞察 超越解析器的核心综合法 1776770210776",
+    "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951"
+  ],
+  "sourceIds": [
+    "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+    "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+    "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+    "data/wiki/source-insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "sectionHeadings": [
+    "2. 信息的“透传”与“零延迟”获取",
+    "2. 直接提取核心的综合路径",
+    "Core Insight",
+    "概念碰撞",
+    "🌌 Evolution Cross-Pollination"
+  ],
+  "tokens": [
+    "直接提取核心的综合路径"
+  ],
+  "evidence": [
+    {
+      "text": "2. 直接提取核心的综合路径",
+      "sectionHeading": "2. 直接提取核心的综合路径",
+      "sectionSlug": "2-直接提取核心的综合路径",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 21,
+        "endLine": 21
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "核心综合法：剥离外壳的思想核聚变",
+        "洞察深度解析",
+        "2. 直接提取核心的综合路径"
+      ],
+      "sourceId": "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceTitle": "Insight 原子化洞察 超越解析器的核心综合法 1776770210776",
+      "sourcePath": "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceQuality": 64
+    },
+    {
+      "text": "将“重点仓库封面墙”从单纯的展示入口，转变为通过“直接提取核心的综合路径”生成的动态导航系统。封面不再是静态的图像，而是该内容核心逻辑的视觉化摘要。用户无需点击进入即可在墙面上直接“预览”并“提取”知识精华，极大提升信息获取的效率和深度。",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 8,
+        "endLine": 8
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770962951: 知识脉络的可视化重构：从静态封面墙到动态核心路径",
+        "Core Insight"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "而**“直接提取核心的综合路径”**则是一种深层处理机制，它强调跳过冗余信息，直达内容的本质，并梳理出逻辑脉络。",
+      "sectionHeading": "概念碰撞",
+      "sectionSlug": "概念碰撞",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 17,
+        "endLine": 17
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "知识脉络的可视化重构",
+        "概念碰撞"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "**B**: [[2. 直接提取核心的综合路径]]",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "sectionSlug": "evolution-cross-pollination",
+      "quoteSpan": {
+        "kind": "block:list",
+        "startLine": 5,
+        "endLine": 5
+      },
+      "evidenceKind": "list",
+      "blockImportance": 58,
+      "evidenceWeight": 28,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770962951: 知识脉络的可视化重构：从静态封面墙到动态核心路径",
+        "🌌 Evolution Cross-Pollination"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "**应用场景：** 在企业的知识库中，员工不需要打开每一个文档才能知道其价值。通过“直接提取核心的综合路径”算法，封面墙直接展示了每个仓库条目的逻辑结构。",
+      "sectionHeading": "2. 信息的“透传”与“零延迟”获取",
+      "sectionSlug": "2-信息的-透传-与-零延迟-获取",
+      "quoteSpan": {
+        "kind": "block:list",
+        "startLine": 32,
+        "endLine": 32
+      },
+      "evidenceKind": "list",
+      "blockImportance": 58,
+      "evidenceWeight": 28,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "知识脉络的可视化重构",
+        "洞察融合",
+        "2. 信息的“透传”与“零延迟”获取"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 64,
+    "averageSourceQuality": 60
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

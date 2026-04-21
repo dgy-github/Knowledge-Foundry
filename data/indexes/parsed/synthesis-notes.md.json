@@ -1,0 +1,280 @@
+{
+  "id": "synthesis-notes.md.json",
+  "sourceId": "synthesis-notes.md",
+  "title": "Synthesis Notes",
+  "displayTitle": "Synthesis Notes",
+  "sourceType": "markdown",
+  "sourcePath": "data/raw/synthesis-notes.md",
+  "importMode": "inline",
+  "originalPath": null,
+  "tags": [
+    "knowledge synthesis",
+    "note taking"
+  ],
+  "excerpt": "# Synthesis Notes  ## Source Type markdown  ## Notes",
+  "contentHash": "9b37176a29cb846e36b30fc4fddb9abbc257cefa",
+  "parsedAt": "2026-04-21T10:56:05.616Z",
+  "sections": [
+    {
+      "heading": "Source Type",
+      "slug": "source-type",
+      "level": 2,
+      "startLine": 3,
+      "endLine": 4,
+      "body": "markdown",
+      "bulletCount": 0
+    },
+    {
+      "heading": "Notes",
+      "slug": "notes",
+      "level": 2,
+      "startLine": 6,
+      "endLine": 7,
+      "body": "Knowledge synthesis does not require markdown parser workflows in every case.",
+      "bulletCount": 0
+    },
+    {
+      "heading": "Evidence",
+      "slug": "evidence",
+      "level": 2,
+      "startLine": 9,
+      "endLine": 10,
+      "body": "Reusable quote spans make concept pages more stable.",
+      "bulletCount": 0
+    }
+  ],
+  "bullets": [],
+  "paragraphs": [
+    {
+      "text": "# Synthesis Notes",
+      "quoteSpan": {
+        "kind": "paragraph",
+        "startLine": 1,
+        "endLine": 1
+      },
+      "sectionSlug": null,
+      "sectionHeading": null
+    },
+    {
+      "text": "markdown",
+      "quoteSpan": {
+        "kind": "paragraph",
+        "startLine": 4,
+        "endLine": 4
+      },
+      "sectionSlug": "source-type",
+      "sectionHeading": "Source Type"
+    },
+    {
+      "text": "Knowledge synthesis does not require markdown parser workflows in every case.",
+      "quoteSpan": {
+        "kind": "paragraph",
+        "startLine": 7,
+        "endLine": 7
+      },
+      "sectionSlug": "notes",
+      "sectionHeading": "Notes"
+    },
+    {
+      "text": "Reusable quote spans make concept pages more stable.",
+      "quoteSpan": {
+        "kind": "paragraph",
+        "startLine": 10,
+        "endLine": 10
+      },
+      "sectionSlug": "evidence",
+      "sectionHeading": "Evidence"
+    }
+  ],
+  "wikiLinks": [],
+  "concepts": [
+    {
+      "label": "Synthesis Notes",
+      "aliasOf": "Synthesis Notes",
+      "slug": "synthesis-notes",
+      "kind": "source-title",
+      "definition": "",
+      "tokens": [
+        "synthesis"
+      ]
+    },
+    {
+      "label": "Markdown",
+      "aliasOf": "markdown",
+      "slug": "markdown",
+      "kind": "source-type",
+      "definition": "",
+      "tokens": [
+        "markdown"
+      ]
+    },
+    {
+      "label": "Knowledge Synthesis",
+      "aliasOf": "knowledge synthesis",
+      "slug": "knowledge-synthesis",
+      "kind": "tag",
+      "definition": "",
+      "tokens": [
+        "knowledge",
+        "synthesis"
+      ]
+    },
+    {
+      "label": "Zettel Workflow",
+      "aliasOf": "note taking",
+      "slug": "zettel-workflow",
+      "kind": "tag",
+      "definition": "",
+      "tokens": [
+        "zettel",
+        "workflow"
+      ]
+    },
+    {
+      "label": "Source Type",
+      "aliasOf": "Source Type",
+      "slug": "source-type",
+      "kind": "section",
+      "definition": "",
+      "tokens": [
+        "type"
+      ]
+    },
+    {
+      "label": "Notes",
+      "aliasOf": "Notes",
+      "slug": "notes",
+      "kind": "section",
+      "definition": "",
+      "tokens": []
+    },
+    {
+      "label": "Evidence",
+      "aliasOf": "Evidence",
+      "slug": "evidence",
+      "kind": "section",
+      "definition": "",
+      "tokens": [
+        "evidence"
+      ]
+    },
+    {
+      "label": "Markdown Parse",
+      "aliasOf": "markdown parse",
+      "slug": "markdown-parse",
+      "kind": "phrase",
+      "definition": "",
+      "tokens": [
+        "markdown",
+        "parse"
+      ]
+    },
+    {
+      "label": "Quote Span",
+      "aliasOf": "quote span",
+      "slug": "quote-span",
+      "kind": "phrase",
+      "definition": "",
+      "tokens": [
+        "quote",
+        "span"
+      ]
+    },
+    {
+      "label": "Case",
+      "aliasOf": "case",
+      "slug": "case",
+      "kind": "keyword",
+      "definition": "",
+      "tokens": [
+        "case"
+      ]
+    },
+    {
+      "label": "Concept",
+      "aliasOf": "concept",
+      "slug": "concept",
+      "kind": "keyword",
+      "definition": "",
+      "tokens": [
+        "concept"
+      ]
+    },
+    {
+      "label": "Does",
+      "aliasOf": "does",
+      "slug": "does",
+      "kind": "keyword",
+      "definition": "",
+      "tokens": [
+        "does"
+      ]
+    },
+    {
+      "label": "Every",
+      "aliasOf": "every",
+      "slug": "every",
+      "kind": "keyword",
+      "definition": "",
+      "tokens": [
+        "every"
+      ]
+    },
+    {
+      "label": "Knowledge",
+      "aliasOf": "knowledge",
+      "slug": "knowledge",
+      "kind": "keyword",
+      "definition": "",
+      "tokens": [
+        "knowledge"
+      ]
+    },
+    {
+      "label": "Make",
+      "aliasOf": "make",
+      "slug": "make",
+      "kind": "keyword",
+      "definition": "",
+      "tokens": [
+        "make"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "text": "# Synthesis Notes",
+      "polarity": "neutral"
+    },
+    {
+      "text": "markdown",
+      "polarity": "neutral"
+    },
+    {
+      "text": "Knowledge synthesis does not require markdown parser workflows in every case.",
+      "polarity": "negative"
+    },
+    {
+      "text": "Reusable quote spans make concept pages more stable.",
+      "polarity": "neutral"
+    }
+  ],
+  "stats": {
+    "lineCount": 11,
+    "wordCount": 30,
+    "sectionCount": 3,
+    "bulletCount": 0,
+    "paragraphCount": 4,
+    "conceptCount": 15,
+    "claimCount": 4,
+    "contradictionCount": 0
+  },
+  "summary": "# Synthesis Notes  ## Source Type markdown  ## Notes",
+  "contradictions": [],
+  "conceptExtraction": {
+    "requestedStrategy": "hybrid",
+    "appliedStrategy": "rules",
+    "llmAvailable": false,
+    "llmUsed": false
+  }
+}

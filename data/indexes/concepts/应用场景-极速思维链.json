@@ -1,0 +1,58 @@
+{
+  "slug": "应用场景-极速思维链",
+  "label": "应用场景：极速思维链",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "Insight 原子化洞察 超越解析器的核心综合法 1776770210776"
+  ],
+  "sourceIds": [
+    "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-原子化洞察-超越解析器的核心综合法-1776770210776.md"
+  ],
+  "sectionHeadings": [
+    "应用场景：极速思维链"
+  ],
+  "tokens": [
+    "应用场景",
+    "极速思维链"
+  ],
+  "evidence": [
+    {
+      "text": "应用场景：极速思维链",
+      "sectionHeading": "应用场景：极速思维链",
+      "sectionSlug": "应用场景-极速思维链",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 24,
+        "endLine": 24
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "核心综合法：剥离外壳的思想核聚变",
+        "洞察深度解析",
+        "2. 直接提取核心的综合路径",
+        "应用场景：极速思维链"
+      ],
+      "sourceId": "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceTitle": "Insight 原子化洞察 超越解析器的核心综合法 1776770210776",
+      "sourcePath": "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceQuality": 64
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 64,
+    "averageSourceQuality": 64
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

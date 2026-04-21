@@ -1,0 +1,38 @@
+{
+  "name": "knowledge-foundry",
+  "version": "0.1.0",
+  "description": "Markdown-first LLM knowledge base with multi-agent compile, query, and maintenance workflows.",
+  "private": true,
+  "scripts": {
+    "api:start": "node --env-file=.env services/api/server.mjs",
+    "api:mcp": "node --env-file=.env services/api/mcp-server.mjs",
+    "web:preview": "node apps/web/preview.mjs",
+    "dev": "powershell -ExecutionPolicy Bypass -File scripts/orchestrate.ps1 -DryRun",
+    "orchestrate": "powershell -ExecutionPolicy Bypass -File scripts/orchestrate.ps1",
+    "aliases:check": "node scripts/aliases-check.mjs",
+    "normalizer:check": "node scripts/normalizer-check.mjs",
+    "lint": "node scripts/lint.mjs",
+    "typecheck": "node scripts/typecheck.mjs",
+    "test": "node scripts/test.mjs"
+  },
+  "keywords": [
+    "knowledge-base",
+    "llm",
+    "markdown",
+    "wiki",
+    "multi-agent"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "@openai/codex-sdk": "^0.118.0",
+    "@xenova/transformers": "^2.17.2",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^24.6.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  }
+}

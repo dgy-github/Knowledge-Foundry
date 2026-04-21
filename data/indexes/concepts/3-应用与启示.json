@@ -1,0 +1,55 @@
+{
+  "slug": "3-应用与启示",
+  "label": "3. 应用与启示",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "Insight 原生语义磁盘 超越解析的综合机制 1776769521489"
+  ],
+  "sourceIds": [
+    "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "sectionHeadings": [
+    "3. 应用与启示"
+  ],
+  "tokens": [
+    "应用与启示"
+  ],
+  "evidence": [
+    {
+      "text": "3. 应用与启示",
+      "sectionHeading": "3. 应用与启示",
+      "sectionSlug": "3-应用与启示",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 25,
+        "endLine": 25
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "概念融合：原生语义磁盘",
+        "3. 应用与启示"
+      ],
+      "sourceId": "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceTitle": "Insight 原生语义磁盘 超越解析的综合机制 1776769521489",
+      "sourcePath": "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

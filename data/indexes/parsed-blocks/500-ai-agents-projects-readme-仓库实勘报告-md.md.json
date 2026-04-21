@@ -1,0 +1,851 @@
+{
+  "id": "500-ai-agents-projects-readme-仓库实勘报告-md.md.json",
+  "sourceId": "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+  "title": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+  "sourcePath": "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+  "generatedAt": "2026-04-21T11:11:36.100Z",
+  "blocks": [
+    {
+      "id": "500-ai-agents-projects-readme-仓库实勘报告-md-1",
+      "kind": "heading",
+      "text": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "level": 1,
+      "lineStart": 1,
+      "lineEnd": 1,
+      "sectionPath": [
+        "500_AI_Agents_Projects_README_仓库实勘报告.md"
+      ],
+      "taxonomy": "article.body",
+      "importance": 92,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "source-type-3",
+      "kind": "heading",
+      "text": "Source Type",
+      "level": 2,
+      "lineStart": 3,
+      "lineEnd": 3,
+      "sectionPath": [
+        "500_AI_Agents_Projects_README_仓库实勘报告.md",
+        "Source Type"
+      ],
+      "taxonomy": "article.body",
+      "importance": 84,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "markdown-4",
+      "kind": "paragraph",
+      "text": "markdown",
+      "lineStart": 4,
+      "lineEnd": 4,
+      "sectionPath": [
+        "500_AI_Agents_Projects_README_仓库实勘报告.md",
+        "Source Type"
+      ],
+      "taxonomy": "article.body",
+      "importance": 80,
+      "evidenceWeight": 34
+    },
+    {
+      "id": "notes-6",
+      "kind": "heading",
+      "text": "Notes",
+      "level": 2,
+      "lineStart": 6,
+      "lineEnd": 6,
+      "sectionPath": [
+        "500_AI_Agents_Projects_README_仓库实勘报告.md",
+        "Notes"
+      ],
+      "taxonomy": "article.body",
+      "importance": 84,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "500-ai-agents-projects-仓库三列表-7",
+      "kind": "heading",
+      "text": "500 AI Agents Projects 仓库三列表",
+      "level": 1,
+      "lineStart": 7,
+      "lineEnd": 7,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表"
+      ],
+      "taxonomy": "article.body",
+      "importance": 76,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "500-ai-agents-projects-去重实勘图-assets-repo-sc-9",
+      "kind": "paragraph",
+      "text": "![500 AI Agents Projects 去重实勘图](./assets/repo_scan_matrix.svg)",
+      "lineStart": 9,
+      "lineEnd": 9,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表"
+      ],
+      "taxonomy": "article.body",
+      "importance": 72,
+      "evidenceWeight": 34
+    },
+    {
+      "id": "一页结论-11",
+      "kind": "heading",
+      "text": "一页结论",
+      "level": 2,
+      "lineStart": 11,
+      "lineEnd": 11,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "一页结论"
+      ],
+      "taxonomy": "article.body",
+      "importance": 76,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "这份不是再抄一遍-500-用例-而是把-readme-里能对位到的仓库去重后-压成一张能直-13",
+      "kind": "list",
+      "text": "这份不是再抄一遍 `500+` 用例，而是把 README 里能对位到的仓库去重后，压成一张能直接判断的表",
+      "lineStart": 13,
+      "lineEnd": 13,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "一页结论"
+      ],
+      "taxonomy": "article.body",
+      "importance": 66,
+      "evidenceWeight": 28
+    },
+    {
+      "id": "真正值得继续看的-优先集中在-多-agent-框架-rag-workflow-安全-14",
+      "kind": "list",
+      "text": "真正值得继续看的，优先集中在 `多 Agent 框架`、`RAG / Workflow`、`安全红队`、`行业 Agent` 这 4 类",
+      "lineStart": 14,
+      "lineEnd": 14,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "一页结论"
+      ],
+      "taxonomy": "article.method",
+      "importance": 76,
+      "evidenceWeight": 38
+    },
+    {
+      "id": "目录仓-和-坏链仓-要明确剔除-不然很容易把-资料入口-误判成-落地项目-15",
+      "kind": "list",
+      "text": "`目录仓` 和 `坏链仓` 要明确剔除，不然很容易把“资料入口”误判成“落地项目”",
+      "lineStart": 15,
+      "lineEnd": 15,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "一页结论"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 28
+    },
+    {
+      "id": "仓库分层图-17",
+      "kind": "heading",
+      "text": "仓库分层图",
+      "level": 2,
+      "lineStart": 17,
+      "lineEnd": 17,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "仓库分层图"
+      ],
+      "taxonomy": "article.body",
+      "importance": 76,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "code-19-19",
+      "kind": "code",
+      "text": "flowchart LR\n    A[\"26 个唯一仓库\"] --> B[\"实战 / 框架 12\"]\n    A --> C[\"教程 / 样例 7\"]\n    A --> D[\"轻量 Demo 5\"]\n    A --> E[\"目录仓 1\"]\n    A --> F[\"坏链 1\"]",
+      "lineStart": 19,
+      "lineEnd": 26,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "仓库分层图"
+      ],
+      "taxonomy": "article.body",
+      "importance": 48,
+      "evidenceWeight": 18
+    },
+    {
+      "id": "实勘判断流程图-28",
+      "kind": "heading",
+      "text": "实勘判断流程图",
+      "level": 2,
+      "lineStart": 28,
+      "lineEnd": 28,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "实勘判断流程图"
+      ],
+      "taxonomy": "article.body",
+      "importance": 76,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "code-30-30",
+      "kind": "code",
+      "text": "flowchart TD\n    A[\"500 项 README\"] --> B[\"去重到仓库层\"]\n    B --> C[\"看是否有真实代码 / 示例 / 文档\"]\n    C --> D[\"能否对应具体业务场景\"]\n    D --> E[\"值得继续看\"]\n    C --> F[\"只有目录 / 坏链 / 纯概念\"]\n    F --> G[\"不作为落地项目\"]",
+      "lineStart": 30,
+      "lineEnd": 38,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "实勘判断流程图"
+      ],
+      "taxonomy": "article.body",
+      "importance": 60,
+      "evidenceWeight": 18
+    },
+    {
+      "id": "代表性-github-封面图-40",
+      "kind": "heading",
+      "text": "代表性 GitHub 封面图",
+      "level": 2,
+      "lineStart": 40,
+      "lineEnd": 40,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "代表性 GitHub 封面图"
+      ],
+      "taxonomy": "article.body",
+      "importance": 76,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "table-42-42",
+      "kind": "table",
+      "text": "仓库 封面图",
+      "lineStart": 42,
+      "lineEnd": 42,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "代表性 GitHub 封面图"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-43-43",
+      "kind": "table",
+      "text": "--- ---",
+      "lineStart": 43,
+      "lineEnd": 43,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "代表性 GitHub 封面图"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-44-44",
+      "kind": "table",
+      "text": "microsoft/autogen ![autogen](https://opengraph.githubassets.com/1/microsoft/autogen)",
+      "lineStart": 44,
+      "lineEnd": 44,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "代表性 GitHub 封面图"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-45-45",
+      "kind": "table",
+      "text": "agno-agi/agno ![agno](https://opengraph.githubassets.com/1/agno-agi/agno)",
+      "lineStart": 45,
+      "lineEnd": 45,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "代表性 GitHub 封面图"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-46-46",
+      "kind": "table",
+      "text": "langchain-ai/langgraph ![langgraph](https://opengraph.githubassets.com/1/langchain-ai/langgraph)",
+      "lineStart": 46,
+      "lineEnd": 46,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "代表性 GitHub 封面图"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-47-47",
+      "kind": "table",
+      "text": "crewAIInc/crewAI-examples ![crewAI](https://opengraph.githubassets.com/1/crewAIInc/crewAI-examples)",
+      "lineStart": 47,
+      "lineEnd": 47,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "代表性 GitHub 封面图"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-48-48",
+      "kind": "table",
+      "text": "NirDiamant/GenAI_Agents ![GenAI_Agents](https://opengraph.githubassets.com/1/NirDiamant/GenAI_Agents)",
+      "lineStart": 48,
+      "lineEnd": 48,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "代表性 GitHub 封面图"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-49-49",
+      "kind": "table",
+      "text": "microsoft/RecAI ![RecAI](https://opengraph.githubassets.com/1/microsoft/RecAI)",
+      "lineStart": 49,
+      "lineEnd": 49,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "代表性 GitHub 封面图"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-50-50",
+      "kind": "table",
+      "text": "PurpleAILAB/Decepticon ![Decepticon](https://opengraph.githubassets.com/1/PurpleAILAB/Decepticon)",
+      "lineStart": 50,
+      "lineEnd": 50,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "代表性 GitHub 封面图"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "第二组重点仓库封面墙-52",
+      "kind": "heading",
+      "text": "第二组重点仓库封面墙",
+      "level": 2,
+      "lineStart": 52,
+      "lineEnd": 52,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 76,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "table-54-54",
+      "kind": "table",
+      "text": "仓库 封面图",
+      "lineStart": 54,
+      "lineEnd": 54,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-55-55",
+      "kind": "table",
+      "text": "--- ---",
+      "lineStart": 55,
+      "lineEnd": 55,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-56-56",
+      "kind": "table",
+      "text": "microsoft/OptiGuide ![OptiGuide](https://opengraph.githubassets.com/1/microsoft/OptiGuide)",
+      "lineStart": 56,
+      "lineEnd": 56,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-57-57",
+      "kind": "table",
+      "text": "harshhh28/hia ![hia](https://opengraph.githubassets.com/1/harshhh28/hia)",
+      "lineStart": 57,
+      "lineEnd": 57,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-58-58",
+      "kind": "table",
+      "text": "sentient-engineering/jobber ![jobber](https://opengraph.githubassets.com/1/sentient-engineering/jobber)",
+      "lineStart": 58,
+      "lineEnd": 58,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-59-59",
+      "kind": "table",
+      "text": "NVISOsecurity/cyber-security-llm-agents ![cyber-security-llm-agents](https://opengraph.githubassets.com/1/NVISOsecurity/cyber-security-llm-agents)",
+      "lineStart": 59,
+      "lineEnd": 59,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-61-61",
+      "kind": "table",
+      "text": "仓库 业务场景 是否值得继续看",
+      "lineStart": 61,
+      "lineEnd": 61,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-62-62",
+      "kind": "table",
+      "text": "--- --- ---",
+      "lineStart": 62,
+      "lineEnd": 62,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-63-63",
+      "kind": "table",
+      "text": "[`microsoft/autogen`](https://github.com/microsoft/autogen) 多 Agent 协作、代码生成、工具调用、评测 非常值得",
+      "lineStart": 63,
+      "lineEnd": 63,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-64-64",
+      "kind": "table",
+      "text": "[`agno-agi/agno`](https://github.com/agno-agi/agno) 支持 Agent、研究 Agent、金融、法务、推荐、MCP 非常值得",
+      "lineStart": 64,
+      "lineEnd": 64,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-65-65",
+      "kind": "table",
+      "text": "[`langchain-ai/langgraph`](https://github.com/langchain-ai/langgraph) 多 Agent Workflow、RAG、SQL Agent、代码助手 非常值得",
+      "lineStart": 65,
+      "lineEnd": 65,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.method",
+      "importance": 76,
+      "evidenceWeight": 50
+    },
+    {
+      "id": "table-66-66",
+      "kind": "table",
+      "text": "[`crewAIInc/crewAI-examples`](https://github.com/crewAIInc/crewAI-examples) 邮件自动回复、会议助手、Lead Score、招聘、旅行、内容生成 非常值得",
+      "lineStart": 66,
+      "lineEnd": 66,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-67-67",
+      "kind": "table",
+      "text": "[`NirDiamant/GenAI_Agents`](https://github.com/NirDiamant/GenAI_Agents) 客服 Agent、各类 Agent 教程 非常值得",
+      "lineStart": 67,
+      "lineEnd": 67,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-68-68",
+      "kind": "table",
+      "text": "[`microsoft/RecAI`](https://github.com/microsoft/RecAI) 推荐系统、商品推荐 非常值得",
+      "lineStart": 68,
+      "lineEnd": 68,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-69-69",
+      "kind": "table",
+      "text": "[`microsoft/OptiGuide`](https://github.com/microsoft/OptiGuide) 物流优化、供应链优化 非常值得",
+      "lineStart": 69,
+      "lineEnd": 69,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-70-70",
+      "kind": "table",
+      "text": "[`PurpleAILAB/Decepticon`](https://github.com/PurpleAILAB/Decepticon) 红队测试、安全 Agent 非常值得",
+      "lineStart": 70,
+      "lineEnd": 70,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-71-71",
+      "kind": "table",
+      "text": "[`harshhh28/hia`](https://github.com/harshhh28/hia) 医疗报告分析、健康洞察 非常值得",
+      "lineStart": 71,
+      "lineEnd": 71,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-72-72",
+      "kind": "table",
+      "text": "[`sentient-engineering/jobber`](https://github.com/sentient-engineering/jobber) 招聘推荐、人岗匹配 非常值得",
+      "lineStart": 72,
+      "lineEnd": 72,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-73-73",
+      "kind": "table",
+      "text": "[`AleksNeStu/ai-real-estate-assistant`](https://github.com/AleksNeStu/ai-real-estate-assistant) 房产分析、估价助手 值得看",
+      "lineStart": 73,
+      "lineEnd": 73,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-74-74",
+      "kind": "table",
+      "text": "[`yecchen/MIRAI`](https://github.com/yecchen/MIRAI) 能源需求预测 值得看",
+      "lineStart": 74,
+      "lineEnd": 74,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-75-75",
+      "kind": "table",
+      "text": "[`crosleythomas/MirrorGPT`](https://github.com/crosleythomas/MirrorGPT) 内容个性化、娱乐推荐 值得看",
+      "lineStart": 75,
+      "lineEnd": 75,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-76-76",
+      "kind": "table",
+      "text": "[`NVISOsecurity/cyber-security-llm-agents`](https://github.com/NVISOsecurity/cyber-security-llm-agents) 威胁检测、安全 Agent 值得看",
+      "lineStart": 76,
+      "lineEnd": 76,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-77-77",
+      "kind": "table",
+      "text": "[`MingyuJ666/Stockagent`](https://github.com/MingyuJ666/Stockagent) 自动交易、股票分析 值得看",
+      "lineStart": 77,
+      "lineEnd": 77,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-78-78",
+      "kind": "table",
+      "text": "[`sled-group/driVLMe`](https://github.com/sled-group/driVLMe) 自动驾驶、自主配送 值得看",
+      "lineStart": 78,
+      "lineEnd": 78,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-79-79",
+      "kind": "table",
+      "text": "[`Hoanganhvu123/ShoppingGPT`](https://github.com/Hoanganhvu123/ShoppingGPT) 电商导购、个性化购物 值得看",
+      "lineStart": 79,
+      "lineEnd": 79,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-80-80",
+      "kind": "table",
+      "text": "[`onjas-buidl/LLM-agent-game`](https://github.com/onjas-buidl/LLM-agent-game) 游戏陪玩、游戏 Agent 值得看",
+      "lineStart": 80,
+      "lineEnd": 80,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-81-81",
+      "kind": "table",
+      "text": "[`ahmadvh/AI-Agents-for-Medical-Diagnostics`](https://github.com/ahmadvh/AI-Agents-for-Medical-Diagnostics) 医疗诊断助手 一般",
+      "lineStart": 81,
+      "lineEnd": 81,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-82-82",
+      "kind": "table",
+      "text": "[`hqanhh/EduGPT`](https://github.com/hqanhh/EduGPT) 个性化教育、AI Tutor 一般",
+      "lineStart": 82,
+      "lineEnd": 82,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-83-83",
+      "kind": "table",
+      "text": "[`yuchenxia/llm4ias`](https://github.com/yuchenxia/llm4ias) 工厂流程监控、工业自动化 一般",
+      "lineStart": 83,
+      "lineEnd": 83,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-84-84",
+      "kind": "table",
+      "text": "[`mohammed97ashraf/LLM_Agri_Bot`](https://github.com/mohammed97ashraf/LLM_Agri_Bot) 智慧农业 一般",
+      "lineStart": 84,
+      "lineEnd": 84,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-85-85",
+      "kind": "table",
+      "text": "[`nirbar1985/ai-travel-agent`](https://github.com/nirbar1985/ai-travel-agent) 旅行规划 一般",
+      "lineStart": 85,
+      "lineEnd": 85,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-86-86",
+      "kind": "table",
+      "text": "[`firica/legalai`](https://github.com/firica/legalai) 法律文档审查 一般",
+      "lineStart": 86,
+      "lineEnd": 86,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-87-87",
+      "kind": "table",
+      "text": "[`ashishpatel26/500-AI-Agents-Projects`](https://github.com/ashishpatel26/500-AI-Agents-Projects) AI Agent 用例导航、案例索引 不作为落地项目看",
+      "lineStart": 87,
+      "lineEnd": 87,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    },
+    {
+      "id": "table-88-88",
+      "kind": "table",
+      "text": "[`MahmoudRabea13/MediSuite-Ai-Agent`](https://github.com/MahmoudRabea13/MediSuite-Ai-Agent) 医疗保险理赔 Agent、医疗聊天机器人 不建议，已 404",
+      "lineStart": 88,
+      "lineEnd": 88,
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "taxonomy": "article.body",
+      "importance": 58,
+      "evidenceWeight": 40
+    }
+  ],
+  "taxonomy": [
+    "article.body",
+    "article.method"
+  ],
+  "stats": {
+    "blockCount": 59,
+    "sectionCount": 9,
+    "evidenceBlockCount": 5,
+    "taxonomyCount": 2
+  }
+}

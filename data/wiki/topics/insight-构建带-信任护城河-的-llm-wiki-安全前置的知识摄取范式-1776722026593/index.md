@@ -1,0 +1,38 @@
+---
+title: "insight 构建带 信任护城河 的 llm wiki 安全前置的知识摄取范式 1776722026593"
+slug: "insight-构建带-信任护城河-的-llm-wiki-安全前置的知识摄取范式-1776722026593"
+aliases: ["insight 构建带 信任护城河 的 llm wiki 安全前置的知识摄取范式 1776722026593", "Insight 构建带 信任护城河 的 Llm Wiki 安全前置的知识摄取范式 1776722026593"]
+tags: ["insight", "topic"]
+kind: "topic"
+sources: ["insight-构建带-信任护城河-的-llm-wiki-安全前置的知识摄取范式-1776722026593.md"]
+---
+
+# insight 构建带 信任护城河 的 llm wiki 安全前置的知识摄取范式 1776722026593
+
+## Synthesized Concept
+This concept page is aggregated from 1 source(s).
+
+## Quality Signals
+- Highest supporting source quality: 68/100
+- Average supporting evidence quality: 68/100
+
+## Source Coverage
+- [[Source Summary: Insight 构建带 信任护城河 的 Llm Wiki 安全前置的知识摄取范式 1776722026593]]
+
+## Section Signals
+- Core Insight
+- 价值产出
+- 核心洞察：从“内容清洗”到“信任清洗”
+- 概念碰撞：安全边界 vs 知识图谱
+
+## Source Evidence
+- "**一句话总结**：不要让你的 Wiki 成为黑客的靶场，用“安全前置”的漏斗过滤掉数据中的沙砾，只留下纯净可信的知识结晶。" from Insight 构建带 信任护城河 的 Llm Wiki 安全前置的知识摄取范式 1776722026593 (价值产出) <article.body> [lines 42-42]
+- "结合“安全前置”原则与 LLM Wiki 的构建流程，提出在知识摄取阶段即建立信任边界。通过将抓取链路、权限控制和红队审计注入 Wiki 生成过程，将传统的“内容清洗”升级为“信任清洗”，确保知识库不仅结构清晰，且来源安全、权限清晰。" from Insight 构建带 信任护城河 的 Llm Wiki 安全前置的知识摄取范式 1776722026593 (Core Insight) <article.body> [lines 8-8]
+- "**概念 A（安全/权限前置）** 强调在本地 Agent、抓取链路中必须优先考虑权限、端口、日志和红队测试，而非事后补救。 **概念 B（LLM Wiki）** 专注于通过 LLM 将原始 Markdown、论文和笔记转化为可导航的 Wiki 页面，工作流涵盖摄取、解析和概念提取。" from Insight 构建带 信任护城河 的 Llm Wiki 安全前置的知识摄取范式 1776722026593 (概念碰撞：安全边界 vs 知识图谱) <article.body> [lines 13-14]
+- "传统的 LLM Wiki 工作流（B）主要关注如何将非结构化数据转化为结构化知识（解析与提取），往往忽略了数据来源的**安全性**。引入概念 A 的“安全前置”思想，我们可以重新定义 Wiki 的构建流程：" from Insight 构建带 信任护城河 的 Llm Wiki 安全前置的知识摄取范式 1776722026593 (核心洞察：从“内容清洗”到“信任清洗”) <article.body> [lines 18-18]
+
+## Contradictions
+- No contradictions detected in the current sources
+
+## Backlinks
+- [[Knowledge Map]]

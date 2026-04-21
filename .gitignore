@@ -1,0 +1,15 @@
+node_modules/
+.npm-cache/
+.tmp-starter/
+.tmp-api-only/
+.claude/worktrees/
+.env
+.env.*
+!.env.example
+
+# Temporary and local files
+*.zip
+*.tgz
+*.log
+scratch/
+.llm-wiki-reference/

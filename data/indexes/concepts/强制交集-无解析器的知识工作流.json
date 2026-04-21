@@ -1,0 +1,57 @@
+{
+  "slug": "强制交集-无解析器的知识工作流",
+  "label": "强制交集：无解析器的知识工作流",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "Insight 超越语法 知识合成的直接语义编译 1776770083886"
+  ],
+  "sourceIds": [
+    "insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "sectionHeadings": [
+    "强制交集：无解析器的知识工作流"
+  ],
+  "tokens": [
+    "强制交集",
+    "无解析器的知识工作流"
+  ],
+  "evidence": [
+    {
+      "text": "强制交集：无解析器的知识工作流",
+      "sectionHeading": "强制交集：无解析器的知识工作流",
+      "sectionSlug": "强制交集-无解析器的知识工作流",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 19,
+        "endLine": 19
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770083886: 超越语法：知识合成的直接语义编译",
+        "语义优先：从Markdown解析到直接编译",
+        "强制交集：无解析器的知识工作流"
+      ],
+      "sourceId": "insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceTitle": "Insight 超越语法 知识合成的直接语义编译 1776770083886",
+      "sourcePath": "data/raw/insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceQuality": 57
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 57,
+    "averageSourceQuality": 57
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

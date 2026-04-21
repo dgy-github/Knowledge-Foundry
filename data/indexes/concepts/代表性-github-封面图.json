@@ -1,0 +1,124 @@
+{
+  "slug": "代表性-github-封面图",
+  "label": "代表性 github 封面图",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "500_AI_Agents_Projects_README_仓库实勘报告.md"
+  ],
+  "sourceIds": [
+    "500-ai-agents-projects-readme-仓库实勘报告-md.md"
+  ],
+  "sourcePaths": [
+    "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-500-ai-agents-projects-readme-仓库实勘报告-md.md"
+  ],
+  "sectionHeadings": [
+    "代表性 GitHub 封面图",
+    "第二组重点仓库封面墙"
+  ],
+  "tokens": [
+    "github",
+    "代表性",
+    "封面图"
+  ],
+  "evidence": [
+    {
+      "text": "[`langchain-ai/langgraph`](https://github.com/langchain-ai/langgraph) 多 Agent Workflow、RAG、SQL Agent、代码助手 非常值得",
+      "sectionHeading": "第二组重点仓库封面墙",
+      "sectionSlug": "第二组重点仓库封面墙",
+      "quoteSpan": {
+        "kind": "block:table",
+        "startLine": 65,
+        "endLine": 65
+      },
+      "evidenceKind": "table",
+      "blockImportance": 76,
+      "evidenceWeight": 50,
+      "taxonomy": "article.method",
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "sourceId": "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceTitle": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sourcePath": "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceQuality": 77
+    },
+    {
+      "text": "仓库 封面图",
+      "sectionHeading": "代表性 GitHub 封面图",
+      "sectionSlug": "代表性-github-封面图",
+      "quoteSpan": {
+        "kind": "block:table",
+        "startLine": 42,
+        "endLine": 42
+      },
+      "evidenceKind": "table",
+      "blockImportance": 58,
+      "evidenceWeight": 40,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "代表性 GitHub 封面图"
+      ],
+      "sourceId": "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceTitle": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sourcePath": "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceQuality": 77
+    },
+    {
+      "text": "microsoft/autogen ![autogen](https://opengraph.githubassets.com/1/microsoft/autogen)",
+      "sectionHeading": "代表性 GitHub 封面图",
+      "sectionSlug": "代表性-github-封面图",
+      "quoteSpan": {
+        "kind": "block:table",
+        "startLine": 44,
+        "endLine": 44
+      },
+      "evidenceKind": "table",
+      "blockImportance": 58,
+      "evidenceWeight": 40,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "代表性 GitHub 封面图"
+      ],
+      "sourceId": "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceTitle": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sourcePath": "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceQuality": 77
+    },
+    {
+      "text": "agno-agi/agno ![agno](https://opengraph.githubassets.com/1/agno-agi/agno)",
+      "sectionHeading": "代表性 GitHub 封面图",
+      "sectionSlug": "代表性-github-封面图",
+      "quoteSpan": {
+        "kind": "block:table",
+        "startLine": 45,
+        "endLine": 45
+      },
+      "evidenceKind": "table",
+      "blockImportance": 58,
+      "evidenceWeight": 40,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "代表性 GitHub 封面图"
+      ],
+      "sourceId": "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceTitle": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sourcePath": "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceQuality": 77
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 77,
+    "averageSourceQuality": 77
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "扮演着原始仓库的角色",
+  "label": "扮演着原始仓库的角色",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 原生语义磁盘 超越解析的综合机制 1776769521489"
+  ],
+  "sourceIds": [
+    "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "sectionHeadings": [
+    "1. 背景冲突"
+  ],
+  "tokens": [
+    "扮演着原始仓库的角色"
+  ],
+  "evidence": [
+    {
+      "text": "在传统的数据处理流程中，**磁盘**扮演着原始仓库的角色。数据被写入磁盘，必须经过“编译”或“解析”的步骤（如解析Markdown文件）才能转化为可用的源摘要。这个过程虽然保证了结构化，但也引入了摩擦：我们浪费了计算资源在格式化上，而非内容的语义上。",
+      "sectionHeading": "1. 背景冲突",
+      "sectionSlug": "1-背景冲突",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 15,
+        "endLine": 15
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "概念融合：原生语义磁盘",
+        "1. 背景冲突"
+      ],
+      "sourceId": "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceTitle": "Insight 原生语义磁盘 超越解析的综合机制 1776769521489",
+      "sourcePath": "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

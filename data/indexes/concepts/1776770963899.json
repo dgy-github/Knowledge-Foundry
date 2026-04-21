@@ -1,0 +1,54 @@
+{
+  "slug": "1776770963899",
+  "label": "1776770963899",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899"
+  ],
+  "sourceIds": [
+    "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sectionHeadings": [
+    "Insight 1776770963899: 涌现式现场判断：用‘核心张力’替代线性流程"
+  ],
+  "tokens": [
+    "1776770963899"
+  ],
+  "evidence": [
+    {
+      "text": "Insight 1776770963899: 涌现式现场判断：用‘核心张力’替代线性流程",
+      "sectionHeading": "Insight 1776770963899: 涌现式现场判断：用‘核心张力’替代线性流程",
+      "sectionSlug": "insight-1776770963899-涌现式现场判断-用-核心张力-替代线性流程",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 1,
+        "endLine": 1
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770963899: 涌现式现场判断：用‘核心张力’替代线性流程"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 66,
+    "averageSourceQuality": 66
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

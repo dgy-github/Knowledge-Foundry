@@ -1,0 +1,55 @@
+{
+  "slug": "并不总是依赖",
+  "label": "并不总是依赖",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 语义编译 超越格式的知识重塑 1776769497132"
+  ],
+  "sourceIds": [
+    "insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "sectionHeadings": [
+    "Core Insight"
+  ],
+  "tokens": [
+    "并不总是依赖"
+  ],
+  "evidence": [
+    {
+      "text": "结合了“编译”将原始数据转化为结构化摘要的必要性与“综合”并不总是依赖Markdown解析的灵活性。这一见解表明，真正的编译过程应当区分“语法构建”与“语义合成”，允许系统在处理从磁盘导入的文件时，根据内容的性质智能选择是进行严格的格式解析，还是直接进行概念层面的综合，从而消除格式障碍对知识流动的阻碍。",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 8,
+        "endLine": 8
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776769497132: 语义编译：超越格式的知识重塑",
+        "Core Insight"
+      ],
+      "sourceId": "insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceTitle": "Insight 语义编译 超越格式的知识重塑 1776769497132",
+      "sourcePath": "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

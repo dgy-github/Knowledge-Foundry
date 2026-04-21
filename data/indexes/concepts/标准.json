@@ -1,0 +1,55 @@
+{
+  "slug": "标准",
+  "label": "标准",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 语义编译 超越格式的知识重塑 1776769497132"
+  ],
+  "sourceIds": [
+    "insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "sectionHeadings": [
+    "意外发现：编译作为语义合成器"
+  ],
+  "tokens": [
+    "标准"
+  ],
+  "evidence": [
+    {
+      "text": "1.  **柔性输入**：当文件从磁盘导入时，系统不预设其必须符合Markdown标准。 2.  **智能分流**：",
+      "sectionHeading": "意外发现：编译作为语义合成器",
+      "sectionSlug": "意外发现-编译作为语义合成器",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 25,
+        "endLine": 26
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "语义编译：从磁盘数据到智慧摘要的智能跃迁",
+        "意外发现：编译作为语义合成器"
+      ],
+      "sourceId": "insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceTitle": "Insight 语义编译 超越格式的知识重塑 1776769497132",
+      "sourcePath": "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

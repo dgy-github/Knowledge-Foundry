@@ -1,0 +1,270 @@
+{
+  "id": "insight-brainstorm-failed-1776769918027.md.json",
+  "sourceId": "insight-brainstorm-failed-1776769918027.md",
+  "title": "Insight 1776769918027: Brainstorm Failed",
+  "displayTitle": "Insight Brainstorm Failed 1776769918027",
+  "sourceType": "markdown",
+  "sourcePath": "data/raw/insight-brainstorm-failed-1776769918027.md",
+  "importMode": "file",
+  "originalPath": "data/raw/insight-brainstorm-failed-1776769918027.md",
+  "tags": [],
+  "excerpt": "# Insight 1776769918027: Brainstorm Failed  ## 🌌 Evolution Cross-Pollination - **A**: [[背景冲突]] - **B**: [[Zettel Workflow]] ",
+  "contentHash": "ebf390f7f510c80ec31cf8757360b1936aa2eb3f",
+  "parsedAt": "2026-04-21T11:11:58.032Z",
+  "sections": [
+    {
+      "heading": "🌌 Evolution Cross-Pollination",
+      "slug": "evolution-cross-pollination",
+      "level": 2,
+      "startLine": 3,
+      "endLine": 5,
+      "body": "**A**: [[背景冲突]] **B**: [[Zettel Workflow]]",
+      "bulletCount": 2
+    },
+    {
+      "heading": "Core Insight",
+      "slug": "core-insight",
+      "level": 2,
+      "startLine": 7,
+      "endLine": 8,
+      "body": "Error",
+      "bulletCount": 0
+    },
+    {
+      "heading": "Elaboration",
+      "slug": "elaboration",
+      "level": 2,
+      "startLine": 10,
+      "endLine": 11,
+      "body": "Failed to brainstorm.",
+      "bulletCount": 0
+    }
+  ],
+  "bullets": [
+    {
+      "text": "**A**: [[背景冲突]]",
+      "line": 4,
+      "sectionSlug": "evolution-cross-pollination",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "quoteSpan": {
+        "kind": "bullet",
+        "startLine": 4,
+        "endLine": 4
+      }
+    },
+    {
+      "text": "**B**: [[Zettel Workflow]]",
+      "line": 5,
+      "sectionSlug": "evolution-cross-pollination",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "quoteSpan": {
+        "kind": "bullet",
+        "startLine": 5,
+        "endLine": 5
+      }
+    }
+  ],
+  "paragraphs": [
+    {
+      "text": "# Insight 1776769918027: Brainstorm Failed",
+      "quoteSpan": {
+        "kind": "paragraph",
+        "startLine": 1,
+        "endLine": 1
+      },
+      "sectionSlug": null,
+      "sectionHeading": null
+    },
+    {
+      "text": "Error",
+      "quoteSpan": {
+        "kind": "paragraph",
+        "startLine": 8,
+        "endLine": 8
+      },
+      "sectionSlug": "core-insight",
+      "sectionHeading": "Core Insight"
+    },
+    {
+      "text": "Failed to brainstorm.",
+      "quoteSpan": {
+        "kind": "paragraph",
+        "startLine": 11,
+        "endLine": 11
+      },
+      "sectionSlug": "elaboration",
+      "sectionHeading": "Elaboration"
+    }
+  ],
+  "wikiLinks": [
+    "背景冲突",
+    "Zettel Workflow"
+  ],
+  "concepts": [
+    {
+      "label": "Insight Brainstorm Failed 1776769918027",
+      "aliasOf": "Insight Brainstorm Failed 1776769918027",
+      "slug": "insight-brainstorm-failed-1776769918027",
+      "kind": "insight",
+      "tokens": [
+        "insight",
+        "brainstorm",
+        "failed",
+        "1776769918027"
+      ]
+    },
+    {
+      "label": "insight 1776769918027: brainstorm failed",
+      "aliasOf": "Insight 1776769918027: Brainstorm Failed",
+      "slug": "insight-1776769918027-brainstorm-failed",
+      "kind": "document-title",
+      "tokens": [
+        "insight",
+        "1776769918027",
+        "brainstorm",
+        "failed"
+      ]
+    },
+    {
+      "label": "Markdown",
+      "aliasOf": "markdown",
+      "slug": "markdown",
+      "kind": "source-type",
+      "tokens": [
+        "markdown"
+      ]
+    },
+    {
+      "label": "🌌 evolution cross-pollination",
+      "aliasOf": "🌌 Evolution Cross-Pollination",
+      "slug": "evolution-cross-pollination",
+      "kind": "section",
+      "tokens": [
+        "evolution",
+        "cross-pollination"
+      ]
+    },
+    {
+      "label": "Core Insight",
+      "aliasOf": "Core Insight",
+      "slug": "core-insight",
+      "kind": "section",
+      "tokens": [
+        "core",
+        "insight"
+      ]
+    },
+    {
+      "label": "Elaboration",
+      "aliasOf": "Elaboration",
+      "slug": "elaboration",
+      "kind": "section",
+      "tokens": [
+        "elaboration"
+      ]
+    },
+    {
+      "label": "背景冲突",
+      "aliasOf": "背景冲突",
+      "slug": "背景冲突",
+      "kind": "wikilink",
+      "tokens": [
+        "背景冲突"
+      ]
+    },
+    {
+      "label": "Zettel Workflow",
+      "aliasOf": "Zettel Workflow",
+      "slug": "zettel-workflow",
+      "kind": "wikilink",
+      "tokens": [
+        "zettel",
+        "workflow"
+      ]
+    },
+    {
+      "label": "1776769918027",
+      "aliasOf": "1776769918027",
+      "slug": "1776769918027",
+      "kind": "keyword",
+      "tokens": [
+        "1776769918027"
+      ]
+    },
+    {
+      "label": "Brainstorm",
+      "aliasOf": "brainstorm",
+      "slug": "brainstorm",
+      "kind": "keyword",
+      "tokens": [
+        "brainstorm"
+      ]
+    },
+    {
+      "label": "Core",
+      "aliasOf": "core",
+      "slug": "core",
+      "kind": "keyword",
+      "tokens": [
+        "core"
+      ]
+    },
+    {
+      "label": "Cross-pollination",
+      "aliasOf": "cross-pollination",
+      "slug": "cross-pollination",
+      "kind": "keyword",
+      "tokens": [
+        "cross-pollination"
+      ]
+    },
+    {
+      "label": "Error",
+      "aliasOf": "error",
+      "slug": "error",
+      "kind": "keyword",
+      "tokens": [
+        "error"
+      ]
+    },
+    {
+      "label": "Evolution",
+      "aliasOf": "evolution",
+      "slug": "evolution",
+      "kind": "keyword",
+      "tokens": [
+        "evolution"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "text": "**A**: [[背景冲突]]",
+      "polarity": "neutral"
+    },
+    {
+      "text": "**B**: [[Zettel Workflow]]",
+      "polarity": "neutral"
+    },
+    {
+      "text": "# Insight 1776769918027: Brainstorm Failed",
+      "polarity": "neutral"
+    },
+    {
+      "text": "Error",
+      "polarity": "neutral"
+    },
+    {
+      "text": "Failed to brainstorm.",
+      "polarity": "neutral"
+    }
+  ],
+  "stats": {
+    "lineCount": 11,
+    "wordCount": 25,
+    "sectionCount": 3,
+    "bulletCount": 2,
+    "paragraphCount": 3,
+    "conceptCount": 14
+  }
+}

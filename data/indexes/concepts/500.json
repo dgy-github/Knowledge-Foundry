@@ -1,0 +1,122 @@
+{
+  "slug": "500",
+  "label": "500",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "500_AI_Agents_Projects_README_仓库实勘报告.md"
+  ],
+  "sourceIds": [
+    "500-ai-agents-projects-readme-仓库实勘报告-md.md"
+  ],
+  "sourcePaths": [
+    "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-500-ai-agents-projects-readme-仓库实勘报告-md.md"
+  ],
+  "sectionHeadings": [
+    "500 AI Agents Projects 仓库三列表",
+    "500_AI_Agents_Projects_README_仓库实勘报告.md",
+    "一页结论",
+    "第二组重点仓库封面墙"
+  ],
+  "tokens": [
+    "500"
+  ],
+  "evidence": [
+    {
+      "text": "[`ashishpatel26/500-AI-Agents-Projects`](https://github.com/ashishpatel26/500-AI-Agents-Projects) AI Agent 用例导航、案例索引 不作为落地项目看",
+      "sectionHeading": "第二组重点仓库封面墙",
+      "sectionSlug": "第二组重点仓库封面墙",
+      "quoteSpan": {
+        "kind": "block:table",
+        "startLine": 87,
+        "endLine": 87
+      },
+      "evidenceKind": "table",
+      "blockImportance": 58,
+      "evidenceWeight": 40,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "sourceId": "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceTitle": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sourcePath": "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceQuality": 77
+    },
+    {
+      "text": "![500 AI Agents Projects 去重实勘图](./assets/repo_scan_matrix.svg)",
+      "sectionHeading": "500 AI Agents Projects 仓库三列表",
+      "sectionSlug": "500-ai-agents-projects-仓库三列表",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 9,
+        "endLine": 9
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表"
+      ],
+      "sourceId": "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceTitle": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sourcePath": "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceQuality": 77
+    },
+    {
+      "text": "这份不是再抄一遍 `500+` 用例，而是把 README 里能对位到的仓库去重后，压成一张能直接判断的表",
+      "sectionHeading": "一页结论",
+      "sectionSlug": "一页结论",
+      "quoteSpan": {
+        "kind": "block:list",
+        "startLine": 13,
+        "endLine": 13
+      },
+      "evidenceKind": "list",
+      "blockImportance": 66,
+      "evidenceWeight": 28,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "一页结论"
+      ],
+      "sourceId": "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceTitle": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sourcePath": "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceQuality": 77
+    },
+    {
+      "text": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sectionHeading": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sectionSlug": "500-ai-agents-projects-readme-仓库实勘报告-md",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 1,
+        "endLine": 1
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 92,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "500_AI_Agents_Projects_README_仓库实勘报告.md"
+      ],
+      "sourceId": "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceTitle": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sourcePath": "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceQuality": 77
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 77,
+    "averageSourceQuality": 77
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

@@ -1,0 +1,85 @@
+{
+  "sourceFamilies": {
+    "repo": {
+      "detect": ["repo", "repository", "research-note"],
+      "taxonomyRules": [
+        { "taxonomy": "repo.readme", "patterns": ["readme"] },
+        { "taxonomy": "repo.overview", "patterns": ["overview", "about", "intro"] },
+        { "taxonomy": "repo.installation", "patterns": ["install", "setup"] },
+        { "taxonomy": "repo.usage", "patterns": ["usage", "quickstart", "run", "cli"] },
+        { "taxonomy": "repo.architecture", "patterns": ["architecture", "design", "system"] },
+        { "taxonomy": "repo.api", "patterns": ["api", "endpoint", "contract"] },
+        { "taxonomy": "repo.limitations", "patterns": ["limitation", "limitations", "caveat", "constraint"] },
+        { "taxonomy": "repo.roadmap", "patterns": ["roadmap", "todo", "next step", "next steps"] },
+        { "taxonomy": "repo.evidence", "patterns": ["evidence", "quote", "quotes", "citation", "citations"] }
+      ],
+      "fallbackTaxonomy": "repo.misc"
+    },
+    "article": {
+      "detect": [],
+      "taxonomyRules": [
+        { "taxonomy": "article.title", "patterns": ["title", "headline"] },
+        { "taxonomy": "article.summary", "patterns": ["summary", "abstract", "dek"] },
+        { "taxonomy": "article.background", "patterns": ["introduction", "background", "context"] },
+        { "taxonomy": "article.method", "patterns": ["method", "approach", "workflow", "architecture", "design"] },
+        { "taxonomy": "article.findings", "patterns": ["finding", "findings", "result", "results"] },
+        { "taxonomy": "article.analysis", "patterns": ["discussion", "analysis", "implication", "implications"] },
+        { "taxonomy": "article.references", "patterns": ["reference", "references", "citation", "citations", "links"] },
+        { "taxonomy": "article.evidence", "patterns": ["evidence", "quote", "quotes"] }
+      ],
+      "fallbackTaxonomy": "article.body"
+    }
+  },
+  "blockKindWeights": {
+    "heading": 12,
+    "paragraph": 16,
+    "list": 10,
+    "quote": 18,
+    "table": 14,
+    "code": 8
+  },
+  "taxonomyWeights": {
+    "repo.readme": 12,
+    "repo.overview": 12,
+    "repo.installation": 6,
+    "repo.usage": 12,
+    "repo.architecture": 12,
+    "repo.api": 12,
+    "repo.limitations": 6,
+    "repo.roadmap": 6,
+    "repo.evidence": 12,
+    "repo.misc": 2,
+    "article.title": 6,
+    "article.summary": 12,
+    "article.background": 6,
+    "article.method": 12,
+    "article.findings": 12,
+    "article.analysis": 6,
+    "article.references": 6,
+    "article.evidence": 12,
+    "article.body": 2
+  },
+  "signalPatterns": {
+    "evidenceBoost": ["must", "should", "supports", "workflow", "evidence", "compile", "query", "parser", "readme", "rank", "quality"],
+    "codeBoost": ["http", "curl", "fetch", "const ", "function ", "class "],
+    "sectionBoost": ["readme", "overview", "summary", "usage", "architecture", "evidence", "findings"]
+  },
+  "qualityWeights": {
+    "contentDepth": 0.22,
+    "structureQuality": 0.18,
+    "sourceAuthority": 0.18,
+    "freshness": 0.08,
+    "evidenceDensity": 0.18,
+    "repoSignal": 0.16,
+    "noisePenalty": 0.1
+  },
+  "qualityThresholds": {
+    "contentDepth": {
+      "high": { "minWords": 220, "score": 92 },
+      "medium": { "minWords": 140, "score": 78 },
+      "light": { "minWords": 70, "score": 62 },
+      "minimal": { "minWords": 30, "score": 44 },
+      "fallback": 18
+    }
+  }
+}

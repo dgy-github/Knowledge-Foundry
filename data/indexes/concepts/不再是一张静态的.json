@@ -1,0 +1,56 @@
+{
+  "slug": "不再是一张静态的",
+  "label": "不再是一张静态的",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951"
+  ],
+  "sourceIds": [
+    "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "sectionHeadings": [
+    "1. 从“看皮相”到“看骨相”"
+  ],
+  "tokens": [
+    "不再是一张静态的"
+  ],
+  "evidence": [
+    {
+      "text": "在这个新模型中，封面墙上的每一个“封面”不再是一张静态的JPG图片，而是**核心综合路径的微缩可视化**。",
+      "sectionHeading": "1. 从“看皮相”到“看骨相”",
+      "sectionSlug": "1-从-看皮相-到-看骨相",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 24,
+        "endLine": 24
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "知识脉络的可视化重构",
+        "洞察融合",
+        "1. 从“看皮相”到“看骨相”"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

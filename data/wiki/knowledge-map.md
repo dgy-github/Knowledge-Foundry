@@ -1,0 +1,180 @@
+# Knowledge Map
+
+Compiled at 2026-04-21T11:31:33.151Z.
+
+## Source Coverage
+- [[Source Summary: 500_AI_Agents_Projects_README_仓库实勘报告.md]] -> [[500 Ai Agents Projects Readme 仓库实勘报告 Md]], [[Markdown]], [[Source Type]], [[Notes]], [[一页结论]], [[仓库分层图]], [[实勘判断流程图]], [[代表性 Github 封面图]], [[第二组重点仓库封面墙]], [[12]], [[26]], [[404]], [[500]], [[500 Ai Agents Projects]], [[安全]], [[安全红队]], [[案例索引]]
+- [[Source Summary: Insight 404错误作为进化催化剂 数字物种的重引入与杂交 1776771093148]] -> [[Insight 404错误作为进化催化剂 数字物种的重引入与杂交 1776771093148]], [[Insight 1776771093148 404错误作为进化催化剂 数字物种的重引入与杂交]], [[Markdown]], [[Evolution Cross Pollination]], [[Core Insight]], [[Elaboration]], [[概念定义]], [[强制连接 代码园丁机制]], [[机制运作方式]], [[洞察价值]], [[404]], [[1776771093148]], [[被废弃或链接失效]], [[变异实验室]], [[并建议]], [[并进化出了更强的抗病性]], [[并遇到]], [[不再是用户体验的终点]]
+- [[Source Summary: Insight 超越语法 知识合成的直接语义编译 1776770083886]] -> [[Insight 超越语法 知识合成的直接语义编译 1776770083886]], [[Insight 1776770083886 超越语法 知识合成的直接语义编译]], [[Markdown]], [[Evolution Cross Pollination]], [[Core Insight]], [[Elaboration]], [[语义优先 从markdown解析到直接编译]], [[编译器的深层隐喻]], [[强制交集 无解析器的知识工作流]], [[结论]], [[Case]], [[编译作为语义合成器]], [[1776770083886]], [[案例]], [[本质上是语义的合成]], [[编译]], [[编译不仅是语法的转换]], [[编译器并不关心代码写得多漂亮]], [[编译器会优化代码路径]]
+- [[Source Summary: Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899]] -> [[Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899]], [[Insight 1776770963899 涌现式现场判断 用 核心张力 替代线性流程]], [[Markdown]], [[Evolution Cross Pollination]], [[Core Insight]], [[Elaboration]], [[1 背景冲突]], [[2 方法论重构]], [[第一步 剥离 去噪]], [[第二步 标记 符号化]], [[第三步 聚变 物理相邻]], [[第四步 综合 张力产生判断]], [[3 应用场景 动态决策树]], [[4 结论]], [[标记]], [[实勘判断流程图]], [[1776770963899]], [[60]], [[背景冲突]], [[标准核心]], [[并将其与决策标准并列放置]], [[并列标准]], [[剥离]]
+- [[Source Summary: Insight 语义编译 超越格式的知识重塑 1776769497132]] -> [[Insight 语义编译 超越格式的知识重塑 1776769497132]], [[Insight 1776769497132 语义编译 超越格式的知识重塑]], [[Markdown]], [[Evolution Cross Pollination]], [[Core Insight]], [[Elaboration]], [[传统的编译困境]], [[意外发现 编译作为语义合成器]], [[应用价值]], [[Does]], [[Compile]], [[1776769497132]], [[保留传统的]], [[编译]], [[编译的终极目标不是验证格式]], [[编译作为语义合成器]], [[标准]], [[并不总是依赖]], [[才能被编译和利用]]
+- [[Source Summary: Insight 原生语义磁盘 超越解析的综合机制 1776769521489]] -> [[Insight 原生语义磁盘 超越解析的综合机制 1776769521489]], [[Insight 1776769521489 原生语义磁盘 超越解析的综合机制]], [[Markdown]], [[Evolution Cross Pollination]], [[Core Insight]], [[Elaboration]], [[1 背景冲突]], [[2 意外的交集 零解析存储]], [[3 应用与启示]], [[结论]], [[Disk]], [[Synthesis Notes]], [[1776769521489]], [[扮演着原始仓库的角色]], [[背景冲突]], [[必须经过]], [[编译]], [[编译后可用]], [[变为]], [[步骤变得过时]]
+- [[Source Summary: Insight 原子化洞察 超越解析器的核心综合法 1776770210776]] -> [[Insight 原子化洞察 超越解析器的核心综合法 1776770210776]], [[Insight 1776770210776 原子化洞察 超越解析器的核心综合法]], [[Markdown]], [[Evolution Cross Pollination]], [[Core Insight]], [[Elaboration]], [[概念碰撞]], [[洞察深度解析]], [[2 直接提取核心的综合路径]], [[应用场景 极速思维链]], [[3 实施策略 核反应 式笔记法]], [[结论]], [[Core]], [[Knowledge Synthesis]], [[1776770210776]], [[本次意外发现将两者结合]], [[本身]], [[标记]], [[标记这个核心]], [[剥离]], [[剥离外壳的思想核聚变]], [[不可分割的中心]]
+- [[Source Summary: Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951]] -> [[Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951]], [[Insight 1776770962951 知识脉络的可视化重构 从静态封面墙到动态核心路径]], [[Markdown]], [[Evolution Cross Pollination]], [[Core Insight]], [[Elaboration]], [[概念碰撞]], [[洞察融合]], [[3 动态策展机制]], [[价值总结]], [[第二组重点仓库封面墙]], [[2 直接提取核心的综合路径]], [[1776770962951]], [[被提炼过的知识骨架]], [[并高亮显示最关键的三个决策点]], [[并梳理出逻辑脉络]], [[不再是一张静态的]], [[才能开始阅读和消化内容]], [[仓库]]
+- [[Source Summary: Insight Brainstorm Failed 1776769896097]] -> [[Insight Brainstorm Failed 1776769896097]], [[Insight 1776769896097 Brainstorm Failed]], [[Markdown]], [[Evolution Cross Pollination]], [[Core Insight]], [[Elaboration]], [[Markdown Parse]], [[1776769896097]], [[Brainstorm]], [[Core]], [[Cross Pollination]], [[Error]], [[Evolution]], [[Failed]]
+- [[Source Summary: Insight Brainstorm Failed 1776769918027]] -> [[Insight Brainstorm Failed 1776769918027]], [[Insight 1776769918027 Brainstorm Failed]], [[Markdown]], [[Evolution Cross Pollination]], [[Core Insight]], [[Elaboration]], [[背景冲突]], [[Zettel Workflow]], [[1776769918027]], [[Brainstorm]], [[Core]], [[Cross Pollination]], [[Error]], [[Evolution]]
+- [[Source Summary: Llm Knowledge Bases]] -> [[Llm Knowledge Bases]], [[Llm Knowledge Bases Test]], [[Markdown]], [[Bases]], [[Content]], [[Knowledge]], [[Llm]], [[Test]]
+- [[Source Summary: Synthesis Notes]] -> [[Synthesis Notes]], [[Markdown]], [[Knowledge Synthesis]], [[Zettel Workflow]], [[Source Type]], [[Notes]], [[Evidence]], [[Markdown Parse]], [[Quote Span]], [[Case]], [[Concept]], [[Does]], [[Every]], [[Knowledge]], [[Make]]
+
+## Concept Coverage
+- [[🌌 evolution cross-pollination]] -> `data/wiki/topics/evolution-cross-pollination/index.md` covered by 9 source(s)
+- [[1. 背景冲突]] -> `data/wiki/topics/1-背景冲突/index.md` covered by 2 source(s)
+- [[12]] -> `data/wiki/topics/12/index.md` covered by 1 source(s)
+- [[1776769497132]] -> `data/wiki/topics/1776769497132/index.md` covered by 1 source(s)
+- [[1776769521489]] -> `data/wiki/topics/1776769521489/index.md` covered by 1 source(s)
+- [[1776769896097]] -> `data/wiki/topics/1776769896097/index.md` covered by 1 source(s)
+- [[1776769918027]] -> `data/wiki/topics/1776769918027/index.md` covered by 1 source(s)
+- [[1776770083886]] -> `data/wiki/topics/1776770083886/index.md` covered by 1 source(s)
+- [[1776770210776]] -> `data/wiki/topics/1776770210776/index.md` covered by 1 source(s)
+- [[1776770962951]] -> `data/wiki/topics/1776770962951/index.md` covered by 1 source(s)
+- [[1776770963899]] -> `data/wiki/topics/1776770963899/index.md` covered by 1 source(s)
+- [[1776771093148]] -> `data/wiki/topics/1776771093148/index.md` covered by 1 source(s)
+- [[2. 方法论重构]] -> `data/wiki/topics/2-方法论重构/index.md` covered by 1 source(s)
+- [[2. 意外的交集：零解析存储]] -> `data/wiki/topics/2-意外的交集-零解析存储/index.md` covered by 1 source(s)
+- [[2. 直接提取核心的综合路径]] -> `data/wiki/topics/2-直接提取核心的综合路径/index.md` covered by 2 source(s)
+- [[26]] -> `data/wiki/topics/26/index.md` covered by 1 source(s)
+- [[3. 动态策展机制]] -> `data/wiki/topics/3-动态策展机制/index.md` covered by 1 source(s)
+- [[3. 实施策略："核反应"式笔记法]] -> `data/wiki/topics/3-实施策略-核反应-式笔记法/index.md` covered by 1 source(s)
+- [[3. 应用场景：动态决策树]] -> `data/wiki/topics/3-应用场景-动态决策树/index.md` covered by 1 source(s)
+- [[3. 应用与启示]] -> `data/wiki/topics/3-应用与启示/index.md` covered by 1 source(s)
+- [[4. 结论]] -> `data/wiki/topics/4-结论/index.md` covered by 1 source(s)
+- [[404]] -> `data/wiki/topics/404/index.md` covered by 2 source(s)
+- [[500]] -> `data/wiki/topics/500/index.md` covered by 1 source(s)
+- [[500_ai_agents_projects_readme_仓库实勘报告.md]] -> `data/wiki/topics/500-ai-agents-projects-readme-仓库实勘报告-md/index.md` covered by 1 source(s)
+- [[500-ai-agents-projects]] -> `data/wiki/topics/500-ai-agents-projects/index.md` covered by 1 source(s)
+- [[60]] -> `data/wiki/topics/60/index.md` covered by 1 source(s)
+- [[安全]] -> `data/wiki/topics/安全/index.md` covered by 1 source(s)
+- [[安全红队]] -> `data/wiki/topics/安全红队/index.md` covered by 1 source(s)
+- [[案例]] -> `data/wiki/topics/案例/index.md` covered by 1 source(s)
+- [[案例索引]] -> `data/wiki/topics/案例索引/index.md` covered by 1 source(s)
+- [[扮演着原始仓库的角色]] -> `data/wiki/topics/扮演着原始仓库的角色/index.md` covered by 1 source(s)
+- [[保留传统的]] -> `data/wiki/topics/保留传统的/index.md` covered by 1 source(s)
+- [[背景冲突]] -> `data/wiki/topics/背景冲突/index.md` covered by 3 source(s)
+- [[被废弃或链接失效]] -> `data/wiki/topics/被废弃或链接失效/index.md` covered by 1 source(s)
+- [[被提炼过的知识骨架]] -> `data/wiki/topics/被提炼过的知识骨架/index.md` covered by 1 source(s)
+- [[本次意外发现将两者结合]] -> `data/wiki/topics/本次意外发现将两者结合/index.md` covered by 1 source(s)
+- [[本身]] -> `data/wiki/topics/本身/index.md` covered by 1 source(s)
+- [[本质上是语义的合成]] -> `data/wiki/topics/本质上是语义的合成/index.md` covered by 1 source(s)
+- [[必须经过]] -> `data/wiki/topics/必须经过/index.md` covered by 1 source(s)
+- [[编译]] -> `data/wiki/topics/编译/index.md` covered by 3 source(s)
+- [[编译不仅是语法的转换]] -> `data/wiki/topics/编译不仅是语法的转换/index.md` covered by 1 source(s)
+- [[编译的终极目标不是验证格式]] -> `data/wiki/topics/编译的终极目标不是验证格式/index.md` covered by 1 source(s)
+- [[编译后可用]] -> `data/wiki/topics/编译后可用/index.md` covered by 1 source(s)
+- [[编译器并不关心代码写得多漂亮]] -> `data/wiki/topics/编译器并不关心代码写得多漂亮/index.md` covered by 1 source(s)
+- [[编译器的深层隐喻]] -> `data/wiki/topics/编译器的深层隐喻/index.md` covered by 1 source(s)
+- [[编译器会优化代码路径]] -> `data/wiki/topics/编译器会优化代码路径/index.md` covered by 1 source(s)
+- [[编译作为语义合成器]] -> `data/wiki/topics/编译作为语义合成器/index.md` covered by 2 source(s)
+- [[变为]] -> `data/wiki/topics/变为/index.md` covered by 1 source(s)
+- [[变异实验室]] -> `data/wiki/topics/变异实验室/index.md` covered by 1 source(s)
+- [[标记]] -> `data/wiki/topics/标记/index.md` covered by 2 source(s)
+- [[标记这个核心]] -> `data/wiki/topics/标记这个核心/index.md` covered by 1 source(s)
+- [[标准]] -> `data/wiki/topics/标准/index.md` covered by 1 source(s)
+- [[标准核心]] -> `data/wiki/topics/标准核心/index.md` covered by 1 source(s)
+- [[并不总是依赖]] -> `data/wiki/topics/并不总是依赖/index.md` covered by 1 source(s)
+- [[并高亮显示最关键的三个决策点]] -> `data/wiki/topics/并高亮显示最关键的三个决策点/index.md` covered by 1 source(s)
+- [[并建议]] -> `data/wiki/topics/并建议/index.md` covered by 1 source(s)
+- [[并将其与决策标准并列放置]] -> `data/wiki/topics/并将其与决策标准并列放置/index.md` covered by 1 source(s)
+- [[并进化出了更强的抗病性]] -> `data/wiki/topics/并进化出了更强的抗病性/index.md` covered by 1 source(s)
+- [[并列标准]] -> `data/wiki/topics/并列标准/index.md` covered by 1 source(s)
+- [[并梳理出逻辑脉络]] -> `data/wiki/topics/并梳理出逻辑脉络/index.md` covered by 1 source(s)
+- [[并遇到]] -> `data/wiki/topics/并遇到/index.md` covered by 1 source(s)
+- [[剥离]] -> `data/wiki/topics/剥离/index.md` covered by 2 source(s)
+- [[剥离外壳的思想核聚变]] -> `data/wiki/topics/剥离外壳的思想核聚变/index.md` covered by 1 source(s)
+- [[不可分割的中心]] -> `data/wiki/topics/不可分割的中心/index.md` covered by 1 source(s)
+- [[不再是一张静态的]] -> `data/wiki/topics/不再是一张静态的/index.md` covered by 1 source(s)
+- [[不再是用户体验的终点]] -> `data/wiki/topics/不再是用户体验的终点/index.md` covered by 1 source(s)
+- [[步骤变得过时]] -> `data/wiki/topics/步骤变得过时/index.md` covered by 1 source(s)
+- [[才能被编译和利用]] -> `data/wiki/topics/才能被编译和利用/index.md` covered by 1 source(s)
+- [[才能开始阅读和消化内容]] -> `data/wiki/topics/才能开始阅读和消化内容/index.md` covered by 1 source(s)
+- [[仓库]] -> `data/wiki/topics/仓库/index.md` covered by 1 source(s)
+- [[仓库分层图]] -> `data/wiki/topics/仓库分层图/index.md` covered by 1 source(s)
+- [[传统的编译困境]] -> `data/wiki/topics/传统的编译困境/index.md` covered by 1 source(s)
+- [[代表性 github 封面图]] -> `data/wiki/topics/代表性-github-封面图/index.md` covered by 1 source(s)
+- [[第二步：标记（符号化）]] -> `data/wiki/topics/第二步-标记-符号化/index.md` covered by 1 source(s)
+- [[第二组重点仓库封面墙]] -> `data/wiki/topics/第二组重点仓库封面墙/index.md` covered by 2 source(s)
+- [[第三步：聚变（物理相邻）]] -> `data/wiki/topics/第三步-聚变-物理相邻/index.md` covered by 1 source(s)
+- [[第四步：综合（张力产生判断）]] -> `data/wiki/topics/第四步-综合-张力产生判断/index.md` covered by 1 source(s)
+- [[第一步：剥离（去噪）]] -> `data/wiki/topics/第一步-剥离-去噪/index.md` covered by 1 source(s)
+- [[洞察价值]] -> `data/wiki/topics/洞察价值/index.md` covered by 1 source(s)
+- [[洞察融合]] -> `data/wiki/topics/洞察融合/index.md` covered by 1 source(s)
+- [[洞察深度解析]] -> `data/wiki/topics/洞察深度解析/index.md` covered by 1 source(s)
+- [[概念定义]] -> `data/wiki/topics/概念定义/index.md` covered by 1 source(s)
+- [[概念碰撞]] -> `data/wiki/topics/概念碰撞/index.md` covered by 2 source(s)
+- [[机制运作方式]] -> `data/wiki/topics/机制运作方式/index.md` covered by 1 source(s)
+- [[价值总结]] -> `data/wiki/topics/价值总结/index.md` covered by 1 source(s)
+- [[结论]] -> `data/wiki/topics/结论/index.md` covered by 3 source(s)
+- [[强制交集：无解析器的知识工作流]] -> `data/wiki/topics/强制交集-无解析器的知识工作流/index.md` covered by 1 source(s)
+- [[强制连接：代码园丁机制]] -> `data/wiki/topics/强制连接-代码园丁机制/index.md` covered by 1 source(s)
+- [[实勘判断流程图]] -> `data/wiki/topics/实勘判断流程图/index.md` covered by 2 source(s)
+- [[一页结论]] -> `data/wiki/topics/一页结论/index.md` covered by 1 source(s)
+- [[意外发现：编译作为语义合成器]] -> `data/wiki/topics/意外发现-编译作为语义合成器/index.md` covered by 1 source(s)
+- [[应用场景：极速思维链]] -> `data/wiki/topics/应用场景-极速思维链/index.md` covered by 1 source(s)
+- [[应用价值]] -> `data/wiki/topics/应用价值/index.md` covered by 1 source(s)
+- [[语义优先：从markdown解析到直接编译]] -> `data/wiki/topics/语义优先-从markdown解析到直接编译/index.md` covered by 1 source(s)
+- [[Bases]] -> `data/wiki/topics/bases/index.md` covered by 1 source(s)
+- [[Brainstorm]] -> `data/wiki/topics/brainstorm/index.md` covered by 2 source(s)
+- [[Case]] -> `data/wiki/topics/case/index.md` covered by 2 source(s)
+- [[Compile]] -> `data/wiki/topics/compile/index.md` covered by 1 source(s)
+- [[Concept]] -> `data/wiki/topics/concept/index.md` covered by 1 source(s)
+- [[Content]] -> `data/wiki/topics/content/index.md` covered by 1 source(s)
+- [[Core]] -> `data/wiki/topics/core/index.md` covered by 3 source(s)
+- [[Core Insight]] -> `data/wiki/topics/core-insight/index.md` covered by 9 source(s)
+- [[Cross-pollination]] -> `data/wiki/topics/cross-pollination/index.md` covered by 2 source(s)
+- [[Disk]] -> `data/wiki/topics/disk/index.md` covered by 1 source(s)
+- [[Does]] -> `data/wiki/topics/does/index.md` covered by 2 source(s)
+- [[Elaboration]] -> `data/wiki/topics/elaboration/index.md` covered by 9 source(s)
+- [[Error]] -> `data/wiki/topics/error/index.md` covered by 2 source(s)
+- [[Every]] -> `data/wiki/topics/every/index.md` covered by 1 source(s)
+- [[Evidence]] -> `data/wiki/topics/evidence/index.md` covered by 1 source(s)
+- [[Evolution]] -> `data/wiki/topics/evolution/index.md` covered by 2 source(s)
+- [[Failed]] -> `data/wiki/topics/failed/index.md` covered by 1 source(s)
+- [[insight 1776769497132: 语义编译：超越格式的知识重塑]] -> `data/wiki/topics/insight-1776769497132-语义编译-超越格式的知识重塑/index.md` covered by 1 source(s)
+- [[insight 1776769521489: 原生语义磁盘：超越解析的综合机制]] -> `data/wiki/topics/insight-1776769521489-原生语义磁盘-超越解析的综合机制/index.md` covered by 1 source(s)
+- [[insight 1776769896097: brainstorm failed]] -> `data/wiki/topics/insight-1776769896097-brainstorm-failed/index.md` covered by 1 source(s)
+- [[insight 1776769918027: brainstorm failed]] -> `data/wiki/topics/insight-1776769918027-brainstorm-failed/index.md` covered by 1 source(s)
+- [[insight 1776770083886: 超越语法：知识合成的直接语义编译]] -> `data/wiki/topics/insight-1776770083886-超越语法-知识合成的直接语义编译/index.md` covered by 1 source(s)
+- [[insight 1776770210776: 原子化洞察：超越解析器的核心综合法]] -> `data/wiki/topics/insight-1776770210776-原子化洞察-超越解析器的核心综合法/index.md` covered by 1 source(s)
+- [[insight 1776770962951: 知识脉络的可视化重构：从静态封面墙到动态核心路径]] -> `data/wiki/topics/insight-1776770962951-知识脉络的可视化重构-从静态封面墙到动态核心路径/index.md` covered by 1 source(s)
+- [[insight 1776770963899: 涌现式现场判断：用‘核心张力’替代线性流程]] -> `data/wiki/topics/insight-1776770963899-涌现式现场判断-用-核心张力-替代线性流程/index.md` covered by 1 source(s)
+- [[insight 1776771093148: 404错误作为进化催化剂：数字物种的重引入与杂交]] -> `data/wiki/topics/insight-1776771093148-404错误作为进化催化剂-数字物种的重引入与杂交/index.md` covered by 1 source(s)
+- [[insight 404错误作为进化催化剂 数字物种的重引入与杂交 1776771093148]] -> `data/wiki/topics/insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148/index.md` covered by 1 source(s)
+- [[insight 超越语法 知识合成的直接语义编译 1776770083886]] -> `data/wiki/topics/insight-超越语法-知识合成的直接语义编译-1776770083886/index.md` covered by 1 source(s)
+- [[insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899]] -> `data/wiki/topics/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899/index.md` covered by 1 source(s)
+- [[insight 语义编译 超越格式的知识重塑 1776769497132]] -> `data/wiki/topics/insight-语义编译-超越格式的知识重塑-1776769497132/index.md` covered by 1 source(s)
+- [[insight 原生语义磁盘 超越解析的综合机制 1776769521489]] -> `data/wiki/topics/insight-原生语义磁盘-超越解析的综合机制-1776769521489/index.md` covered by 1 source(s)
+- [[insight 原子化洞察 超越解析器的核心综合法 1776770210776]] -> `data/wiki/topics/insight-原子化洞察-超越解析器的核心综合法-1776770210776/index.md` covered by 1 source(s)
+- [[insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951]] -> `data/wiki/topics/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951/index.md` covered by 1 source(s)
+- [[Insight Brainstorm Failed 1776769896097]] -> `data/wiki/topics/insight-brainstorm-failed-1776769896097/index.md` covered by 1 source(s)
+- [[Insight Brainstorm Failed 1776769918027]] -> `data/wiki/topics/insight-brainstorm-failed-1776769918027/index.md` covered by 1 source(s)
+- [[Knowledge]] -> `data/wiki/topics/knowledge/index.md` covered by 2 source(s)
+- [[Knowledge Synthesis]] -> `data/wiki/topics/knowledge-synthesis/index.md` covered by 2 source(s)
+- [[Llm]] -> `data/wiki/topics/llm/index.md` covered by 1 source(s)
+- [[Llm Knowledge Bases]] -> `data/wiki/topics/llm-knowledge-bases/index.md` covered by 1 source(s)
+- [[Llm Knowledge Bases Test]] -> `data/wiki/topics/llm-knowledge-bases-test/index.md` covered by 1 source(s)
+- [[Make]] -> `data/wiki/topics/make/index.md` covered by 1 source(s)
+- [[Markdown]] -> `data/wiki/topics/markdown/index.md` covered by 12 source(s)
+- [[Markdown Parse]] -> `data/wiki/topics/markdown-parse/index.md` covered by 2 source(s)
+- [[Notes]] -> `data/wiki/topics/notes/index.md` covered by 2 source(s)
+- [[Quote Span]] -> `data/wiki/topics/quote-span/index.md` covered by 1 source(s)
+- [[Source Type]] -> `data/wiki/topics/source-type/index.md` covered by 2 source(s)
+- [[Synthesis Notes]] -> `data/wiki/topics/synthesis-notes/index.md` covered by 2 source(s)
+- [[Test]] -> `data/wiki/topics/test/index.md` covered by 1 source(s)
+- [[Zettel Workflow]] -> `data/wiki/topics/zettel-workflow/index.md` covered by 2 source(s)
+
+## Incremental Compile
+- Rebuilt sources: 1
+- Reused sources: 11
+
+## Parsed Artifacts
+- `data/indexes/parsed/500-ai-agents-projects-readme-仓库实勘报告-md.md.json`
+- `data/indexes/parsed/insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md.json`
+- `data/indexes/parsed/insight-超越语法-知识合成的直接语义编译-1776770083886.md.json`
+- `data/indexes/parsed/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md.json`
+- `data/indexes/parsed/insight-语义编译-超越格式的知识重塑-1776769497132.md.json`
+- `data/indexes/parsed/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md.json`
+- `data/indexes/parsed/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md.json`
+- `data/indexes/parsed/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md.json`
+- `data/indexes/parsed/insight-brainstorm-failed-1776769896097.md.json`
+- `data/indexes/parsed/insight-brainstorm-failed-1776769918027.md.json`
+- `data/indexes/parsed/llm-knowledge-bases.md.json`
+- `data/indexes/parsed/synthesis-notes.md.json`

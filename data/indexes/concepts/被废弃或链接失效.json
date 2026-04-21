@@ -1,0 +1,55 @@
+{
+  "slug": "被废弃或链接失效",
+  "label": "被废弃或链接失效",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 404错误作为进化催化剂 数字物种的重引入与杂交 1776771093148"
+  ],
+  "sourceIds": [
+    "insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md"
+  ],
+  "sectionHeadings": [
+    "概念定义"
+  ],
+  "tokens": [
+    "被废弃或链接失效"
+  ],
+  "evidence": [
+    {
+      "text": "**404 (数字灭绝)**: 在软件工程中，当一个项目（如 MediSuite-Ai-Agent）被废弃或链接失效，它不再仅仅是一个错误代码，而象征着数字生态系统中一个“物种”的消失。它留下了一个未被满足的需求生态位——即自动化医疗保险理赔与医疗咨询。",
+      "sectionHeading": "概念定义",
+      "sectionSlug": "概念定义",
+      "quoteSpan": {
+        "kind": "block:list",
+        "startLine": 15,
+        "endLine": 15
+      },
+      "evidenceKind": "list",
+      "blockImportance": 58,
+      "evidenceWeight": 28,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "404错误作为进化催化剂：数字物种的重引入与杂交",
+        "概念定义"
+      ],
+      "sourceId": "insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceTitle": "Insight 404错误作为进化催化剂 数字物种的重引入与杂交 1776771093148",
+      "sourcePath": "data/raw/insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceQuality": 57
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 57,
+    "averageSourceQuality": 57
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

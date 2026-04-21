@@ -1,0 +1,14 @@
+{
+  "id": "brainstorm-1776769610962",
+  "type": "brainstorm",
+  "status": "completed",
+  "createdAt": "2026-04-21T11:06:50.962Z",
+  "payload": {},
+  "insightSlug": "brainstorm-failed",
+  "selectedConcepts": [
+    "背景冲突",
+    "Zettel Workflow"
+  ],
+  "jaccardSimilarity": 0,
+  "artifactPath": "data/raw"
+}

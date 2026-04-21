@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=1920">
+  <title>Knowledge Foundry — AI Brain OS</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/index.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <script>
+    if (window.pdfjsLib) {
+      window.pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+    }
+  </script>
+</head>
+<body>
+<div class="glow glow-a"></div>
+<div class="glow glow-b"></div>
+
+<div class="app">
+
+  <!-- ═══════════ SIDEBAR ═══════════ -->
+  <aside class="sidebar">
+    <div class="logo">
+      <div class="logo-mark">⬡</div>
+      <div class="logo-name">
+        Knowledge Foundry
+        <small>AI 个人大脑中枢 &nbsp;v2.1</small>
+      </div>
+    </div>
+
+    <nav class="nav">
+      <div class="nav-section">
+        <div class="nav-section-label">控制舱航点</div>
+        <div class="nav-item active" id="nav-home"><span class="ni">◈</span> 全景视界</div>
+        <div class="nav-item" id="nav-raws"><span class="ni">⊡</span> 生肉收件箱 <span class="nav-badge" id="badge-raws">0</span></div>
+        <div class="nav-item" id="nav-concepts"><span class="ni">◉</span> 概念神经网络 <span class="nav-badge" id="badge-concepts">0</span></div>
+        <div class="nav-item" id="nav-jobs"><span class="ni">⟳</span> 智仆作业流 <span class="nav-badge" id="badge-jobs">0</span></div>
+      </div>
+    </nav>
+
+    <div class="mcp-card">
+      <div class="mcp-title">⬡ &nbsp;神枢 MCP 通道</div>
+      <div class="mcp-row">
+        <div class="breath"></div>
+        <div>
+          <div class="mcp-label">神经直连</div>
+          <div class="mcp-src">claude-opus · cursor</div>
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- ═══════════ MAIN ═══════════ -->
+  <main class="main">
+
+    <!-- top bar -->
+    <div class="topbar">
+      <div>
+        <div class="page-title">核心全景掌控仪</div>
+        <div class="page-sub">2 分钟前心跳 &nbsp;·&nbsp; <em>全部伺服运作良好</em></div>
+      </div>
+      <div class="topbar-right">
+        <div class="search-wrap">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="global-search-input" placeholder="在整库知识网中进行多维检索...">
+          <button id="btn-global-search" style="background:transparent;border:none;color:rgba(255,255,255,0.45);cursor:pointer;font-size:12px;padding:0 6px;">Search</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- metrics row -->
+    <div class="metrics">
+
+      <!-- raw sources -->
+      <div class="card" id="card-raws" style="cursor: pointer;" title="点击前往生肉收件箱">
+        <svg width="0" height="0"><defs><linearGradient id="hg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00D4FF"/><stop offset="100%" stop-color="#34D399"/></linearGradient></defs></svg>
+        <div class="card-inner">
+          <div class="metric-tag"><span class="dot dot-cyan"></span>待处理渊源</div>
+          <div class="metric-val" id="metric-raws">0</div>
+          <div class="metric-foot" id="metric-raws-sub">未清洗的文档碎片</div>
+        </div>
+      </div>
+
+      <!-- wiki concepts -->
+      <div class="card" id="card-concepts" style="cursor: pointer;" title="点击访问概念神经网络">
+        <div class="card-inner">
+          <div class="metric-tag"><span class="dot dot-purple"></span>精炼抽象概念</div>
+          <div class="metric-val gradient" id="metric-concepts">0</div>
+          <div class="metric-foot" id="metric-concepts-sub">由大模型提纯的元知识节点</div>
+        </div>
+      </div>
+
+      <!-- health score -->
+      <div class="card card-health" id="card-health" style="cursor: pointer;" title="点击立即执行全网巡检探针">
+        <div class="card-inner">
+          <div class="ring-wrap">
+            <svg width="68" height="68" viewBox="0 0 68 68">
+              <circle class="ring-bg"   cx="34" cy="34" r="30"/>
+              <circle class="ring-fill" cx="34" cy="34" r="30"/>
+            </svg>
+            <div class="ring-num">85</div>
+          </div>
+          <div>
+            <div class="metric-tag"><span class="dot dot-green"></span>信息网格健康度</div>
+            <div class="metric-val" id="metric-health" style="font-size:32px">100<span style="font-size:16px;color:rgba(255,255,255,0.2)">/100</span></div>
+            <div class="metric-foot" id="metric-health-sub">正在获取巡检探针...</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /metrics -->
+
+    <!-- content area -->
+    <div id="view-home" class="content">
+
+      <!-- knowledge graph -->
+      <div class="panel">
+        <div class="panel-head">
+          <div class="panel-title">
+            ◉ &nbsp;多线程认知拓扑图谱
+            <span class="pill pill-cyan">同频中</span>
+          </div>
+          <div class="panel-meta">大模型构建关联计算中...</div>
+        </div>
+        <canvas id="graphCanvas"></canvas>
+      </div>
+
+      <!-- right column -->
+      <div class="right-col">
+
+        <!-- agent log -->
+        <div class="panel log-panel">
+          <div class="panel-head">
+            <div class="panel-title">
+              ⟳ &nbsp;暗网 Agent 指令水幕
+              <span class="pill pill-green">数据流监听</span>
+            </div>
+          </div>
+          <div class="log-body" id="logBody"></div>
+        </div>
+
+        <!-- action center -->
+        <div class="actions">
+          <div class="actions-label">⬡ &nbsp;主推进阀 (Main Core)</div>
+          <button class="btn-brainstorm" id="btn-brainstorm">
+            <span>🌌</span> 灵感潜意识碰撞 (Brainstorm)
+          </button>
+          <button class="btn-reconcile-action" id="btn-reconcile">
+            <span>⚕️</span> 全网冲突调解自愈 (Reconcile)
+          </button>
+          <button class="btn-compile" id="btn-compile">
+            <span>⏺</span> 暴力重织整个网络 (Compile)
+          </button>
+          <button class="btn-sec" id="btn-open-research" style="background: rgba(16,185,129,0.08); border-color: rgba(16,185,129,0.25); color: #6EE7B7;">
+            <span>🛰️</span> 外部主题研究 (Research)
+          </button>
+          <button class="btn-sec" id="btn-open-ingest" style="background: rgba(255,255,255,0.02); border-color: rgba(255,255,255,0.06);">
+            <span>📥</span> 倾倒原样数据 (Ingest)
+          </button>
+          <button class="btn-sec" id="btn-wipe" style="background: rgba(239,68,68,0.1); border-color: rgba(239,68,68,0.3); color: #FCA5A5;">
+            <span>🗑️</span> 核弹清空 (Wipe)
+          </button>
+          <button class="btn-sec" id="btn-health">
+            <span>🔍</span> 释放异常节点侦察兵 (Lint)
+          </button>
+          <button class="btn-sec" id="btn-chat" style="background: rgba(139,92,246,0.1); border-color: rgba(139,92,246,0.3); color: #A78BFA;">
+            <span>🧠</span> 唤雷之眼 (Hermes & Search)
+          </button>
+        </div>
+        
+        <div class="panel" style="flex:1; margin-top:24px; background:#020617; border-color:#0f172a; display:flex; flex-direction:column; padding:16px; min-height: 250px;">
+          <div style="font-family:'JetBrains Mono', monospace; font-size:11px; font-weight:700; color:#10B981; border-bottom:1px solid #064e3b; padding-bottom:8px; margin-bottom:8px; display:flex; align-items:center; gap:8px; text-shadow:0 0 8px rgba(16,185,129,0.5);">
+            <div style="width:6px; height:6px; border-radius:50%; background:#10B981; box-shadow:0 0 10px #10B981; animation:pulse 1.5s infinite;"></div>
+            <span>> SYS.NANOBOT_NODE_STREAM</span>
+            <span style="margin-left:auto; opacity:0.5;">[MONITORING]</span>
+          </div>
+          <div id="nanobot-log" autocomplete="off" style="flex:1; overflow-y:auto; overflow-x:hidden; display:flex; flex-direction:column; gap:6px; background:transparent; font-family:'JetBrains Mono', monospace; font-size:11.5px; padding-right:8px; line-height:1.5;"></div>
+        </div>
+
+      </div><!-- /right-col -->
+    </div><!-- /content home -->
+
+    <!-- Raws View -->
+    <div id="view-raws" class="content" style="display:none; grid-template-columns: 1fr;">
+      <div class="panel" style="padding: 24px; display:flex; flex-direction:column; overflow:hidden;">
+        <div class="topbar">
+          <div>
+            <div class="page-title">生肉收件箱</div>
+            <div class="page-sub">Raw Sources Inbox &nbsp;·&nbsp; 等待编织坍塌的原材料</div>
+          </div>
+        </div>
+
+        <div class="filterbar" style="margin-top:0;">
+          <div class="chips" id="chips-raws">
+            <div class="chip active" data-filter="all">全量透视</div>
+            <div class="chip" data-filter="insight" style="color: #00D4FF; border-color: rgba(0,212,255,0.2); background: rgba(0,212,255,0.05);">✨ 仅看 AI 自动演化</div>
+            <div class="chip" data-filter="markdown">📂 人工投喂源</div>
+          </div>
+        </div>
+        
+        <div id="list-raws" style="flex:1; overflow-y:auto; display:flex; flex-direction:column; gap:0px; padding-right:10px;"></div>
+      </div>
+    </div>
+
+    <!-- Concepts View -->
+    <div id="view-concepts" class="content" style="display:none; grid-template-columns: 1fr;">
+      <div class="panel" style="padding: 24px; display:flex; flex-direction:column; overflow:hidden;">
+        
+        <div class="topbar">
+          <div>
+            <div class="page-title">概念神经网络</div>
+            <div class="page-sub">Semantic Topology Grid &nbsp;·&nbsp; 提纯的自洽神经节点</div>
+          </div>
+        </div>
+
+        <div class="filterbar">
+          <div class="chips" id="chips-concepts">
+            <div class="chip active" data-filter="all">全网透视</div>
+            <div class="chip" data-filter="insight" style="color: #A78BFA; border-color: rgba(167,139,250,0.3); background: rgba(167,139,250,0.05);">🌌 AI 发散衍生</div>
+            <div class="chip" data-filter="keyword">🔑 核心聚类</div>
+            <div class="chip" data-filter="section">📑 文档区段</div>
+            <div class="chip" data-filter="phrase">💬 语义词带</div>
+          </div>
+          <div class="metrics-mini">
+            <div class="mini-card"><div class="dot" style="background:var(--purple);box-shadow:0 0 5px var(--purple)"></div><span class="val" id="cntConceptsTotal">0</span><span class="lbl" style="margin-right:8px">神经节点探星数</span></div>
+          </div>
+        </div>
+
+        <div class="list-header" style="grid-template-columns: 3fr 1.5fr 150px;">
+          <div>神经纤维标识 (Node Target)</div>
+          <div>多态特征分类 (Entity Types)</div>
+          <div style="text-align:right">突触神经权重 (Weight) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+        </div>
+
+        <div class="job-list" id="list-concepts" style="flex:1; display:flex; flex-direction:column;"></div>
+      </div>
+    </div>
+
+    <!-- Jobs View -->
+    <div id="view-jobs" class="content" style="display:none; grid-template-columns: 1fr;">
+      <div class="panel" style="padding: 24px; display:flex; flex-direction:column; overflow:hidden;">
+        
+        <div class="topbar">
+          <div>
+            <div class="page-title">智仆后台作业流</div>
+            <div class="page-sub">管线状态观测中心 &nbsp;·&nbsp; 异步任务实时追踪</div>
+          </div>
+        </div>
+
+        <div class="filterbar">
+          <div class="chips" id="chips">
+            <div class="chip active" data-filter="all">全部</div>
+            <div class="chip" data-filter="compile">⚙ 拓扑重织</div>
+            <div class="chip" data-filter="query">🔍 语义穿透</div>
+            <div class="chip" data-filter="lint">📡 探针巡检</div>
+          </div>
+          <div class="metrics-mini">
+            <div class="mini-card"><div class="dot" style="background:var(--cyan);box-shadow:0 0 5px var(--cyan)"></div><span class="val" id="cntCompleted">0</span><span class="lbl" style="margin-right:8px">已竣工</span></div>
+            <div class="mini-card"><div class="dot" style="background:var(--yellow);box-shadow:0 0 5px var(--yellow)"></div><span class="val" id="cntRunning">0</span><span class="lbl" style="margin-right:8px">流转中</span></div>
+            <div class="mini-card"><div class="dot" style="background:var(--red);box-shadow:0 0 5px var(--red)"></div><span class="val" id="cntFailed">0</span><span class="lbl" style="margin-right:8px">故障</span></div>
+          </div>
+        </div>
+
+        <div class="list-header">
+          <div>作业种类标识</div>
+          <div>任务哈希栈</div>
+          <div style="text-align:right">生命时钟 / 状态 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+        </div>
+
+        <div class="job-list" id="list-jobs" style="flex:1; display:flex; flex-direction:column;"></div>
+      </div>
+    </div>
+
+  </main>
+</div><!-- /app -->
+
+<!-- Data Drawer -->
+<div id="preview-drawer" class="panel" style="position:fixed; right:-600px; top:0; bottom:0; width:550px; z-index:900; transition: right 0.3s cubic-bezier(0.16, 1, 0.3, 1); border-radius:18px 0 0 18px; box-shadow: -10px 0 40px rgba(0,0,0,0.6); background: rgba(14,20,34,0.95);">
+    <div class="panel-head" style="padding: 24px;">
+      <div class="panel-title" id="drawer-title" style="font-size: 16px; color:#fff;">预览</div>
+      <button class="toast-close" id="btn-close-drawer" style="position:relative; right:0; top:0; font-size:18px;">✕</button>
+    </div>
+    <div id="drawer-meta" style="padding:0 24px; font-size:11px; color:var(--text-muted); font-family:'JetBrains Mono',monospace;"></div>
+    <div style="padding:24px; overflow-y:auto; flex:1; font-family:'JetBrains Mono',monospace; font-size:12.5px; line-height:1.7; color:rgba(255,255,255,0.75); white-space:pre-wrap;" id="drawer-content">
+    </div>
+</div>
+
+<!-- toast -->
+<div class="toasts" id="toasts"></div>
+
+<!-- ingest modal -->
+<div id="ingest-modal" class="modal-overlay" style="display:none;">
+  <div class="modal-content panel">
+    <div class="panel-head" style="padding: 18px 22px;">
+      <div class="panel-title" style="font-size: 14px; color: #fff;">📥 &nbsp;倾倒原样数据 (Ingest)</div>
+      <button class="toast-close" id="btn-close-modal" style="position:relative; top:0; right:0;">✕</button>
+    </div>
+    <div style="padding: 22px; display: flex; flex-direction: column; gap: 14px;">
+      <label class="form-ctrl" style="display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px; cursor:pointer; background:rgba(0,212,255,0.05); border:1px dashed rgba(0,212,255,0.3); color:var(--cyan); height:80px; transition:all 0.2s;" onmouseover="this.style.background='rgba(0,212,255,0.1)'" onmouseout="this.style.background='rgba(0,212,255,0.05)'">
+        <input type="file" id="source-file" accept=".md,.txt,.json,.js,.py,.csv,.pdf,.docx,.pptx,.xlsx,.html,.jpg,.png" style="display:none;">
+        <span style="font-size:22px;">📂</span>
+        <span style="font-weight:600; font-size:12px; letter-spacing:.5px;">点击呼出本地资源管理器装载文件 (Auto Read)</span>
+      </label>
+      <input type="text" id="source-title" class="form-ctrl" placeholder="代号将从文件自动萃取..." readonly style="opacity:0.6; pointer-events:none; background:rgba(0,0,0,0.2);">
+      <select id="source-type" class="form-ctrl" style="display:none;">
+        <option value="markdown">本地 Markdown 备忘</option>
+        <option value="repo">完整源码仓库镜像</option>
+      </select>
+      <textarea id="source-content" class="form-ctrl" style="height: 90px; font-family: 'JetBrains Mono', monospace; font-size: 10px; line-height: 1.6; resize: none; opacity:0.6; pointer-events:none; background:rgba(0,0,0,0.2);" placeholder="文件矩阵解析后将在此处进行全息投影..." readonly></textarea>
+      <button class="btn-compile" id="btn-submit-ingest" style="margin-top: 8px;">
+        <span>🚀</span> 封存进入收件箱
+      </button>
+    </div>
+  </div>
+</div>
+
+<script type="module" src="./main.js"></script>
+
+<!-- research modal -->
+<div id="research-modal" class="modal-overlay" style="display:none;">
+  <div class="modal-content panel" style="width: 560px;">
+    <div class="panel-head" style="padding: 18px 22px;">
+      <div class="panel-title" style="font-size: 14px; color: #fff;">🛰️ &nbsp;外部主题研究 (Research)</div>
+      <button class="toast-close" id="btn-close-research-modal" style="position:relative; top:0; right:0;">✕</button>
+    </div>
+    <div style="padding: 22px; display: flex; flex-direction: column; gap: 14px;">
+      <input type="text" id="research-topic" class="form-ctrl" placeholder="研究主题，例如：Agentic RAG">
+      <textarea id="research-notes" class="form-ctrl" style="height: 96px; font-family: 'JetBrains Mono', monospace; font-size: 11px; line-height: 1.6; resize: none;" placeholder="补充研究问题、假设、筛选标准..."></textarea>
+      <textarea id="research-seeds" class="form-ctrl" style="height: 128px; font-family: 'JetBrains Mono', monospace; font-size: 11px; line-height: 1.6; resize: none;" placeholder="每行一个 URL，系统会抓取摘要并生成 research source。&#10;https://example.com/article&#10;https://github.com/org/repo"></textarea>
+      <button class="btn-compile" id="btn-submit-research">
+        <span>🚀</span> 发起研究作业
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- chat modal -->
+<div id="chat-modal" class="modal-overlay" style="display:none;">
+  <div class="modal-content panel" style="width: 500px;">
+    <div class="panel-head" style="padding: 18px 22px;">
+      <div class="panel-title" style="font-size: 14px; color: #fff;">🧠 &nbsp;全域意图交互中枢 (Chat & Evolve)</div>
+      <button class="toast-close" id="btn-close-chat" style="position:relative; top:0; right:0;">✕</button>
+    </div>
+    <div style="padding: 22px; display: flex; flex-direction: column; gap: 14px;">
+      <div id="chat-history" style="height: 200px; overflow-y: auto; display:flex; flex-direction:column; gap:10px; font-size: 12px; font-family:'JetBrains Mono', monospace;">
+        <div style="color:var(--cyan); opacity: 0.8;">[SYS] 意图嗅探探针已上线。请输入你要搜索、倾倒的问题或真理纠正指令...</div>
+      </div>
+      <textarea id="chat-input" class="form-ctrl" style="height: 60px; font-family: 'JetBrains Mono', monospace; font-size: 12px; line-height: 1.6; resize: none;" placeholder="发送指令 (例如：整理什么是并发锁 / 解决策略写错了，必须重构 / 什么是Agent)"></textarea>
+      <button class="btn-compile" id="btn-submit-chat" style="margin-top: 8px;">
+        <span>☄</span> 脉冲发送 (Dispatch)
+      </button>
+    </div>
+  </div>
+</div>
+</body>
+</html>

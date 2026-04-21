@@ -1,0 +1,155 @@
+{
+  "slug": "core",
+  "label": "Core",
+  "kinds": [
+    "keyword",
+    "wikilink"
+  ],
+  "sourceTitles": [
+    "Insight Brainstorm Failed 1776769896097",
+    "Insight Brainstorm Failed 1776769918027",
+    "Insight 原子化洞察 超越解析器的核心综合法 1776770210776"
+  ],
+  "sourceIds": [
+    "insight-brainstorm-failed-1776769896097.md",
+    "insight-brainstorm-failed-1776769918027.md",
+    "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-brainstorm-failed-1776769896097.md",
+    "data/raw/insight-brainstorm-failed-1776769918027.md",
+    "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-brainstorm-failed-1776769896097.md",
+    "data/wiki/source-insight-brainstorm-failed-1776769918027.md",
+    "data/wiki/source-insight-原子化洞察-超越解析器的核心综合法-1776770210776.md"
+  ],
+  "sectionHeadings": [
+    "2. 直接提取核心的综合路径",
+    "Core Insight",
+    "🌌 Evolution Cross-Pollination"
+  ],
+  "tokens": [
+    "core"
+  ],
+  "evidence": [
+    {
+      "text": "知识综合的本质是连接。如果我们直接提取两个概念的\"核心洞察\"（Core Insight），我们可以绕过所有中间的解析步骤。",
+      "sectionHeading": "2. 直接提取核心的综合路径",
+      "sectionSlug": "2-直接提取核心的综合路径",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 22,
+        "endLine": 22
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "核心综合法：剥离外壳的思想核聚变",
+        "洞察深度解析",
+        "2. 直接提取核心的综合路径"
+      ],
+      "sourceId": "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceTitle": "Insight 原子化洞察 超越解析器的核心综合法 1776770210776",
+      "sourcePath": "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceQuality": 64
+    },
+    {
+      "text": "**A**: [[Core]]",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "sectionSlug": "evolution-cross-pollination",
+      "quoteSpan": {
+        "kind": "block:list",
+        "startLine": 4,
+        "endLine": 4
+      },
+      "evidenceKind": "list",
+      "blockImportance": 58,
+      "evidenceWeight": 28,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770210776: 原子化洞察：超越解析器的核心综合法",
+        "🌌 Evolution Cross-Pollination"
+      ],
+      "sourceId": "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceTitle": "Insight 原子化洞察 超越解析器的核心综合法 1776770210776",
+      "sourcePath": "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceQuality": 64
+    },
+    {
+      "text": "Core Insight",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 7,
+        "endLine": 7
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770210776: 原子化洞察：超越解析器的核心综合法",
+        "Core Insight"
+      ],
+      "sourceId": "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceTitle": "Insight 原子化洞察 超越解析器的核心综合法 1776770210776",
+      "sourcePath": "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceQuality": 64
+    },
+    {
+      "text": "Core Insight",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 7,
+        "endLine": 7
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776769918027: Brainstorm Failed",
+        "Core Insight"
+      ],
+      "sourceId": "insight-brainstorm-failed-1776769918027.md",
+      "sourceTitle": "Insight Brainstorm Failed 1776769918027",
+      "sourcePath": "data/raw/insight-brainstorm-failed-1776769918027.md",
+      "sourceQuality": 51
+    },
+    {
+      "text": "Core Insight",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 7,
+        "endLine": 7
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776769896097: Brainstorm Failed",
+        "Core Insight"
+      ],
+      "sourceId": "insight-brainstorm-failed-1776769896097.md",
+      "sourceTitle": "Insight Brainstorm Failed 1776769896097",
+      "sourcePath": "data/raw/insight-brainstorm-failed-1776769896097.md",
+      "sourceQuality": 50
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 64,
+    "averageSourceQuality": 58.6
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

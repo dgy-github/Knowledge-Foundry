@@ -1,0 +1,14 @@
+{
+  "id": "brainstorm-1776769799281",
+  "type": "brainstorm",
+  "status": "completed",
+  "createdAt": "2026-04-21T11:09:59.281Z",
+  "payload": {},
+  "insightSlug": "超越语法-知识合成的直接语义编译",
+  "selectedConcepts": [
+    "Case",
+    "编译作为语义合成器"
+  ],
+  "jaccardSimilarity": 0,
+  "artifactPath": "data/raw"
+}

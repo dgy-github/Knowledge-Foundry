@@ -1,0 +1,127 @@
+{
+  "slug": "第二步-标记-符号化",
+  "label": "第二步：标记（符号化）",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899"
+  ],
+  "sourceIds": [
+    "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sectionHeadings": [
+    "1. 背景冲突",
+    "3. 应用场景：动态决策树",
+    "Core Insight",
+    "第二步：标记（符号化）"
+  ],
+  "tokens": [
+    "标记",
+    "符号化",
+    "第二步"
+  ],
+  "evidence": [
+    {
+      "text": "将实勘判断从僵化的逻辑流程图转变为基于‘核心标记’与‘物理相邻’的动态感知过程。通过剥离现场噪音，用符号标记核心，并将其与决策标准并列放置，观察两者间的张力与共鸣，从而替代机械的步骤式判断，实现更直观、综合的结论。",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 8,
+        "endLine": 8
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770963899: 涌现式现场判断：用‘核心张力’替代线性流程",
+        "Core Insight"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    },
+    {
+      "text": "我们需要引入**标记**方法论中的“剥离”与“聚变”能力，打破流程图的刚性，让判断在现场信息与决策核心的碰撞中自然“涌现”。",
+      "sectionHeading": "1. 背景冲突",
+      "sectionSlug": "1-背景冲突",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 16,
+        "endLine": 16
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "涌现式现场判断：从流程图到张力图谱",
+        "1. 背景冲突"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    },
+    {
+      "text": "不使用复杂的描述或分类，直接对核心进行标记。",
+      "sectionHeading": "第二步：标记（符号化）",
+      "sectionSlug": "第二步-标记-符号化",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 27,
+        "endLine": 27
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "涌现式现场判断：从流程图到张力图谱",
+        "2. 方法论重构",
+        "第二步：标记（符号化）"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    },
+    {
+      "text": "1.  **收集核心**：在笔记中快速列出多个现场核心标记（`::: 采光死角`，`::: 噪音源紧邻`）。 2.  **并列标准**：将决策标准（`::: 转售潜力`，`::: 自住舒适度`）作为物理参照物放在旁边。 3.  **路径涌现**：流程图的路径不再预先设定，而是由最强的一组“张力”决定。",
+      "sectionHeading": "3. 应用场景：动态决策树",
+      "sectionSlug": "3-应用场景-动态决策树",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 48,
+        "endLine": 50
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "涌现式现场判断：从流程图到张力图谱",
+        "3. 应用场景：动态决策树"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 66,
+    "averageSourceQuality": 66
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

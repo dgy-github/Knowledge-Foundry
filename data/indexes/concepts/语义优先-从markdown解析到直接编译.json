@@ -1,0 +1,128 @@
+{
+  "slug": "语义优先-从markdown解析到直接编译",
+  "label": "语义优先：从markdown解析到直接编译",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "Insight 超越语法 知识合成的直接语义编译 1776770083886"
+  ],
+  "sourceIds": [
+    "insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "sectionHeadings": [
+    "Core Insight",
+    "强制交集：无解析器的知识工作流",
+    "语义优先：从Markdown解析到直接编译"
+  ],
+  "tokens": [
+    "markdown",
+    "从",
+    "解析到直接编译",
+    "语义优先"
+  ],
+  "evidence": [
+    {
+      "text": "将‘编译’视为一种语义合成器，我们意识到知识合成并不总是需要通过Markdown解析器来处理格式。就像编译器将源代码转化为可执行逻辑一样，我们可以跳过对‘案例’进行语法标准化的步骤，直接将其作为语义模块进行编译。这种方法将知识管理的重心从文档格式的正确性转移到了逻辑结构的语义构建上，实现了更纯粹、更高效的信息整合。",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 8,
+        "endLine": 8
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770083886: 超越语法：知识合成的直接语义编译",
+        "Core Insight"
+      ],
+      "sourceId": "insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceTitle": "Insight 超越语法 知识合成的直接语义编译 1776770083886",
+      "sourcePath": "data/raw/insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceQuality": 57
+    },
+    {
+      "text": "在处理大量‘案例’进行知识合成时，我们往往被工具的惯性所束缚，认为必须先将所有内容标准化为Markdown格式，经过解析器的严格检查后才能进行有效整合。然而，正如语境A所指出的，这并非总是必要的。",
+      "sectionHeading": "语义优先：从Markdown解析到直接编译",
+      "sectionSlug": "语义优先-从markdown解析到直接编译",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 13,
+        "endLine": 13
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770083886: 超越语法：知识合成的直接语义编译",
+        "语义优先：从Markdown解析到直接编译"
+      ],
+      "sourceId": "insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceTitle": "Insight 超越语法 知识合成的直接语义编译 1776770083886",
+      "sourcePath": "data/raw/insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceQuality": 57
+    },
+    {
+      "text": "1.  **绕过语法噪音**：当我们面对一系列离散的‘案例’时，不需要浪费算力去调整标题层级或列表符号（Markdown语法）。我们可以像编译器处理原始数据流一样，直接提取其中的语义变量和逻辑谓词。",
+      "sectionHeading": "强制交集：无解析器的知识工作流",
+      "sectionSlug": "强制交集-无解析器的知识工作流",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 23,
+        "endLine": 23
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770083886: 超越语法：知识合成的直接语义编译",
+        "语义优先：从Markdown解析到直接编译",
+        "强制交集：无解析器的知识工作流"
+      ],
+      "sourceId": "insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceTitle": "Insight 超越语法 知识合成的直接语义编译 1776770083886",
+      "sourcePath": "data/raw/insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceQuality": 57
+    },
+    {
+      "text": "3.  **动态依赖解析**：不再依赖静态的Markdown渲染引擎来确定结构，而是让‘案例’之间的内在逻辑关系（语义依赖）来决定知识的最终结构。",
+      "sectionHeading": "强制交集：无解析器的知识工作流",
+      "sectionSlug": "强制交集-无解析器的知识工作流",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 27,
+        "endLine": 27
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770083886: 超越语法：知识合成的直接语义编译",
+        "语义优先：从Markdown解析到直接编译",
+        "强制交集：无解析器的知识工作流"
+      ],
+      "sourceId": "insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceTitle": "Insight 超越语法 知识合成的直接语义编译 1776770083886",
+      "sourcePath": "data/raw/insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceQuality": 57
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 57,
+    "averageSourceQuality": 57
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

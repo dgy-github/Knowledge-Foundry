@@ -1,0 +1,134 @@
+openapi: 3.1.0
+info:
+  title: Knowledge Foundry API
+  version: 0.1.0
+  description: MVP contract for a markdown-first LLM knowledge-base system.
+paths:
+  /health:
+    get:
+      summary: Health check
+      operationId: getHealth
+      responses:
+        "200":
+          description: Current orchestrator status from the runnable local API
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [status, mode, qaCycle, report]
+                properties:
+                  status:
+                    type: string
+                    enum: [ok]
+                  mode:
+                    type: string
+                    enum: [dry-run, codex-with-local-fallback, local-fallback]
+                  qaCycle:
+                    type: integer
+                    minimum: 1
+                  report:
+                    type: object
+                    required: [result, mode, finalQaCycle, qaSummary]
+                    properties:
+                      result: { type: string }
+                      mode: { type: string }
+                      finalQaCycle: { type: integer, minimum: 1 }
+                      qaSummary: { type: string }
+  /sources:
+    get:
+      summary: List ingested sources
+      operationId: listSources
+      responses:
+        "200":
+          description: Source records
+    post:
+      summary: Register a new source for ingest
+      operationId: createSource
+      description: Accepts either inline markdown content or a local file path via `sourcePath` to import into `data/raw`.
+      responses:
+        "202":
+          description: Ingest accepted
+  /sources/{sourceId}:
+    get:
+      summary: Fetch source detail
+      operationId: getSource
+      responses:
+        "200":
+          description: Source detail
+  /wiki/pages:
+    get:
+      summary: List wiki pages
+      operationId: listWikiPages
+      responses:
+        "200":
+          description: Wiki page metadata
+  /wiki/pages/{pageId}:
+    get:
+      summary: Fetch wiki page detail
+      operationId: getWikiPage
+      responses:
+        "200":
+          description: Wiki page detail
+  /outputs:
+    get:
+      summary: List generated outputs
+      operationId: listOutputs
+      responses:
+        "200":
+          description: Output artifacts
+  /outputs/{outputId}:
+    get:
+      summary: Fetch output detail
+      operationId: getOutput
+      responses:
+        "200":
+          description: Output detail
+  /jobs:
+    get:
+      summary: List jobs
+      operationId: listJobs
+      responses:
+        "200":
+          description: Job records
+  /jobs/{jobId}:
+    get:
+      summary: Fetch job detail
+      operationId: getJob
+      responses:
+        "200":
+          description: Job detail
+  /jobs/compile:
+    post:
+      summary: Start a compile job
+      operationId: startCompileJob
+      responses:
+        "202":
+          description: Compile job accepted and source-summary/wiki pages generated
+  /jobs/query:
+    post:
+      summary: Ask a question against the knowledge base
+      operationId: startQueryJob
+      responses:
+        "202":
+          description: Query job accepted
+  /jobs/research:
+    post:
+      summary: Start a topic research job
+      operationId: startResearchJob
+      responses:
+        "202":
+          description: Research job accepted, fetched seed URL metadata, and generated topic starter sources
+  /jobs/health-check:
+    post:
+      summary: Start a knowledge-base health check
+      operationId: startHealthCheckJob
+      responses:
+        "202":
+          description: Health check accepted
+  /search:
+    get:
+      summary: Search sources and wiki pages
+      operationId: searchKnowledgeBase
+      responses:
+        "200":
+          description: Search results

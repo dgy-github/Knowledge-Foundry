@@ -1,0 +1,56 @@
+{
+  "slug": "3-应用场景-动态决策树",
+  "label": "3. 应用场景：动态决策树",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899"
+  ],
+  "sourceIds": [
+    "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sectionHeadings": [
+    "3. 应用场景：动态决策树"
+  ],
+  "tokens": [
+    "动态决策树",
+    "应用场景"
+  ],
+  "evidence": [
+    {
+      "text": "3. 应用场景：动态决策树",
+      "sectionHeading": "3. 应用场景：动态决策树",
+      "sectionSlug": "3-应用场景-动态决策树",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 44,
+        "endLine": 44
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "涌现式现场判断：从流程图到张力图谱",
+        "3. 应用场景：动态决策树"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 66,
+    "averageSourceQuality": 66
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

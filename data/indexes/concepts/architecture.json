@@ -1,0 +1,55 @@
+{
+  "slug": "architecture",
+  "label": "Architecture",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "Imported Disk Source"
+  ],
+  "sourceIds": [
+    "imported-disk-source.md"
+  ],
+  "sourcePaths": [
+    "data/raw/imported-disk-source.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-imported-disk-source.md"
+  ],
+  "sectionHeadings": [
+    "Architecture"
+  ],
+  "tokens": [
+    "architecture"
+  ],
+  "evidence": [
+    {
+      "text": "Architecture",
+      "sectionHeading": "Architecture",
+      "sectionSlug": "architecture",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 11,
+        "endLine": 11
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 94,
+      "evidenceWeight": 36,
+      "taxonomy": "article.method",
+      "sectionPath": [
+        "Imported Source",
+        "Architecture"
+      ],
+      "sourceId": "imported-disk-source.md",
+      "sourceTitle": "Imported Disk Source",
+      "sourcePath": "data/raw/imported-disk-source.md",
+      "sourceQuality": 68
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 68,
+    "averageSourceQuality": 68
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:11:58.032Z"
+}

@@ -1,0 +1,121 @@
+{
+  "id": "synthesis-notes.md.json",
+  "sourceId": "synthesis-notes.md",
+  "title": "Synthesis Notes",
+  "sourcePath": "data/raw/synthesis-notes.md",
+  "generatedAt": "2026-04-21T10:56:05.616Z",
+  "blocks": [
+    {
+      "id": "synthesis-notes-1",
+      "kind": "heading",
+      "text": "Synthesis Notes",
+      "level": 1,
+      "lineStart": 1,
+      "lineEnd": 1,
+      "sectionPath": [
+        "Synthesis Notes"
+      ],
+      "taxonomy": "article.body",
+      "importance": 76,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "source-type-3",
+      "kind": "heading",
+      "text": "Source Type",
+      "level": 2,
+      "lineStart": 3,
+      "lineEnd": 3,
+      "sectionPath": [
+        "Synthesis Notes",
+        "Source Type"
+      ],
+      "taxonomy": "article.body",
+      "importance": 76,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "markdown-4",
+      "kind": "paragraph",
+      "text": "markdown",
+      "lineStart": 4,
+      "lineEnd": 4,
+      "sectionPath": [
+        "Synthesis Notes",
+        "Source Type"
+      ],
+      "taxonomy": "article.body",
+      "importance": 72,
+      "evidenceWeight": 34
+    },
+    {
+      "id": "notes-6",
+      "kind": "heading",
+      "text": "Notes",
+      "level": 2,
+      "lineStart": 6,
+      "lineEnd": 6,
+      "sectionPath": [
+        "Synthesis Notes",
+        "Notes"
+      ],
+      "taxonomy": "article.body",
+      "importance": 76,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "knowledge-synthesis-does-not-require-markdown-pa-7",
+      "kind": "paragraph",
+      "text": "Knowledge synthesis does not require markdown parser workflows in every case.",
+      "lineStart": 7,
+      "lineEnd": 7,
+      "sectionPath": [
+        "Synthesis Notes",
+        "Notes"
+      ],
+      "taxonomy": "article.method",
+      "importance": 90,
+      "evidenceWeight": 62
+    },
+    {
+      "id": "evidence-9",
+      "kind": "heading",
+      "text": "Evidence",
+      "level": 2,
+      "lineStart": 9,
+      "lineEnd": 9,
+      "sectionPath": [
+        "Synthesis Notes",
+        "Evidence"
+      ],
+      "taxonomy": "article.evidence",
+      "importance": 100,
+      "evidenceWeight": 36
+    },
+    {
+      "id": "reusable-quote-spans-make-concept-pages-more-sta-10",
+      "kind": "paragraph",
+      "text": "Reusable quote spans make concept pages more stable.",
+      "lineStart": 10,
+      "lineEnd": 10,
+      "sectionPath": [
+        "Synthesis Notes",
+        "Evidence"
+      ],
+      "taxonomy": "article.evidence",
+      "importance": 90,
+      "evidenceWeight": 44
+    }
+  ],
+  "taxonomy": [
+    "article.body",
+    "article.evidence",
+    "article.method"
+  ],
+  "stats": {
+    "blockCount": 7,
+    "sectionCount": 4,
+    "evidenceBlockCount": 3,
+    "taxonomyCount": 3
+  }
+}

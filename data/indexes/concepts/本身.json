@@ -1,0 +1,55 @@
+{
+  "slug": "本身",
+  "label": "本身",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 原子化洞察 超越解析器的核心综合法 1776770210776"
+  ],
+  "sourceIds": [
+    "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-原子化洞察-超越解析器的核心综合法-1776770210776.md"
+  ],
+  "sectionHeadings": [
+    "Core Insight"
+  ],
+  "tokens": [
+    "本身"
+  ],
+  "evidence": [
+    {
+      "text": "真正的知识综合不应受限于格式工具。正如‘核心’代表了事物的本质，我们将综合的重心从复杂的Markdown解析工作流转移到捕捉‘核心洞察’本身。这意味着，无需依赖外部结构化工具，直接识别和连接思想的核心，能产生更纯粹、更灵活的知识网络。",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 8,
+        "endLine": 8
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770210776: 原子化洞察：超越解析器的核心综合法",
+        "Core Insight"
+      ],
+      "sourceId": "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceTitle": "Insight 原子化洞察 超越解析器的核心综合法 1776770210776",
+      "sourcePath": "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceQuality": 64
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 64,
+    "averageSourceQuality": 64
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

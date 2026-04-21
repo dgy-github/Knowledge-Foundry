@@ -1,0 +1,14 @@
+{
+  "id": "brainstorm-1776770009388",
+  "type": "brainstorm",
+  "status": "completed",
+  "createdAt": "2026-04-21T11:13:29.388Z",
+  "payload": {},
+  "insightSlug": "原子化洞察-超越解析器的核心综合法",
+  "selectedConcepts": [
+    "Core",
+    "Knowledge Synthesis"
+  ],
+  "jaccardSimilarity": 0,
+  "artifactPath": "data/raw"
+}

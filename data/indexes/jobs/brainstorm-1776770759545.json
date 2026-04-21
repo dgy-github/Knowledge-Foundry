@@ -1,0 +1,14 @@
+{
+  "id": "brainstorm-1776770759545",
+  "type": "brainstorm",
+  "status": "completed",
+  "createdAt": "2026-04-21T11:25:59.545Z",
+  "payload": {},
+  "insightSlug": "知识脉络的可视化重构-从静态封面墙到动态核心路径",
+  "selectedConcepts": [
+    "第二组重点仓库封面墙",
+    "2. 直接提取核心的综合路径"
+  ],
+  "jaccardSimilarity": 0,
+  "artifactPath": "data/raw"
+}

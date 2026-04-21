@@ -1,0 +1,56 @@
+{
+  "slug": "标准核心",
+  "label": "标准核心",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899"
+  ],
+  "sourceIds": [
+    "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sectionHeadings": [
+    "第二步：标记（符号化）"
+  ],
+  "tokens": [
+    "标准核心"
+  ],
+  "evidence": [
+    {
+      "text": "**标准核心**（心中的决策锚点）：`::: 老年居住安全系数`",
+      "sectionHeading": "第二步：标记（符号化）",
+      "sectionSlug": "第二步-标记-符号化",
+      "quoteSpan": {
+        "kind": "block:list",
+        "startLine": 30,
+        "endLine": 30
+      },
+      "evidenceKind": "list",
+      "blockImportance": 58,
+      "evidenceWeight": 28,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "涌现式现场判断：从流程图到张力图谱",
+        "2. 方法论重构",
+        "第二步：标记（符号化）"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 66,
+    "averageSourceQuality": 66
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

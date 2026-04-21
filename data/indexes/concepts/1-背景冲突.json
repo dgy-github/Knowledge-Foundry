@@ -1,0 +1,81 @@
+{
+  "slug": "1-背景冲突",
+  "label": "1. 背景冲突",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "Insight 原生语义磁盘 超越解析的综合机制 1776769521489",
+    "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899"
+  ],
+  "sourceIds": [
+    "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+    "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+    "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+    "data/wiki/source-insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sectionHeadings": [
+    "1. 背景冲突"
+  ],
+  "tokens": [
+    "背景冲突"
+  ],
+  "evidence": [
+    {
+      "text": "1. 背景冲突",
+      "sectionHeading": "1. 背景冲突",
+      "sectionSlug": "1-背景冲突",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 13,
+        "endLine": 13
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "涌现式现场判断：从流程图到张力图谱",
+        "1. 背景冲突"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    },
+    {
+      "text": "1. 背景冲突",
+      "sectionHeading": "1. 背景冲突",
+      "sectionSlug": "1-背景冲突",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 13,
+        "endLine": 13
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "概念融合：原生语义磁盘",
+        "1. 背景冲突"
+      ],
+      "sourceId": "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceTitle": "Insight 原生语义磁盘 超越解析的综合机制 1776769521489",
+      "sourcePath": "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 66,
+    "averageSourceQuality": 62.5
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

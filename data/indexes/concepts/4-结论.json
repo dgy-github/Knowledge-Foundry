@@ -1,0 +1,102 @@
+{
+  "slug": "4-结论",
+  "label": "4. 结论",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899"
+  ],
+  "sourceIds": [
+    "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md"
+  ],
+  "sectionHeadings": [
+    "4. 结论",
+    "Core Insight",
+    "第四步：综合（张力产生判断）"
+  ],
+  "tokens": [
+    "结论"
+  ],
+  "evidence": [
+    {
+      "text": "将实勘判断从僵化的逻辑流程图转变为基于‘核心标记’与‘物理相邻’的动态感知过程。通过剥离现场噪音，用符号标记核心，并将其与决策标准并列放置，观察两者间的张力与共鸣，从而替代机械的步骤式判断，实现更直观、综合的结论。",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 8,
+        "endLine": 8
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770963899: 涌现式现场判断：用‘核心张力’替代线性流程",
+        "Core Insight"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    },
+    {
+      "text": "这种共鸣瞬间跳过了流程图中的中间推导步骤，直接指向结论：**“不仅不安全，且由于无法改造，直接否定。”**",
+      "sectionHeading": "第四步：综合（张力产生判断）",
+      "sectionSlug": "第四步-综合-张力产生判断",
+      "quoteSpan": {
+        "kind": "block:list",
+        "startLine": 42,
+        "endLine": 42
+      },
+      "evidenceKind": "list",
+      "blockImportance": 58,
+      "evidenceWeight": 28,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "涌现式现场判断：从流程图到张力图谱",
+        "2. 方法论重构",
+        "第四步：综合（张力产生判断）"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    },
+    {
+      "text": "4. 结论",
+      "sectionHeading": "4. 结论",
+      "sectionSlug": "4-结论",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 54,
+        "endLine": 54
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "涌现式现场判断：从流程图到张力图谱",
+        "4. 结论"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 66,
+    "averageSourceQuality": 66
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

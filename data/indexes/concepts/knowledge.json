@@ -1,0 +1,81 @@
+{
+  "slug": "knowledge",
+  "label": "Knowledge",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Llm Knowledge Bases",
+    "Synthesis Notes"
+  ],
+  "sourceIds": [
+    "llm-knowledge-bases.md",
+    "synthesis-notes.md"
+  ],
+  "sourcePaths": [
+    "data/raw/llm-knowledge-bases.md",
+    "data/raw/synthesis-notes.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-llm-knowledge-bases.md",
+    "data/wiki/source-synthesis-notes.md"
+  ],
+  "sectionHeadings": [
+    "LLM Knowledge Bases test",
+    "Notes"
+  ],
+  "tokens": [
+    "knowledge"
+  ],
+  "evidence": [
+    {
+      "text": "Knowledge synthesis does not require markdown parser workflows in every case.",
+      "sectionHeading": "Notes",
+      "sectionSlug": "notes",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 7,
+        "endLine": 7
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 90,
+      "evidenceWeight": 62,
+      "taxonomy": "article.method",
+      "sectionPath": [
+        "Synthesis Notes",
+        "Notes"
+      ],
+      "sourceId": "synthesis-notes.md",
+      "sourceTitle": "Synthesis Notes",
+      "sourcePath": "data/raw/synthesis-notes.md",
+      "sourceQuality": 57
+    },
+    {
+      "text": "LLM Knowledge Bases test",
+      "sectionHeading": "LLM Knowledge Bases test",
+      "sectionSlug": "llm-knowledge-bases-test",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 1,
+        "endLine": 1
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "LLM Knowledge Bases test"
+      ],
+      "sourceId": "llm-knowledge-bases.md",
+      "sourceTitle": "Llm Knowledge Bases",
+      "sourcePath": "data/raw/llm-knowledge-bases.md",
+      "sourceQuality": 34
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 57,
+    "averageSourceQuality": 45.5
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

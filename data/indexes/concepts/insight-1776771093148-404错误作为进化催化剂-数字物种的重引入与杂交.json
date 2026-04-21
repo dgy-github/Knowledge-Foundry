@@ -1,0 +1,129 @@
+{
+  "slug": "insight-1776771093148-404错误作为进化催化剂-数字物种的重引入与杂交",
+  "label": "insight 1776771093148: 404错误作为进化催化剂：数字物种的重引入与杂交",
+  "kinds": [
+    "document-title"
+  ],
+  "sourceTitles": [
+    "Insight 404错误作为进化催化剂 数字物种的重引入与杂交 1776771093148"
+  ],
+  "sourceIds": [
+    "insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md"
+  ],
+  "sectionHeadings": [
+    "Core Insight",
+    "强制连接：代码园丁机制",
+    "机制运作方式"
+  ],
+  "tokens": [
+    "1776771093148",
+    "404",
+    "insight",
+    "数字物种的重引入与杂交",
+    "错误作为进化催化剂"
+  ],
+  "evidence": [
+    {
+      "text": "将医疗AI项目的404失效视为数字生态系统中的'物种灭绝'，利用'进化交叉授粉'的概念，将死链接转化为引导用户找到更先进、混合型新工具的基因桥梁，从而在数字废墟中培育出更健壮的解决方案。",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 8,
+        "endLine": 8
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776771093148: 404错误作为进化催化剂：数字物种的重引入与杂交",
+        "Core Insight"
+      ],
+      "sourceId": "insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceTitle": "Insight 404错误作为进化催化剂 数字物种的重引入与杂交 1776771093148",
+      "sourcePath": "data/raw/insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceQuality": 57
+    },
+    {
+      "text": "如果我们将 Web 2.0/3.0 视为一个不断演变的森林，404 错误就是枯树。传统的做法是砍掉它（移除链接）或立个牌子（显示错误页）。但结合“进化交叉授粉”，我们提出了 **“代码园丁”** 机制。",
+      "sectionHeading": "强制连接：代码园丁机制",
+      "sectionSlug": "强制连接-代码园丁机制",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 21,
+        "endLine": 21
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "404错误作为进化催化剂：数字物种的重引入与杂交",
+        "强制连接：代码园丁机制"
+      ],
+      "sourceId": "insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceTitle": "Insight 404错误作为进化催化剂 数字物种的重引入与杂交 1776771093148",
+      "sourcePath": "data/raw/insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceQuality": 57
+    },
+    {
+      "text": "当用户试图访问失效的 `MediSuite-Ai-Agent` 并遇到 404 时，系统不应仅仅停止，而应启动一个“进化诱导程序”：",
+      "sectionHeading": "机制运作方式",
+      "sectionSlug": "机制运作方式",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 25,
+        "endLine": 25
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "404错误作为进化催化剂：数字物种的重引入与杂交",
+        "强制连接：代码园丁机制",
+        "机制运作方式"
+      ],
+      "sourceId": "insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceTitle": "Insight 404错误作为进化催化剂 数字物种的重引入与杂交 1776771093148",
+      "sourcePath": "data/raw/insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceQuality": 57
+    },
+    {
+      "text": "3.  **强制杂交 (Cross-Pollination)**：404 页面不再是一个死胡同，而变成了一个 **“变异实验室”**。它向用户展示这些活跃的“亲本物种”，并建议：“虽然该工具已灭绝，但基于其医疗理赔的核心功能，以下项目已经与其代码进行了‘杂交’并进化出了更强的抗病性（维护性）。”",
+      "sectionHeading": "机制运作方式",
+      "sectionSlug": "机制运作方式",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 31,
+        "endLine": 31
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "404错误作为进化催化剂：数字物种的重引入与杂交",
+        "强制连接：代码园丁机制",
+        "机制运作方式"
+      ],
+      "sourceId": "insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceTitle": "Insight 404错误作为进化催化剂 数字物种的重引入与杂交 1776771093148",
+      "sourcePath": "data/raw/insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceQuality": 57
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 57,
+    "averageSourceQuality": 57
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

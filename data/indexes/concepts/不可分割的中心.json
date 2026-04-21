@@ -1,0 +1,55 @@
+{
+  "slug": "不可分割的中心",
+  "label": "不可分割的中心",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 原子化洞察 超越解析器的核心综合法 1776770210776"
+  ],
+  "sourceIds": [
+    "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-原子化洞察-超越解析器的核心综合法-1776770210776.md"
+  ],
+  "sectionHeadings": [
+    "概念碰撞"
+  ],
+  "tokens": [
+    "不可分割的中心"
+  ],
+  "evidence": [
+    {
+      "text": "当我们谈论**核心**时，我们指的是决定事物本质、不可分割的中心；而**知识综合**往往被误解为需要繁琐的Markdown解析、链接和格式化的技术过程。本次意外发现将两者结合，提出一种\"无壳综合\"的理念：**如果抓住了思想的\"核心\"，那么任何解析器工作流都是多余的累赘。**",
+      "sectionHeading": "概念碰撞",
+      "sectionSlug": "概念碰撞",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 14,
+        "endLine": 14
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "核心综合法：剥离外壳的思想核聚变",
+        "概念碰撞"
+      ],
+      "sourceId": "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceTitle": "Insight 原子化洞察 超越解析器的核心综合法 1776770210776",
+      "sourcePath": "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceQuality": 64
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 64,
+    "averageSourceQuality": 64
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

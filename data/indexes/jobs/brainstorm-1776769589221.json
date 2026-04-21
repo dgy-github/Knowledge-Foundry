@@ -1,0 +1,14 @@
+{
+  "id": "brainstorm-1776769589221",
+  "type": "brainstorm",
+  "status": "completed",
+  "createdAt": "2026-04-21T11:06:29.221Z",
+  "payload": {},
+  "insightSlug": "brainstorm-failed",
+  "selectedConcepts": [
+    "Markdown Parse",
+    "Elaboration"
+  ],
+  "jaccardSimilarity": 0,
+  "artifactPath": "data/raw"
+}

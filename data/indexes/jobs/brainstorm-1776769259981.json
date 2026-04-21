@@ -1,0 +1,14 @@
+{
+  "id": "brainstorm-1776769259981",
+  "type": "brainstorm",
+  "status": "completed",
+  "createdAt": "2026-04-21T11:00:59.981Z",
+  "payload": {},
+  "insightSlug": "语义编译-超越格式的知识重塑",
+  "selectedConcepts": [
+    "Does",
+    "Compile"
+  ],
+  "jaccardSimilarity": 0,
+  "artifactPath": "data/raw"
+}

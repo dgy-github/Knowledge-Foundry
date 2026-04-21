@@ -1,0 +1,55 @@
+{
+  "slug": "仓库分层图",
+  "label": "仓库分层图",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "500_AI_Agents_Projects_README_仓库实勘报告.md"
+  ],
+  "sourceIds": [
+    "500-ai-agents-projects-readme-仓库实勘报告-md.md"
+  ],
+  "sourcePaths": [
+    "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-500-ai-agents-projects-readme-仓库实勘报告-md.md"
+  ],
+  "sectionHeadings": [
+    "仓库分层图"
+  ],
+  "tokens": [
+    "仓库分层图"
+  ],
+  "evidence": [
+    {
+      "text": "仓库分层图",
+      "sectionHeading": "仓库分层图",
+      "sectionSlug": "仓库分层图",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 17,
+        "endLine": 17
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "仓库分层图"
+      ],
+      "sourceId": "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceTitle": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sourcePath": "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceQuality": 77
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 77,
+    "averageSourceQuality": 77
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "并高亮显示最关键的三个决策点",
+  "label": "并高亮显示最关键的三个决策点",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951"
+  ],
+  "sourceIds": [
+    "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "sectionHeadings": [
+    "1. 从“看皮相”到“看骨相”"
+  ],
+  "tokens": [
+    "并高亮显示最关键的三个决策点"
+  ],
+  "evidence": [
+    {
+      "text": "**新形态封面：** 一个动态生成的流程图或思维导图缩略图，直接展示了该指南的“核心综合路径”（如：立项 -> 规划 -> 执行 -> 监控 -> 收尾），并高亮显示最关键的三个决策点。",
+      "sectionHeading": "1. 从“看皮相”到“看骨相”",
+      "sectionSlug": "1-从-看皮相-到-看骨相",
+      "quoteSpan": {
+        "kind": "block:list",
+        "startLine": 27,
+        "endLine": 27
+      },
+      "evidenceKind": "list",
+      "blockImportance": 58,
+      "evidenceWeight": 28,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "知识脉络的可视化重构",
+        "洞察融合",
+        "1. 从“看皮相”到“看骨相”"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

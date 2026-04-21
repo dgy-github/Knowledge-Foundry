@@ -1,0 +1,45 @@
+{
+  "id": "llm-knowledge-bases.md",
+  "title": "Llm Knowledge Bases",
+  "sourceType": "markdown",
+  "path": "data/raw/llm-knowledge-bases.md",
+  "tags": [],
+  "ingestedAt": "2026-04-21T10:56:05.858Z",
+  "importMode": "file",
+  "originalPath": "data/raw/llm-knowledge-bases.md",
+  "parsedPath": "data/indexes/parsed/llm-knowledge-bases.md.json",
+  "parsedBlocksPath": "data/indexes/parsed-blocks/llm-knowledge-bases.md.json",
+  "summaryPath": "data/wiki/source-llm-knowledge-bases.md",
+  "conceptSlugs": [
+    "llm-knowledge-bases",
+    "llm-knowledge-bases-test",
+    "markdown",
+    "bases",
+    "content",
+    "knowledge",
+    "llm",
+    "test"
+  ],
+  "compileStats": {
+    "lineCount": 3,
+    "wordCount": 7,
+    "sectionCount": 0,
+    "bulletCount": 0,
+    "paragraphCount": 1,
+    "conceptCount": 8
+  },
+  "qualityScore": 34,
+  "qualityBreakdown": {
+    "contentDepth": 18,
+    "structureQuality": 28,
+    "sourceAuthority": 85,
+    "freshness": 50,
+    "evidenceDensity": 30,
+    "repoSignal": 20,
+    "noisePenalty": 30,
+    "totalScore": 34
+  },
+  "sourceSummary": "# LLM Knowledge Bases test Test content. ",
+  "contentHash": "76c1ddd14a74dfe91ddae25b67e9cd914e207047",
+  "compiledAt": "2026-04-21T11:31:33.151Z"
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "insight-1776770962951-知识脉络的可视化重构-从静态封面墙到动态核心路径",
+  "label": "insight 1776770962951: 知识脉络的可视化重构：从静态封面墙到动态核心路径",
+  "kinds": [
+    "document-title"
+  ],
+  "sourceTitles": [
+    "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951"
+  ],
+  "sourceIds": [
+    "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "sectionHeadings": [
+    "Core Insight",
+    "Insight 1776770962951: 知识脉络的可视化重构：从静态封面墙到动态核心路径",
+    "知识脉络的可视化重构"
+  ],
+  "tokens": [
+    "1776770962951",
+    "insight",
+    "从静态封面墙到动态核心路径",
+    "知识脉络的可视化重构"
+  ],
+  "evidence": [
+    {
+      "text": "Insight 1776770962951: 知识脉络的可视化重构：从静态封面墙到动态核心路径",
+      "sectionHeading": "Insight 1776770962951: 知识脉络的可视化重构：从静态封面墙到动态核心路径",
+      "sectionSlug": "insight-1776770962951-知识脉络的可视化重构-从静态封面墙到动态核心路径",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 1,
+        "endLine": 1
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770962951: 知识脉络的可视化重构：从静态封面墙到动态核心路径"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "Core Insight",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 7,
+        "endLine": 7
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770962951: 知识脉络的可视化重构：从静态封面墙到动态核心路径",
+        "Core Insight"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "知识脉络的可视化重构",
+      "sectionHeading": "知识脉络的可视化重构",
+      "sectionSlug": "知识脉络的可视化重构",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 11,
+        "endLine": 11
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "知识脉络的可视化重构"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

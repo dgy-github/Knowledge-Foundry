@@ -1,0 +1,81 @@
+{
+  "slug": "error",
+  "label": "Error",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight Brainstorm Failed 1776769896097",
+    "Insight Brainstorm Failed 1776769918027"
+  ],
+  "sourceIds": [
+    "insight-brainstorm-failed-1776769896097.md",
+    "insight-brainstorm-failed-1776769918027.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-brainstorm-failed-1776769896097.md",
+    "data/raw/insight-brainstorm-failed-1776769918027.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-brainstorm-failed-1776769896097.md",
+    "data/wiki/source-insight-brainstorm-failed-1776769918027.md"
+  ],
+  "sectionHeadings": [
+    "Core Insight"
+  ],
+  "tokens": [
+    "error"
+  ],
+  "evidence": [
+    {
+      "text": "Error",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 8,
+        "endLine": 8
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776769918027: Brainstorm Failed",
+        "Core Insight"
+      ],
+      "sourceId": "insight-brainstorm-failed-1776769918027.md",
+      "sourceTitle": "Insight Brainstorm Failed 1776769918027",
+      "sourcePath": "data/raw/insight-brainstorm-failed-1776769918027.md",
+      "sourceQuality": 51
+    },
+    {
+      "text": "Error",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 8,
+        "endLine": 8
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776769896097: Brainstorm Failed",
+        "Core Insight"
+      ],
+      "sourceId": "insight-brainstorm-failed-1776769896097.md",
+      "sourceTitle": "Insight Brainstorm Failed 1776769896097",
+      "sourcePath": "data/raw/insight-brainstorm-failed-1776769896097.md",
+      "sourceQuality": 50
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 51,
+    "averageSourceQuality": 50.5
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

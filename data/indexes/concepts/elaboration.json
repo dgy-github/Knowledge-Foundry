@@ -1,0 +1,242 @@
+{
+  "slug": "elaboration",
+  "label": "Elaboration",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "Insight 404错误作为进化催化剂 数字物种的重引入与杂交 1776771093148",
+    "Insight Brainstorm Failed 1776769896097",
+    "Insight Brainstorm Failed 1776769918027",
+    "Insight 原子化洞察 超越解析器的核心综合法 1776770210776",
+    "Insight 原生语义磁盘 超越解析的综合机制 1776769521489",
+    "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+    "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+    "Insight 语义编译 超越格式的知识重塑 1776769497132",
+    "Insight 超越语法 知识合成的直接语义编译 1776770083886"
+  ],
+  "sourceIds": [
+    "insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+    "insight-brainstorm-failed-1776769896097.md",
+    "insight-brainstorm-failed-1776769918027.md",
+    "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+    "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+    "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+    "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+    "insight-语义编译-超越格式的知识重塑-1776769497132.md",
+    "insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+    "data/raw/insight-brainstorm-failed-1776769896097.md",
+    "data/raw/insight-brainstorm-failed-1776769918027.md",
+    "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+    "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+    "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+    "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+    "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md",
+    "data/raw/insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+    "data/wiki/source-insight-brainstorm-failed-1776769896097.md",
+    "data/wiki/source-insight-brainstorm-failed-1776769918027.md",
+    "data/wiki/source-insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+    "data/wiki/source-insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+    "data/wiki/source-insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+    "data/wiki/source-insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+    "data/wiki/source-insight-语义编译-超越格式的知识重塑-1776769497132.md",
+    "data/wiki/source-insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "sectionHeadings": [
+    "Elaboration",
+    "🌌 Evolution Cross-Pollination"
+  ],
+  "tokens": [
+    "elaboration"
+  ],
+  "evidence": [
+    {
+      "text": "Elaboration",
+      "sectionHeading": "Elaboration",
+      "sectionSlug": "elaboration",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 10,
+        "endLine": 10
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770963899: 涌现式现场判断：用‘核心张力’替代线性流程",
+        "Elaboration"
+      ],
+      "sourceId": "insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceTitle": "Insight 涌现式现场判断 用 核心张力 替代线性流程 1776770963899",
+      "sourcePath": "data/raw/insight-涌现式现场判断-用-核心张力-替代线性流程-1776770963899.md",
+      "sourceQuality": 66
+    },
+    {
+      "text": "Elaboration",
+      "sectionHeading": "Elaboration",
+      "sectionSlug": "elaboration",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 10,
+        "endLine": 10
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770210776: 原子化洞察：超越解析器的核心综合法",
+        "Elaboration"
+      ],
+      "sourceId": "insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceTitle": "Insight 原子化洞察 超越解析器的核心综合法 1776770210776",
+      "sourcePath": "data/raw/insight-原子化洞察-超越解析器的核心综合法-1776770210776.md",
+      "sourceQuality": 64
+    },
+    {
+      "text": "Elaboration",
+      "sectionHeading": "Elaboration",
+      "sectionSlug": "elaboration",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 10,
+        "endLine": 10
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776769497132: 语义编译：超越格式的知识重塑",
+        "Elaboration"
+      ],
+      "sourceId": "insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceTitle": "Insight 语义编译 超越格式的知识重塑 1776769497132",
+      "sourcePath": "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "Elaboration",
+      "sectionHeading": "Elaboration",
+      "sectionSlug": "elaboration",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 10,
+        "endLine": 10
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776769521489: 原生语义磁盘：超越解析的综合机制",
+        "Elaboration"
+      ],
+      "sourceId": "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceTitle": "Insight 原生语义磁盘 超越解析的综合机制 1776769521489",
+      "sourcePath": "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "Elaboration",
+      "sectionHeading": "Elaboration",
+      "sectionSlug": "elaboration",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 10,
+        "endLine": 10
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770962951: 知识脉络的可视化重构：从静态封面墙到动态核心路径",
+        "Elaboration"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "Elaboration",
+      "sectionHeading": "Elaboration",
+      "sectionSlug": "elaboration",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 10,
+        "endLine": 10
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776771093148: 404错误作为进化催化剂：数字物种的重引入与杂交",
+        "Elaboration"
+      ],
+      "sourceId": "insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceTitle": "Insight 404错误作为进化催化剂 数字物种的重引入与杂交 1776771093148",
+      "sourcePath": "data/raw/insight-404错误作为进化催化剂-数字物种的重引入与杂交-1776771093148.md",
+      "sourceQuality": 57
+    },
+    {
+      "text": "Elaboration",
+      "sectionHeading": "Elaboration",
+      "sectionSlug": "elaboration",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 10,
+        "endLine": 10
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770083886: 超越语法：知识合成的直接语义编译",
+        "Elaboration"
+      ],
+      "sourceId": "insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceTitle": "Insight 超越语法 知识合成的直接语义编译 1776770083886",
+      "sourcePath": "data/raw/insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceQuality": 57
+    },
+    {
+      "text": "Elaboration",
+      "sectionHeading": "Elaboration",
+      "sectionSlug": "elaboration",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 10,
+        "endLine": 10
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776769918027: Brainstorm Failed",
+        "Elaboration"
+      ],
+      "sourceId": "insight-brainstorm-failed-1776769918027.md",
+      "sourceTitle": "Insight Brainstorm Failed 1776769918027",
+      "sourcePath": "data/raw/insight-brainstorm-failed-1776769918027.md",
+      "sourceQuality": 51
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 66,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

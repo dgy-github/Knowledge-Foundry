@@ -1,0 +1,58 @@
+{
+  "id": "synthesis-notes.md",
+  "title": "Synthesis Notes",
+  "sourceType": "markdown",
+  "path": "data/raw/synthesis-notes.md",
+  "tags": [
+    "knowledge synthesis",
+    "note taking"
+  ],
+  "ingestedAt": "2026-04-21T10:56:05.606Z",
+  "importMode": "inline",
+  "originalPath": null,
+  "parsedPath": "data/indexes/parsed/synthesis-notes.md.json",
+  "parsedBlocksPath": "data/indexes/parsed-blocks/synthesis-notes.md.json",
+  "summaryPath": "data/wiki/source-synthesis-notes.md",
+  "conceptSlugs": [
+    "synthesis-notes",
+    "markdown",
+    "knowledge-synthesis",
+    "zettel-workflow",
+    "source-type",
+    "notes",
+    "evidence",
+    "markdown-parse",
+    "quote-span",
+    "case",
+    "concept",
+    "does",
+    "every",
+    "knowledge",
+    "make"
+  ],
+  "compileStats": {
+    "lineCount": 11,
+    "wordCount": 30,
+    "sectionCount": 3,
+    "bulletCount": 0,
+    "paragraphCount": 4,
+    "conceptCount": 15,
+    "claimCount": 4,
+    "contradictionCount": 0
+  },
+  "compiledAt": "2026-04-21T11:31:33.151Z",
+  "qualityScore": 57,
+  "qualityBreakdown": {
+    "contentDepth": 44,
+    "structureQuality": 100,
+    "sourceAuthority": 85,
+    "freshness": 50,
+    "evidenceDensity": 46,
+    "repoSignal": 20,
+    "noisePenalty": 18,
+    "totalScore": 57
+  },
+  "sourceSummary": "# Synthesis Notes  ## Source Type markdown  ## Notes",
+  "contentHash": "9b37176a29cb846e36b30fc4fddb9abbc257cefa",
+  "conceptStrategy": "rules"
+}

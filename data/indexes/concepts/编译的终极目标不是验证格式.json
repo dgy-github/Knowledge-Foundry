@@ -1,0 +1,55 @@
+{
+  "slug": "编译的终极目标不是验证格式",
+  "label": "编译的终极目标不是验证格式",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 语义编译 超越格式的知识重塑 1776769497132"
+  ],
+  "sourceIds": [
+    "insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "sectionHeadings": [
+    "应用价值"
+  ],
+  "tokens": [
+    "编译的终极目标不是验证格式"
+  ],
+  "evidence": [
+    {
+      "text": "**结论**：编译的终极目标不是验证格式，而是提炼智慧。通过在编译阶段内嵌灵活的综合策略，我们可以将任何形式的磁盘输入转化为可行动的洞察。",
+      "sectionHeading": "应用价值",
+      "sectionSlug": "应用价值",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 34,
+        "endLine": 34
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "语义编译：从磁盘数据到智慧摘要的智能跃迁",
+        "应用价值"
+      ],
+      "sourceId": "insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceTitle": "Insight 语义编译 超越格式的知识重塑 1776769497132",
+      "sourcePath": "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

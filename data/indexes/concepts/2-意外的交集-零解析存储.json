@@ -1,0 +1,56 @@
+{
+  "slug": "2-意外的交集-零解析存储",
+  "label": "2. 意外的交集：零解析存储",
+  "kinds": [
+    "section"
+  ],
+  "sourceTitles": [
+    "Insight 原生语义磁盘 超越解析的综合机制 1776769521489"
+  ],
+  "sourceIds": [
+    "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "sectionHeadings": [
+    "2. 意外的交集：零解析存储"
+  ],
+  "tokens": [
+    "意外的交集",
+    "零解析存储"
+  ],
+  "evidence": [
+    {
+      "text": "2. 意外的交集：零解析存储",
+      "sectionHeading": "2. 意外的交集：零解析存储",
+      "sectionSlug": "2-意外的交集-零解析存储",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 19,
+        "endLine": 19
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "概念融合：原生语义磁盘",
+        "2. 意外的交集：零解析存储"
+      ],
+      "sourceId": "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceTitle": "Insight 原生语义磁盘 超越解析的综合机制 1776769521489",
+      "sourcePath": "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

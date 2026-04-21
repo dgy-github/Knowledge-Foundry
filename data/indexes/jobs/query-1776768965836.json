@@ -1,0 +1,29 @@
+{
+  "id": "query-1776768965836",
+  "type": "query",
+  "jobType": "query",
+  "status": "completed",
+  "createdAt": "2026-04-21T10:56:05.836Z",
+  "payload": {
+    "question": "How does knowledge synthesis use markdown parsing?",
+    "outputKind": "report"
+  },
+  "metrics": {
+    "evidenceCount": 6,
+    "matchedConceptCount": 4
+  },
+  "artifactPath": "data/outputs/how-does-knowledge-synthesis-use-markdown-parsing.md",
+  "filedWikiPath": "data/wiki/how-does-knowledge-synthesis-use-markdown-parsing.md",
+  "relatedConcepts": [
+    "knowledge-synthesis",
+    "markdown",
+    "does",
+    "knowledge"
+  ],
+  "evidenceCount": 6,
+  "retrieval": {
+    "mode": "keyword+quality",
+    "vectorApplied": false,
+    "candidateCount": 25
+  }
+}

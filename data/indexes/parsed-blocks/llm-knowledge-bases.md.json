@@ -1,0 +1,45 @@
+{
+  "id": "llm-knowledge-bases.md.json",
+  "sourceId": "llm-knowledge-bases.md",
+  "title": "Llm Knowledge Bases",
+  "sourcePath": "data/raw/llm-knowledge-bases.md",
+  "generatedAt": "2026-04-21T11:04:57.135Z",
+  "blocks": [
+    {
+      "id": "llm-knowledge-bases-test-1",
+      "kind": "heading",
+      "text": "LLM Knowledge Bases test",
+      "level": 1,
+      "lineStart": 1,
+      "lineEnd": 1,
+      "sectionPath": [
+        "LLM Knowledge Bases test"
+      ],
+      "taxonomy": "article.body",
+      "importance": 76,
+      "evidenceWeight": 26
+    },
+    {
+      "id": "test-content-2",
+      "kind": "paragraph",
+      "text": "Test content.",
+      "lineStart": 2,
+      "lineEnd": 2,
+      "sectionPath": [
+        "LLM Knowledge Bases test"
+      ],
+      "taxonomy": "article.body",
+      "importance": 72,
+      "evidenceWeight": 34
+    }
+  ],
+  "taxonomy": [
+    "article.body"
+  ],
+  "stats": {
+    "blockCount": 2,
+    "sectionCount": 1,
+    "evidenceBlockCount": 1,
+    "taxonomyCount": 1
+  }
+}

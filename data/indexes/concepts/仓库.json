@@ -1,0 +1,126 @@
+{
+  "slug": "仓库",
+  "label": "仓库",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951"
+  ],
+  "sourceIds": [
+    "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "sectionHeadings": [
+    "2. 信息的“透传”与“零延迟”获取",
+    "3. 动态策展机制",
+    "Core Insight",
+    "概念碰撞"
+  ],
+  "tokens": [
+    "仓库"
+  ],
+  "evidence": [
+    {
+      "text": "将“重点仓库封面墙”从单纯的展示入口，转变为通过“直接提取核心的综合路径”生成的动态导航系统。封面不再是静态的图像，而是该内容核心逻辑的视觉化摘要。用户无需点击进入即可在墙面上直接“预览”并“提取”知识精华，极大提升信息获取的效率和深度。",
+      "sectionHeading": "Core Insight",
+      "sectionSlug": "core-insight",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 8,
+        "endLine": 8
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770962951: 知识脉络的可视化重构：从静态封面墙到动态核心路径",
+        "Core Insight"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "传统意义上的**“重点仓库封面墙”**往往扮演着数字图书馆大门的角色——它是一张静态的图片或图标的集合，用于提示用户“这里有什么”。用户必须点击封面，进入仓库深处，才能开始阅读和消化内容。",
+      "sectionHeading": "概念碰撞",
+      "sectionSlug": "概念碰撞",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 15,
+        "endLine": 15
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "知识脉络的可视化重构",
+        "概念碰撞"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "这种结合改变了信息获取的效率。当用户扫视第二组重点仓库的封面墙时，他们实际上是在浏览一组**被提炼过的知识骨架**。",
+      "sectionHeading": "2. 信息的“透传”与“零延迟”获取",
+      "sectionSlug": "2-信息的-透传-与-零延迟-获取",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 30,
+        "endLine": 30
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "知识脉络的可视化重构",
+        "洞察融合",
+        "2. 信息的“透传”与“零延迟”获取"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "封面墙的排序和展示方式也可以基于“核心路径”的权重进行自动调整。如果某个仓库的综合路径显示了极高的关联度或密度，它会在封面墙上占据更显眼的位置。",
+      "sectionHeading": "3. 动态策展机制",
+      "sectionSlug": "3-动态策展机制",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 35,
+        "endLine": 35
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "知识脉络的可视化重构",
+        "洞察融合",
+        "3. 动态策展机制"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

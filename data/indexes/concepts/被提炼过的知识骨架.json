@@ -1,0 +1,56 @@
+{
+  "slug": "被提炼过的知识骨架",
+  "label": "被提炼过的知识骨架",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951"
+  ],
+  "sourceIds": [
+    "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md"
+  ],
+  "sectionHeadings": [
+    "2. 信息的“透传”与“零延迟”获取"
+  ],
+  "tokens": [
+    "被提炼过的知识骨架"
+  ],
+  "evidence": [
+    {
+      "text": "这种结合改变了信息获取的效率。当用户扫视第二组重点仓库的封面墙时，他们实际上是在浏览一组**被提炼过的知识骨架**。",
+      "sectionHeading": "2. 信息的“透传”与“零延迟”获取",
+      "sectionSlug": "2-信息的-透传-与-零延迟-获取",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 30,
+        "endLine": 30
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "知识脉络的可视化重构",
+        "洞察融合",
+        "2. 信息的“透传”与“零延迟”获取"
+      ],
+      "sourceId": "insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceTitle": "Insight 知识脉络的可视化重构 从静态封面墙到动态核心路径 1776770962951",
+      "sourcePath": "data/raw/insight-知识脉络的可视化重构-从静态封面墙到动态核心路径-1776770962951.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

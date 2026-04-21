@@ -1,0 +1,57 @@
+{
+  "$schema": "./concept-aliases.schema.json",
+  "replacements": [
+    {
+      "match": "parsing",
+      "replace": "parser"
+    },
+    {
+      "match": "parsers",
+      "replace": "parser"
+    },
+    {
+      "match": "summaries",
+      "replace": "summary"
+    },
+    {
+      "match": "pages",
+      "replace": "page"
+    },
+    {
+      "match": "quotes",
+      "replace": "quote"
+    },
+    {
+      "match": "evidences",
+      "replace": "evidence"
+    },
+    {
+      "match": "workflows",
+      "replace": "workflow"
+    },
+    {
+      "match": "knowledge base",
+      "replace": "knowledge-base"
+    },
+    {
+      "match": "markdown parser",
+      "replace": "markdown parse"
+    },
+    {
+      "match": "markdown parsing",
+      "replace": "markdown parse"
+    },
+    {
+      "match": "note taking",
+      "replace": "zettel workflow"
+    }
+  ],
+  "canonicalPhrases": [
+    "knowledge-base",
+    "knowledge synthesis",
+    "markdown parse",
+    "quote span",
+    "source summary",
+    "zettel workflow"
+  ]
+}

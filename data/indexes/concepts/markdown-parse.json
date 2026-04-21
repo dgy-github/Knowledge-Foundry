@@ -1,0 +1,107 @@
+{
+  "slug": "markdown-parse",
+  "label": "Markdown Parse",
+  "kinds": [
+    "phrase",
+    "wikilink"
+  ],
+  "sourceTitles": [
+    "Insight Brainstorm Failed 1776769896097",
+    "Synthesis Notes"
+  ],
+  "sourceIds": [
+    "insight-brainstorm-failed-1776769896097.md",
+    "synthesis-notes.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-brainstorm-failed-1776769896097.md",
+    "data/raw/synthesis-notes.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-brainstorm-failed-1776769896097.md",
+    "data/wiki/source-synthesis-notes.md"
+  ],
+  "sectionHeadings": [
+    "Notes",
+    "Source Type",
+    "🌌 Evolution Cross-Pollination"
+  ],
+  "tokens": [
+    "markdown",
+    "parse"
+  ],
+  "evidence": [
+    {
+      "text": "Knowledge synthesis does not require markdown parser workflows in every case.",
+      "sectionHeading": "Notes",
+      "sectionSlug": "notes",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 7,
+        "endLine": 7
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 90,
+      "evidenceWeight": 62,
+      "taxonomy": "article.method",
+      "sectionPath": [
+        "Synthesis Notes",
+        "Notes"
+      ],
+      "sourceId": "synthesis-notes.md",
+      "sourceTitle": "Synthesis Notes",
+      "sourcePath": "data/raw/synthesis-notes.md",
+      "sourceQuality": 57
+    },
+    {
+      "text": "markdown",
+      "sectionHeading": "Source Type",
+      "sectionSlug": "source-type",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 4,
+        "endLine": 4
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Synthesis Notes",
+        "Source Type"
+      ],
+      "sourceId": "synthesis-notes.md",
+      "sourceTitle": "Synthesis Notes",
+      "sourcePath": "data/raw/synthesis-notes.md",
+      "sourceQuality": 57
+    },
+    {
+      "text": "**A**: [[Markdown Parse]]",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "sectionSlug": "evolution-cross-pollination",
+      "quoteSpan": {
+        "kind": "block:list",
+        "startLine": 4,
+        "endLine": 4
+      },
+      "evidenceKind": "list",
+      "blockImportance": 58,
+      "evidenceWeight": 28,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776769896097: Brainstorm Failed",
+        "🌌 Evolution Cross-Pollination"
+      ],
+      "sourceId": "insight-brainstorm-failed-1776769896097.md",
+      "sourceTitle": "Insight Brainstorm Failed 1776769896097",
+      "sourcePath": "data/raw/insight-brainstorm-failed-1776769896097.md",
+      "sourceQuality": 50
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 57,
+    "averageSourceQuality": 54.67
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

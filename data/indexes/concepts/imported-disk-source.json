@@ -1,0 +1,78 @@
+{
+  "slug": "imported-disk-source",
+  "label": "Imported Disk Source",
+  "kinds": [
+    "source-title"
+  ],
+  "sourceTitles": [
+    "Imported Disk Source"
+  ],
+  "sourceIds": [
+    "imported-disk-source.md"
+  ],
+  "sourcePaths": [
+    "data/raw/imported-disk-source.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-imported-disk-source.md"
+  ],
+  "sectionHeadings": [
+    "Imported Source",
+    "Knowledge Synthesis"
+  ],
+  "tokens": [
+    "disk",
+    "imported"
+  ],
+  "evidence": [
+    {
+      "text": "This file was imported from disk and should become a parsed source summary after compile.",
+      "sectionHeading": "Knowledge Synthesis",
+      "sectionSlug": "knowledge-synthesis",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 4,
+        "endLine": 4
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 90,
+      "evidenceWeight": 62,
+      "taxonomy": "article.summary",
+      "sectionPath": [
+        "Imported Source",
+        "Knowledge Synthesis"
+      ],
+      "sourceId": "imported-disk-source.md",
+      "sourceTitle": "Imported Disk Source",
+      "sourcePath": "data/raw/imported-disk-source.md",
+      "sourceQuality": 68
+    },
+    {
+      "text": "Imported Source",
+      "sectionHeading": "Imported Source",
+      "sectionSlug": "imported-source",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 1,
+        "endLine": 1
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Imported Source"
+      ],
+      "sourceId": "imported-disk-source.md",
+      "sourceTitle": "Imported Disk Source",
+      "sourcePath": "data/raw/imported-disk-source.md",
+      "sourceQuality": 68
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 68,
+    "averageSourceQuality": 68
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:11:58.032Z"
+}

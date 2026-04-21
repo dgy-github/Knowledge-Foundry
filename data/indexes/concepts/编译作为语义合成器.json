@@ -1,0 +1,107 @@
+{
+  "slug": "编译作为语义合成器",
+  "label": "编译作为语义合成器",
+  "kinds": [
+    "keyword",
+    "wikilink"
+  ],
+  "sourceTitles": [
+    "Insight 语义编译 超越格式的知识重塑 1776769497132",
+    "Insight 超越语法 知识合成的直接语义编译 1776770083886"
+  ],
+  "sourceIds": [
+    "insight-语义编译-超越格式的知识重塑-1776769497132.md",
+    "insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md",
+    "data/raw/insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-语义编译-超越格式的知识重塑-1776769497132.md",
+    "data/wiki/source-insight-超越语法-知识合成的直接语义编译-1776770083886.md"
+  ],
+  "sectionHeadings": [
+    "意外发现：编译作为语义合成器",
+    "结论",
+    "🌌 Evolution Cross-Pollination"
+  ],
+  "tokens": [
+    "编译作为语义合成器"
+  ],
+  "evidence": [
+    {
+      "text": "意外发现：编译作为语义合成器",
+      "sectionHeading": "意外发现：编译作为语义合成器",
+      "sectionSlug": "意外发现-编译作为语义合成器",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 19,
+        "endLine": 19
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "语义编译：从磁盘数据到智慧摘要的智能跃迁",
+        "意外发现：编译作为语义合成器"
+      ],
+      "sourceId": "insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceTitle": "Insight 语义编译 超越格式的知识重塑 1776769497132",
+      "sourcePath": "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceQuality": 59
+    },
+    {
+      "text": "真正的智慧不在于格式的完美，而在于意义的连通。通过采纳‘编译作为语义合成器’的思维，我们可以在不需要Markdown解析器介入的情况下，直接将原始经验案例‘编译’为深刻的洞察。",
+      "sectionHeading": "结论",
+      "sectionSlug": "结论",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 31,
+        "endLine": 31
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770083886: 超越语法：知识合成的直接语义编译",
+        "语义优先：从Markdown解析到直接编译",
+        "结论"
+      ],
+      "sourceId": "insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceTitle": "Insight 超越语法 知识合成的直接语义编译 1776770083886",
+      "sourcePath": "data/raw/insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceQuality": 57
+    },
+    {
+      "text": "**B**: [[编译作为语义合成器]]",
+      "sectionHeading": "🌌 Evolution Cross-Pollination",
+      "sectionSlug": "evolution-cross-pollination",
+      "quoteSpan": {
+        "kind": "block:list",
+        "startLine": 5,
+        "endLine": 5
+      },
+      "evidenceKind": "list",
+      "blockImportance": 58,
+      "evidenceWeight": 28,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776770083886: 超越语法：知识合成的直接语义编译",
+        "🌌 Evolution Cross-Pollination"
+      ],
+      "sourceId": "insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceTitle": "Insight 超越语法 知识合成的直接语义编译 1776770083886",
+      "sourcePath": "data/raw/insight-超越语法-知识合成的直接语义编译-1776770083886.md",
+      "sourceQuality": 57
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 57.67
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

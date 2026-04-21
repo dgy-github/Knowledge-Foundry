@@ -1,0 +1,54 @@
+{
+  "slug": "1776769521489",
+  "label": "1776769521489",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 原生语义磁盘 超越解析的综合机制 1776769521489"
+  ],
+  "sourceIds": [
+    "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-原生语义磁盘-超越解析的综合机制-1776769521489.md"
+  ],
+  "sectionHeadings": [
+    "Insight 1776769521489: 原生语义磁盘：超越解析的综合机制"
+  ],
+  "tokens": [
+    "1776769521489"
+  ],
+  "evidence": [
+    {
+      "text": "Insight 1776769521489: 原生语义磁盘：超越解析的综合机制",
+      "sectionHeading": "Insight 1776769521489: 原生语义磁盘：超越解析的综合机制",
+      "sectionSlug": "insight-1776769521489-原生语义磁盘-超越解析的综合机制",
+      "quoteSpan": {
+        "kind": "block:heading",
+        "startLine": 1,
+        "endLine": 1
+      },
+      "evidenceKind": "heading",
+      "blockImportance": 76,
+      "evidenceWeight": 26,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "Insight 1776769521489: 原生语义磁盘：超越解析的综合机制"
+      ],
+      "sourceId": "insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceTitle": "Insight 原生语义磁盘 超越解析的综合机制 1776769521489",
+      "sourcePath": "data/raw/insight-原生语义磁盘-超越解析的综合机制-1776769521489.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

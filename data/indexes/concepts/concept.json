@@ -1,0 +1,55 @@
+{
+  "slug": "concept",
+  "label": "Concept",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Synthesis Notes"
+  ],
+  "sourceIds": [
+    "synthesis-notes.md"
+  ],
+  "sourcePaths": [
+    "data/raw/synthesis-notes.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-synthesis-notes.md"
+  ],
+  "sectionHeadings": [
+    "Evidence"
+  ],
+  "tokens": [
+    "concept"
+  ],
+  "evidence": [
+    {
+      "text": "Reusable quote spans make concept pages more stable.",
+      "sectionHeading": "Evidence",
+      "sectionSlug": "evidence",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 10,
+        "endLine": 10
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 90,
+      "evidenceWeight": 44,
+      "taxonomy": "article.evidence",
+      "sectionPath": [
+        "Synthesis Notes",
+        "Evidence"
+      ],
+      "sourceId": "synthesis-notes.md",
+      "sourceTitle": "Synthesis Notes",
+      "sourcePath": "data/raw/synthesis-notes.md",
+      "sourceQuality": 57
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 57,
+    "averageSourceQuality": 57
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

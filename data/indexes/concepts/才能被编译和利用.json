@@ -1,0 +1,55 @@
+{
+  "slug": "才能被编译和利用",
+  "label": "才能被编译和利用",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "Insight 语义编译 超越格式的知识重塑 1776769497132"
+  ],
+  "sourceIds": [
+    "insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "sourcePaths": [
+    "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-insight-语义编译-超越格式的知识重塑-1776769497132.md"
+  ],
+  "sectionHeadings": [
+    "传统的编译困境"
+  ],
+  "tokens": [
+    "才能被编译和利用"
+  ],
+  "evidence": [
+    {
+      "text": "这导致了核心冲突：如果我们强制要求所有输入都必须符合特定的格式（如Markdown）才能被编译和利用，那么我们实际上是在用语法的枷锁限制语义的自由流动。",
+      "sectionHeading": "传统的编译困境",
+      "sectionSlug": "传统的编译困境",
+      "quoteSpan": {
+        "kind": "block:paragraph",
+        "startLine": 17,
+        "endLine": 17
+      },
+      "evidenceKind": "paragraph",
+      "blockImportance": 72,
+      "evidenceWeight": 34,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "语义编译：从磁盘数据到智慧摘要的智能跃迁",
+        "传统的编译困境"
+      ],
+      "sourceId": "insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceTitle": "Insight 语义编译 超越格式的知识重塑 1776769497132",
+      "sourcePath": "data/raw/insight-语义编译-超越格式的知识重塑-1776769497132.md",
+      "sourceQuality": 59
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 59,
+    "averageSourceQuality": 59
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "reconcile-1776769409172",
+  "type": "reconcile",
+  "status": "completed",
+  "createdAt": "2026-04-21T11:03:29.172Z",
+  "payload": {},
+  "reconciledCount": 3,
+  "artifactPath": "data/wiki"
+}

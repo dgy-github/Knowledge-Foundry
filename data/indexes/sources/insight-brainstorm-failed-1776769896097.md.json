@@ -1,0 +1,51 @@
+{
+  "id": "insight-brainstorm-failed-1776769896097.md",
+  "title": "Insight Brainstorm Failed 1776769896097",
+  "sourceType": "markdown",
+  "path": "data/raw/insight-brainstorm-failed-1776769896097.md",
+  "tags": [],
+  "ingestedAt": "2026-04-21T11:11:36.098Z",
+  "importMode": "file",
+  "originalPath": "data/raw/insight-brainstorm-failed-1776769896097.md",
+  "parsedPath": "data/indexes/parsed/insight-brainstorm-failed-1776769896097.md.json",
+  "parsedBlocksPath": "data/indexes/parsed-blocks/insight-brainstorm-failed-1776769896097.md.json",
+  "summaryPath": "data/wiki/source-insight-brainstorm-failed-1776769896097.md",
+  "conceptSlugs": [
+    "insight-brainstorm-failed-1776769896097",
+    "insight-1776769896097-brainstorm-failed",
+    "markdown",
+    "evolution-cross-pollination",
+    "core-insight",
+    "elaboration",
+    "markdown-parse",
+    "1776769896097",
+    "brainstorm",
+    "core",
+    "cross-pollination",
+    "error",
+    "evolution",
+    "failed"
+  ],
+  "compileStats": {
+    "lineCount": 11,
+    "wordCount": 25,
+    "sectionCount": 3,
+    "bulletCount": 2,
+    "paragraphCount": 3,
+    "conceptCount": 14
+  },
+  "qualityScore": 50,
+  "qualityBreakdown": {
+    "contentDepth": 18,
+    "structureQuality": 94,
+    "sourceAuthority": 85,
+    "freshness": 50,
+    "evidenceDensity": 46,
+    "repoSignal": 20,
+    "noisePenalty": 18,
+    "totalScore": 50
+  },
+  "sourceSummary": "# Insight 1776769896097: Brainstorm Failed  ## 🌌 Evolution Cross-Pollination - **A**: [[Markdown Parse]] - **B**: [[Elaboration]] ",
+  "contentHash": "d505162cf32eb5213c20fc5735446e4a276abadb",
+  "compiledAt": "2026-04-21T11:31:33.151Z"
+}

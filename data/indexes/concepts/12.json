@@ -1,0 +1,78 @@
+{
+  "slug": "12",
+  "label": "12",
+  "kinds": [
+    "keyword"
+  ],
+  "sourceTitles": [
+    "500_AI_Agents_Projects_README_仓库实勘报告.md"
+  ],
+  "sourceIds": [
+    "500-ai-agents-projects-readme-仓库实勘报告-md.md"
+  ],
+  "sourcePaths": [
+    "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md"
+  ],
+  "summaryPaths": [
+    "data/wiki/source-500-ai-agents-projects-readme-仓库实勘报告-md.md"
+  ],
+  "sectionHeadings": [
+    "仓库分层图",
+    "第二组重点仓库封面墙"
+  ],
+  "tokens": [
+    "12"
+  ],
+  "evidence": [
+    {
+      "text": "[`Hoanganhvu123/ShoppingGPT`](https://github.com/Hoanganhvu123/ShoppingGPT) 电商导购、个性化购物 值得看",
+      "sectionHeading": "第二组重点仓库封面墙",
+      "sectionSlug": "第二组重点仓库封面墙",
+      "quoteSpan": {
+        "kind": "block:table",
+        "startLine": 79,
+        "endLine": 79
+      },
+      "evidenceKind": "table",
+      "blockImportance": 58,
+      "evidenceWeight": 40,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "第二组重点仓库封面墙"
+      ],
+      "sourceId": "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceTitle": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sourcePath": "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceQuality": 77
+    },
+    {
+      "text": "flowchart LR\n    A[\"26 个唯一仓库\"] --> B[\"实战 / 框架 12\"]\n    A --> C[\"教程 / 样例 7\"]\n    A --> D[\"轻量 Demo 5\"]\n    A --> E[\"目录仓 1\"]\n    A --> F[\"坏链 1\"]",
+      "sectionHeading": "仓库分层图",
+      "sectionSlug": "仓库分层图",
+      "quoteSpan": {
+        "kind": "block:code",
+        "startLine": 19,
+        "endLine": 26
+      },
+      "evidenceKind": "code",
+      "blockImportance": 48,
+      "evidenceWeight": 18,
+      "taxonomy": "article.body",
+      "sectionPath": [
+        "500 AI Agents Projects 仓库三列表",
+        "仓库分层图"
+      ],
+      "sourceId": "500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceTitle": "500_AI_Agents_Projects_README_仓库实勘报告.md",
+      "sourcePath": "data/raw/500-ai-agents-projects-readme-仓库实勘报告-md.md",
+      "sourceQuality": 77
+    }
+  ],
+  "qualitySummary": {
+    "maxSourceQuality": 77,
+    "averageSourceQuality": 77
+  },
+  "contradictions": [],
+  "synthesizedAt": "2026-04-21T11:31:33.151Z"
+}
